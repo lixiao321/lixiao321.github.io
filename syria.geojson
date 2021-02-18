@@ -1,459 +1,192 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.039882,
-          38.898321
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.038193,
-          38.901345
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Blackfin",
-        "address": "1620 I St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03195,
-          38.907826
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Churchkey",
-        "address": "1337 14th St NW",
-        "note": "Ask the bartender for the password"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018728,
-          38.902708
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "1025 5th St NW, Washington DC, 20001"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.047745,
-          38.909637
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "SoHo Cafe",
-        "address": "2150 P St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018627,
-          38.899924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Chinatown Coffee Company",
-        "address": "475 H St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04345,
-          38.905342
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Science Club",
-        "address": "1136 19th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.027744,
-          38.929675
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Wonderland Ballroom",
-        "address": "  1101 Kenyon St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031888,
-          38.930366
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Sticky Fingers Bakery",
-        "address": "1370 Park Rd NW, Washington, DC 20010"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.940028,
-          38.954998
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "5331 Baltimore Ave, Hyattsville, MD 20781"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031863,
-          38.917992
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "2021 14th St NW, Washington, DC 20009"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.042438,
-          38.921894
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Tryst",
-        "address": "2459 18th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.09089599999999,
-          38.88924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Arlington Pub at Whole Foods Market",
-        "address": "2700 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1080128,
-          38.8801218
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "818 N Quincy St, Arlington, VA 22203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.097225,
-          38.8859
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Northside Social",
-        "address": "3211 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1080128,
-          38.8801218
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "818 N Quincy St, Arlington, VA 22203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0866120204082,
-          38.8627485306122
-          ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Twisted Vines Bottleshop & Bistro",
-        "address": "2803 Columbia Pike, Arlington, VA 22204"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.089559,
-          38.841205
-          ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "4251 Campbell Ave, Arlington, VA 22206"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.045067,
-          38.821598
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "901 Slaters Lane, Alexandria, VA 22314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.012659,
-          38.915561
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Boundary Stone Public House",
-        "address": "116 Rhode Island Ave NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Bistro Bohem",
-        "address": "600 Florida Ave Nw"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.02017903327942,
-          38.91535424264446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.011702,
-          38.915533
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Rustik Neighborhood Tavern",
-        "address": "84 T St. NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Old Ebbitt",
-        "address": "675 15th St NW",
-        "note": "Ask the bartender for the WiFi password"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.033644,
-          38.898077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "BlackJack",
-        "address": "1612 14th St NW",
-        "note": "WiFi password is blackjack"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031950,
-          38.911532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0276460,
-          38.9007690
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Capitol City Brewing Company",
-        "address": "1100 New York Ave NW",
-        "note": "Ask the bartender for the password"
-      }
-    },
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.036554,
-          38.900201
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Off The Record",
-        "address": "800 16th St NW"
-      }
-    },
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.071309,
-          38.919986
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "breadsoda",
-        "address": "2233 Wisconsin Ave NW"
-      }
-    },
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.042084,
-          38.906459
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "St. Arnold's on Jefferson",
-        "address": "1827 Jefferson Pl NW"
-      }
-    },
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.028620,
-          38.931821
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Meridian Pint",
-        "address": "3400 11th St NW"
-      }
-    },
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.070275,
-          38.906094
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "The Tombs",
-        "address": "1226 36th St NW"
-      }
-    }
-  ]
-}
+            type: "FeatureCollection",
+            features: [
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Grand Mosque</strong><p>Al Jazeera reported that on August 28, 2011, security forces bombarded the minaret of the Grand Mosque in Abu Kamal. <br><br><strong>Date: August 28, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [40.920403, 34.4533929]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Khaled bin Walid Mosque</strong><p>Trend News Agency reported that on Wednesday August 7, 2011 Syrian security forces swept through Homs and fired at the Khaled bin Walid Mosque. Six people were killed in the attacks. <br><br><strong>Date: August 31, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.71564755, 34.73660195]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Tawhid Mosque</strong><p>Xinhua News Agency reported that on September 30, 2011 an explosive device planted by a mosque in Douma was dismantled. Three explosive experts were killed during the process.<br><br><strong>Date: September 30, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.3919504, 33.5647901]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Statue of President Hafez al-Assad</strong><p>Pretoria News reported that on October 10, 2011, protestors tore down a statue of Hafez Assad in Qamlishi. Protestors were primarily Kurdish. Hafez Assad is the late father of Bashar al-Assad.<br><br><strong>Date: October 8, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [41.2226544, 37.052209]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>The Omari Mosque</strong><p>BBC Monitoring Middle East reported that on October 15, 2011 armed terrorist groups planted three explosive devices intended to cause damage to Al Omari mosque in Daraa.<br><br><strong>Date: October 15, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.1009302, 32.6123399]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Khalid Ibn al-Walid mosque and mausoleum</strong><p>BBC Monitoring Middle East reported that on November 16, 2011 Shabiha pro-government gunmen allegedly shelled the Khaled Bin al-Walid Mosque in Homs. According to the Syrian Observatory for Human Rights, about 50 people were killed.<br><br><strong>Date: December 15, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.71564755, 34.73660195]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Grand Mosque of Douma</strong><p>BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Grand Mosque of Douma. The Grand Mosque of Douma is one of the largest mosques in the suburbs of Damascus. It was first built in 1136 and rebuilt in 1983.<br><br><strong>Date: December 9, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.4008424, 33.5714466]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Hassiba Mosque</strong><p>BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Hasibeh Mosque.<br><br><strong>Date: December 9, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.4026455, 33.5720143]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Al-Rawda Mosque</strong><p>BBC Monitoring Middle East reported that on December 30, 2011 an armed terrorist group detonated an explosive near al-Rawda mosque in Dayr al Zawr causing no casualties.<br><br><strong>Date: December 30, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.286815, 33.438414]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Abdul Rahman Bin Auf mosque</strong><p>BBC Monitoring Middle East reported that on December 30, 2011 gunmen planted two explosives planted near Abdul Rahman Bin Auf Mosque in Hama. They were dismantled by engineering units before causing any damage or casualties.<br><br><strong>Date: December 30, 2011</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.775156, 35.145195]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Baba Amr Mosque</strong><p>Trend News Agency (Azerbaijan) reported that on January 17, 2012, Syrian security forces shelled a mosque in the area of Baba Amr, killing eight and wounding five.<br><br><strong>Start Date: January 17, 2012 </strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.688009, 34.712456]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Mosque of Abdul Rahman bin Auf</strong><p>BBC Monitoring Middle East reported that on January 18, 2012, army and security forces targeted a minaret of the Abd al-Rahman Bin-Awf Mosque in Homs. The Mosque was named for one of the companions of prophet Muhammad.<br><br><strong>Date: January 1-January 18, 2012</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.7176405, 34.7220868]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Convent of Our Lady of Sednaya</strong><p> BBC Monitoring Middle East reported that on February 1, 2012, terrorists fired shells at the archaeological Convent of the Lady of Saydnaya in Damascus countryside. Our Lady of Saydnaya Patriarchal Monastery is a Greek Orthodox Monastery thatis one of the most ancient monasteries in the world, and was founded by Byzantine emperor Justinian I in 547 AD.<br><br><strong>Date: January 29, 2012</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.374976, 33.699442]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Palmyra</strong><p>Agence France Presse Reported that since early February 2012, the Syrian army has been laying siege to the ancient city of Palmyra. The ancient city of Palmyra is a UNESCO World Heritage Site that was prominent in the Roman Period.<br><br><strong>Date: March 15, 2011-February 19, 2012</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [38.291879, 34.571346]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Palmyra</strong><p>BBC Monitoring Newsfile reported that on February 10, 2012, authorities raided farms south of Palmyra City in the Homs countryside and found 16 stolen archaeological pieces.Agence France Presse Reported that since early February 2012, the Syrian army has been laying siege to the ancient city of Palmyra. The ancient city of Palmyra is a UNESCO World Heritage Site that was prominent in the Roman Period.<br><br><strong>Date: March 15, 2011-February 19, 2012</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [38.291879, 34.571346]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>Baba Amr Mosque</strong><p>Trend News Agency (Azerbaijan) reported that on January 17, 2012, Syrian security forces shelled a mosque in the area of Baba Amr, killing eight and wounding five. Trend News Agency (Azerbaijan) reported that on February 21, 2012, government troops shelled the Baba Amr Mosque.The Syrian Observatory for Human Rights reported that several people were killed in the incident.<br><br><strong>Date: February 17, 2012 and February 21, 2012</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.688009, 34.712456]
+                }
+              },
+              {
+                type: "Feature",
+                properties: {
+                  description:
+                    "<strong>The Omari Mosque</strong><p>Cape Times reported that around March 8, 2012, the Syrian army shelled the al-Omari mosque in Homs. This shelling came after the mosque had been used to broadcast news about the uprising. This mosque had been converted from a Roman temple that was more than 2,000 years old.<br><br><strong>Date: March 7, 2012</strong></p>"
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [36.1009302, 32.6123399]
+                }
+              }
+            ]
+          }
