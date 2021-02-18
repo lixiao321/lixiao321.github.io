@@ -11,9 +11,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
+       "description":
+       "<strong>Grand Mosque</strong><p>Al Jazeera reported that on August 28, 2011, security forces bombarded the minaret</p>
       }
     },
     {
