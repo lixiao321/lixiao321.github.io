@@ -13,7 +13,8 @@
       "properties": {
         "marker-symbol": "bar",
         "name": "The Exchange",
-        "address": "1719 G St NW"
+        "address": "1719 G St NW",
+        "description": "Al Jazeera reported that on August 28, 2011"
       }
     }
   ]
