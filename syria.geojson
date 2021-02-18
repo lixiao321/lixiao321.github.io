@@ -1,21 +1,226 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.039882,
-          38.898321
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW",
-        "description": "Al Jazeera reported that on August 28, 2011"
-      }
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.920403,34.4533929 ]
+    },
+    "properties": {
+    "startdate":"2011_08_28",
+    "enddate":"2011_08_28",
+    "place name":"Grand Mosque",
+    "description":"Al Jazeera reported that on August 28, 2011, security forces bombarded the minaret of the Grand Mosque in Abu Kamal. "
     }
-  ]
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.71564755,34.73660195 ]
+    },
+    "properties": {
+    "startdate":"2011_08_31",
+    "enddate":"2011_08_31",
+    "place name":"Homs Mosque",
+    "description":"Trend News Agency reported that on Wednesday August 7, 2011 Syrian security forces swept through Homs and fired at the Khaled bin Walid mosque. Six people have been killed in the attacks."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3919504,33.5647901 ]
+    },
+    "properties": {
+    "startdate":"2011_09_30",
+    "enddate":"2011_09_30",
+    "place name":"Tawhid Mosque",
+    "description":"Xinhua News Agency reported that on September 30, 2011 an explosive device was dismantled by a mosque in Douma, a suburb of Damascus. Three explosive experts were killed during the process."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2226544,37.052209 ]
+    },
+    "properties": {
+    "startdate":"2011_10_08",
+    "enddate":"2011_10_08",
+    "place name":"Statue of President Hafez al-Assad",
+    "description":"Pretoria News reported that on October 10, 2011, protestors tore down a statue of Hafez Assad in Qamlishi. Protestors were primarily Kurdish and Hafez is the late father of Bashar al-Assad."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1009302,32.6123399 ]
+    },
+    "properties": {
+    "startdate":"2011_10_15",
+    "enddate":"2011_10_15",
+    "place name":"The Omari Mosque",
+    "description":"BBC Monitoring Middle East reported that on October 15, 2011 armed terrorist groups planted three explosive devices intended to cause damage to Al Omari mosque in Daraa."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.71564755,34.73660195 ]
+    },
+    "properties": {
+    "startdate":"2011_12_05",
+    "enddate":"2011_12_05",
+    "place name":"Khalid Ibn al-Walid mosque and mausoleum, Homs",
+    "description":"BBC Monitoring Middle East reported that on November 16, 2011 Shabiha pro-government gunmen allegedly shelled the Khaled Bin al-Walid Mosque in Homs. According to the Syrian Observatory for Human Rights said about 50 people were killed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4008424,33.5714466 ]
+    },
+    "properties": {
+    "startdate":"2011_12_09",
+    "enddate":"2011_12_09",
+    "place name":"Grand Mosque of Douma",
+    "description":"BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Grand Mosque of Douma."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4026455,33.5720143 ]
+    },
+    "properties": {
+    "startdate":"2011_12_09",
+    "enddate":"2011_12_09",
+    "place name":"Hassiba Mosque",
+    "description":"BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Hasibeh Mosque."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7908998,35.5181203 ]
+    },
+    "properties": {
+    "startdate":"2011_12_30",
+    "enddate":"2011_12_30",
+    "place name":"Al-Rawda Mosque",
+    "description":"BBC Monitoring Middle East reported that on December 30, 2011 an armed terrorist group detonated an explosive near al-Rawda mosque in Dayr al Zawr causing no casualties."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.775156,35.145195 ]
+    },
+    "properties": {
+    "startdate":"2011_12_30",
+    "enddate":"2011_12_30",
+    "place name":"Abdul Rahman Bin Auf mosque, Hama",
+    "description":"BBC Monitoring Middle East reported that on December 30, 2011 gunmen planted two explosives planted near Abdul Rahman Bin Auf Mosque in Hama. They were dismantled by engineering units before causing any damage or casualties."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.688009,34.712456 ]
+    },
+    "properties": {
+    "startdate":"2012_01_17",
+    "enddate":"2012_01_17",
+    "place name":"Baba Amr Mosque",
+    "description":"Trend News Agency (Azerbaijan) reported that on January 17, 2012 Syrian security forces shelled a mosque in the area of Baba Amr, killing eight and wounding five."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7176405,34.7220868 ]
+    },
+    "properties": {
+    "startdate":"2012_01_01",
+    "enddate":"2012_01_18",
+    "place name":"Mosque of Abdul Rahman bin Auf",
+    "description":"BBC Monitoring Middle East reported that on January 18, 2012 army and security forces targeted a minaret of the Abd al-Rahman Bin-Awf Mosque in Hims."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.374976,33.699442 ]
+    },
+    "properties": {
+    "startdate":"2012_01_29",
+    "enddate":"2012_01_29",
+    "place name":"Convent of Our Lady of Sednaya",
+    "description":"BBC Monitoring Middle East reported that on February 1, 2012 terrorists fired shells at the archaeological Convent of the Lady of Saydnaya in Damascus countryside."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.2610033,34.5518511 ]
+    },
+    "properties": {
+    "startdate":"2011_03_15",
+    "enddate":"2012_02_10",
+    "place name":"Palmyra",
+    "description":"BBC Monitoring Newsfile reported that on February 10, 2012 authorities raided farms south of Palmyra City in the Homs countryside and found 16 stolen archaeological pieces."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.2610033,34.5518511 ]
+    },
+    "properties": {
+    "startdate":"2012_02_04",
+    "enddate":"2012_02_19",
+    "place name":"Palmyra",
+    "description":"Agence France Presse Reported that since early February 2012 the Syrian army has been laying siege to the ancient city of Palmyra."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.691111,34.710833 ]
+    },
+    "properties": {
+    "startdate":"2012_02_21",
+    "enddate":"2012_02_21",
+    "place name":"Baba Amr Mosque",
+    "description":"Trend News Agency (Azerbaijan) reported that on February 21, 2012 government troops shelled the Baba Amr mosque. The Syrian Observatory for Human Rights said sever people have been killed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1009302,32.6123399 ]
+    },
+    "properties": {
+    "startdate":"2012_03_07",
+    "enddate":"2012_03_07",
+    "place name":"The Omari Mosque",
+    "description":"Cape Times reported that around March 8, 2012 the Syrian army shelled the al-Omari mosque in Homs. This shelling came after the mosque had been used to broadcast news about the uprising. This mosque had been converted from a Roman temple that was more than 2,000 years old."
+    }
+  }
+]
 }
