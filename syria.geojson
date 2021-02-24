@@ -1749,7 +1749,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.7299785,34.7299785 ]
+       "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
     "sitename":"church, Homs",
@@ -2533,7 +2533,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.3279704,33.5592387 ]
     },
     "properties": {
     "sitename":"Al-Mahasinah Mosque",
