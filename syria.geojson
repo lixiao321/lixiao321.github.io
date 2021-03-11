@@ -9,12 +9,12 @@
     },
     "properties": {
     "sitename":"Byzantine village ",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Associated Press Newswires reported on August 24, 1998, farmers in northern Syria moved into ancient Byzantine villages. These farmers used centuries old stones and standing walls to create shelters, causing concern among archaeologists.",
     "date1":"Date: ",
-    "date":"August 24, 1998"
+    "date":"August 24, 1998",
+    "date_start":"1998_08_24",
+    "date_end":"1998_08_24",
+    "chsl_id":"CHSLSYR2366"
     }
   },
   {
@@ -25,12 +25,12 @@
     },
     "properties": {
     "sitename":"Statue of Hafez Al-Assad",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Asian News International reported on March 2, 2011, pro-democracy campaigners set fire to a bronze statue of former president Hafez Assad in Damascus. This was part of the 'Jasmine Revolution,' which included anti-Assad regime protests across Syria. Hafez Al-Assad is the father of current Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
-    "date":"March 2, 2011"
+    "date":"March 2, 2011",
+    "date_start":"2011_03_02",
+    "date_end":"2011_03_02",
+    "chsl_id":"CHSLSYR2377"
     }
   },
   {
@@ -41,12 +41,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that on March 20, 2011, the Omari Mosque in Deraa had been converted into a make-shift field hospital for casualties. One person was killed and over 100 were injured on March 20th, the third day of consecutive protests in Deraa. The Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"March 20, 2011"
+    "date":"March 20, 2011",
+    "date_start":"2011_03_20",
+    "date_end":"2011_03_20",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -57,12 +57,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Australian Broadcasting Corporation reported that on March 23, 2011, Syrian security forces stormed the Omari Mosque in Deraa, throwing bombs and using both live ammunition and tear gas on sleeping protestors inside. At least 10 were killed, and dozens were injured. The Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"March 23, 2011"
+    "date":"March 23, 2011",
+    "date_start":"2011_03_23",
+    "date_end":"2011_03_23",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -73,12 +73,12 @@
     },
     "properties": {
     "sitename":"Statue of Hafez al Assad",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"A still taken from an amateur video circulated online on March 26, 2011, showed that a statue of late Syrian President Hafez Al-Assad was torn down and burnt during protests in Daraa. Hafez Al-Assad is the father of current Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
-    "date":"March 26, 2011"
+    "date":"March 26, 2011",
+    "date_start":"2011_03_26",
+    "date_end":"2011_03_26",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -89,12 +89,12 @@
     },
     "properties": {
     "sitename":"Grand Mosque of Douma",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Associated Press Newswires reported on April 3, 2011, that Syrian security forces threw stones and fired tear gas and live ammunition at protestors outside the Grand Mosque of Douma. This was around 3 weeks after anti-Assad regime protests began in Syria.",
     "date1":"Date: ",
-    "date":"April 1, 2011"
+    "date":"April 1, 2011",
+    "date_start":"2011_04_01",
+    "date_end":"2011_04_01",
+    "chsl_id":"CHSLSYR1174"
     }
   },
   {
@@ -105,12 +105,12 @@
     },
     "properties": {
     "sitename":"Mosque of Abd Al Kareem Rifaii",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Ottawa Citizen reported that on April 1, 2011, police barricaded demonstrators in the Al-Rifai Mosque in Damascas and tear-gassed them. This was one of the anti-government protests that took place in several major cities across Syria on April 1st.",
     "date1":"Date: ",
-    "date":"April 1, 2011"
+    "date":"April 1, 2011",
+    "date_start":"2011_04_01",
+    "date_end":"2011_04_01",
+    "chsl_id":"CHSLSYR0021"
     }
   },
   {
@@ -121,12 +121,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC reported that on April 8, 2011, Syrian security forces attacked the Omari Mosque in Deraa, firing live ammunition and an internationally prohibited gas to disperse protesters. Over 10 protestors were killed, and state television claimed that 19 policeman had also been killed by \"armed forces.\" Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"April 8, 2011"
+    "date":"April 8, 2011",
+    "date_start":"2011_04_08",
+    "date_end":"2011_04_08",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -137,12 +137,12 @@
     },
     "properties": {
     "sitename":"Sheikh Abd El Aziz Ba Zeid",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC reported that on April 8, 2011, Syrian security forces attacked the Shaykh Abd-al-Aziz Abazid Mosque in Deraa, firing live ammunition and an internationally prohibited gas to disperse protesters. Over 10 protestors were killed, and state television claimed that 19 policeman had also been killed by \"armed forces.\"",
     "date1":"Date: ",
-    "date":"April 8, 2 011"
+    "date":"April 8, 2 011",
+    "date_start":"2011_04_08",
+    "date_end":"2011_04_08",
+    "chsl_id":"CHSLSYR0702"
     }
   },
   {
@@ -153,12 +153,12 @@
     },
     "properties": {
     "sitename":"statue of Basil al-Assad",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters reported that on April 8, 2011, pro-democracy protesters in Deraa smashed a stone statue of Basil al-Assad. This was a monument to President Bashar al-Assad's late brother.",
     "date1":"Date: ",
-    "date":"April  8, 2 011"
+    "date":"April  8, 2 011",
+    "date_start":"2011_04_08",
+    "date_end":"2011_04_08",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -169,12 +169,12 @@
     },
     "properties": {
     "sitename":"Abu Bakr al-Siddiq mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters reported that on April 10, 2011, Assad loyalists known as \"shabbiha\" fired at a group of people guarding the Abu-Bakr al-Siddiq mosque in Banias. Five people were shot, one of whom died of his wounds on April 16, 2011.",
     "date1":"Date: ",
-    "date":"April 10, 2011"
+    "date":"April 10, 2011",
+    "date_start":"2011_04_10",
+    "date_end":"2011_04_10",
+    "chsl_id":"CHSLSYR2378"
     }
   },
   {
@@ -185,12 +185,12 @@
     },
     "properties": {
     "sitename":"Al-Rahman mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that on April 10, 2011, Syrian security forces fired at the Al-Rahman mosque in the Sunni neighborhood of Ras al-Nabee. 3-4 people were killed, and over a dozen others wounded.",
     "date1":"Date: ",
-    "date":"April 10, 2011"
+    "date":"April 10, 2011",
+    "date_start":"2011_04_10",
+    "date_end":"2011_04_10",
+    "chsl_id":"CHSLSYR2365"
     }
   },
   {
@@ -201,12 +201,12 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid mosque and mausoleum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring reported that on April 19, 2011, saboteurs seeking to use the loudspeakers to spread a call for sedition attacked the Khaled bin al-Walid mosque in Homs. They broke the window of the ablution room, the door of the minaret, and the main door to the mosque nave. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
-    "date":"April 19, 2011"
+    "date":"April 19, 2011",
+    "date_start":"2011_04_19",
+    "date_end":"2011_04_19",
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -217,12 +217,12 @@
     },
     "properties": {
     "sitename":"mosque, Izra'",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that on April 22, 2011, Syrian security forces shot the speakers of a mosque in Izra, as protestors attempted to use the speakers to call for help. Izra was under siege by the Syrian government for 48 hours due to anti-government protests.",
     "date1":"Date: ",
-    "date":"April 24, 2011"
+    "date":"April 24, 2011",
+    "date_start":"2011_04_24",
+    "date_end":"2011_04_24",
+    "chsl_id":"CHSLSYR2402"
     }
   },
   {
@@ -233,12 +233,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters reported that on April 25, 2011, Syrian security forces occupied the Omari Mosque in Deraa with tanks and soldiers. This was part of a military effort to quell pro-democracy protest, and 18 people were killed by gunfire and shelling. The Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"April 25, 2011"
+    "date":"April 25, 2011",
+    "date_start":"2011_04_25",
+    "date_end":"2011_04_25",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -249,12 +249,12 @@
     },
     "properties": {
     "sitename":"mosque, Daraa",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters reported that on April 25, 2011, Syrian security forces occupied several mosques in Deraa with tanks and soldiers, blocking protestor access to the minaret speakers. This was part of a military effort to quell pro-democracy protest, and many people were killed by gunfire and shelling.",
     "date1":"Date: ",
-    "date":"April 25, 2011"
+    "date":"April 25, 2011",
+    "date_start":"2011_04_25",
+    "date_end":"2011_04_25",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -265,12 +265,12 @@
     },
     "properties": {
     "sitename":"Sheikh Abd El Aziz Ba Zeid",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters reported that on April 25, 2011, Syrian security forces occupied the Sheikh Abd El Aziz Ba Zeid Mosque in Deraa with tanks and soldiers. This was part of a military effort to quell pro-democracy protest, and 18 people were killed by gunfire and shelling.",
     "date1":"Date: ",
-    "date":"April 25, 2011- April 26, 2011"
+    "date":"April 25, 2011- April 26, 2011",
+    "date_start":"2011_04_25",
+    "date_end":"2011_04_26",
+    "chsl_id":"CHSLSYR0702"
     }
   },
   {
@@ -281,12 +281,12 @@
     },
     "properties": {
     "sitename":"mosque, Douma",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Sydney Morning Herald reported that on April 26, 2011, Syrian security forces surrounded a mosque in Douma, firing indiscriminately. This was part of a recent crackdown on anti-government protestors, which left 135 demonstrators across Syria dead.",
     "date1":"Date: ",
-    "date":"April 25,2011"
+    "date":"April 25,2011",
+    "date_start":"2011_04_25",
+    "date_end":"2011_04_25",
+    "chsl_id":"CHSLSYR2341"
     }
   },
   {
@@ -297,12 +297,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters reported that on April 30, 2011, Syrian forces stormed the Omari Mosque in Deraa and shelled the surrounding neighborhood. The Omari Mosque had been a central location of pro-democracy protests in Deraa. The Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"April 30, 2011"
+    "date":"April 30, 2011",
+    "date_start":"2011_04_30",
+    "date_end":"2011_04_30",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -313,12 +313,12 @@
     },
     "properties": {
     "sitename":"al-Kark mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"China Daily USA reported on March 2, 2011, that Syrian army units exchanged fire with snipers on top of the minaret of al-Kark mosque in Deraa. This was part of a series of attacks by Syrian army units and security forces against \"terrorist armed groups.\"",
     "date1":"Date: ",
-    "date":"March 15, 2011 - May 1, 2011"
+    "date":"March 15, 2011 - May 1, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_05_01",
+    "chsl_id":"CHSLSYR2386"
     }
   },
   {
@@ -329,12 +329,12 @@
     },
     "properties": {
     "sitename":"mosque of Abdullah Bin Abbas",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"China Daily USA reported on March 2, 2011, that the Abdullah Bin Abbas mosque in Deraa had been transformed into a field hospital. This was in response to attacks by Syrian army units and security forces against \"terrorist armed groups.\"",
     "date1":"Date: ",
-    "date":"March 15, 2011 - May 1, 2011"
+    "date":"March 15, 2011 - May 1, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_05_01",
+    "chsl_id":"CHSLSYR2384"
     }
   },
   {
@@ -345,12 +345,12 @@
     },
     "properties": {
     "sitename":"mosque of Abdullah Bin Rawaha",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"China Daily USA reported on March 2, 2011, that the Abdullah Bin Rawaha mosque in Deraa had been transformed into a field hospital. This was in response to attacks by Syrian army units and security forces against \"terrorist armed groups.\"",
     "date1":"Date: ",
-    "date":"March 15, 2011 - May 1, 2011"
+    "date":"March 15, 2011 - May 1, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_05_01",
+    "chsl_id":"CHSLSYR2385"
     }
   },
   {
@@ -361,12 +361,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Wall Street Journal reported that on May 1, 2011, security forces deployed by the Syrian government fired automatic weapons at the Omari Mosque in Deraa. The military operation in Deraa was said to be for the purpose of hunting \"armed terrorist groups.\" The Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"May 1, 2015"
+    "date":"May 1, 2015",
+    "date_start":"2011_05_01",
+    "date_end":"2011_05_01",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -377,12 +377,12 @@
     },
     "properties": {
     "sitename":"Abu-Bakr al-Siddiq Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported on May 11, 2011, that footage had been disseminated on the Internet showing havoc wreaked at the Abu-Bakr al-Siddiq Mosque in Dar'a. This was part of an interview on Syria's security situation, in which instances of damage were summarized.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - May 10, 2011"
+    "date":"March 15, 2011 - May 10, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_05_10",
+    "chsl_id":"CHSLSYR2379"
     }
   },
   {
@@ -393,12 +393,12 @@
     },
     "properties": {
     "sitename":"Hamzah Bin-Abd-al-Mutallib mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported on May 11, 2011, that footage had been disseminated on the Internet showing the Hamzah Bin-Abd-al-Mutallib mosque in Homs with its walls riddled with bullets. This was part of an interview on Syria's security situation, in which instances of damage were summarized.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - May 10, 2011"
+    "date":"March 15, 2011 - May 10, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_05_10",
+    "chsl_id":"CHSLSYR2380"
     }
   },
   {
@@ -409,12 +409,12 @@
     },
     "properties": {
     "sitename":"mosque, Banias",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"NBC News reported that on May 13, 2011, the Syrian army barricaded mosques in Banias with sandbags, and transformed them into military barracks for soldiers. Six protestors were killed as Syrian security forces fired on crowds in several major cities.",
     "date1":"Date: ",
-    "date":"May 13, 2011"
+    "date":"May 13, 2011",
+    "date_start":"2011_05_13",
+    "date_end":"2011_05_13",
+    "chsl_id":"CHSLSYR2365"
     }
   },
   {
@@ -425,12 +425,12 @@
     },
     "properties": {
     "sitename":"mosque, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"TODAY (Singapore) reported that on May 14, 2011, Syrian security forces occupied mosques in Homs to prevent demonstrations. The security forces also opened fire on protestors, killing two.",
     "date1":"Date: ",
-    "date":"May 13, 2011"
+    "date":"May 13, 2011",
+    "date_start":"2011_05_13",
+    "date_end":"2011_05_13",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -441,12 +441,12 @@
     },
     "properties": {
     "sitename":"mosque, Talkalakh",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Associated Press Newswires reported that on May 15, 2011, Syrian security forces, the Syrian Army, and anti-Assad Alawite militias shelled Talkalakh, and three mosques were struck by rocket-propelled grenades. This siege by the Syrian Army was designed to prevent pro-democracy protests the following day.",
     "date1":"Date: ",
-    "date":"May 10, 2011 - May 16, 2011"
+    "date":"May 10, 2011 - May 16, 2011",
+    "date_start":"2011_05_10",
+    "date_end":"2011_05_16",
+    "chsl_id":"CHSLSYR2403"
     }
   },
   {
@@ -457,12 +457,12 @@
     },
     "properties": {
     "sitename":"mosque, Daraa",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"CNN WIRE reported on May 16, 2011, that Syrian security forces had been occupying the city of Deraa and destroying infrastructure for 2-3 weeks. Photos posted on Facebook showed bullet-ridden mosques.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - May 16, 2011"
+    "date":"March 15, 2011 - May 16, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_05_16",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -473,12 +473,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that in late March or April of 2011, soldiers working for the Syrian security forces raided the Omari Mosque in Deraa. This information came from footage obtained by Amnesty International. The Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"May 26, 2011"
+    "date":"May 26, 2011",
+    "date_start":"2011_05_26",
+    "date_end":"2011_05_26",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -489,12 +489,12 @@
     },
     "properties": {
     "sitename":"mosques, Daraa",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"CNN Wire reported that from April 25, 2011, to around May 22, 2011, Syrian security forces occupied all mosques in Deraa and desecrated them with graffiti. Calls to prayer were banned during this time period.",
     "date1":"Date: ",
-    "date":"April 25, 2011- May 22, 2011"
+    "date":"April 25, 2011- May 22, 2011",
+    "date_start":"2011_04_25",
+    "date_end":"2011_05_22",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -505,12 +505,12 @@
     },
     "properties": {
     "sitename":"mosque, Rastan",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported on June 2, 2011, that Syrian troops opened fire on the city of Rastan, bombing a mosque. Rastan and the surrounding cities had their electricity, phone lines, and water supply cut off due to anti-Assad protests.",
     "date1":"Date: ",
-    "date":"June 2, 2011"
+    "date":"June 2, 2011",
+    "date_start":"2011_06_02",
+    "date_end":"2011_06_02",
+    "chsl_id":"CHSLSYR2352"
     }
   },
   {
@@ -521,12 +521,12 @@
     },
     "properties": {
     "sitename":"Al Muhammadi Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC reported that on June 18, 2011, the Syrian army and security forces opened fire on anti-regime protestors outside of the Al-Muhammadi Mosque in Nawa. Nawa had been under siege by the Syrian army since April 23, 2011.",
     "date1":"Date: ",
-    "date":"June 17, 2011"
+    "date":"June 17, 2011",
+    "date_start":"2011_06_17",
+    "date_end":"2011_06_17",
+    "chsl_id":"CHSLSYR2381"
     }
   },
   {
@@ -537,12 +537,12 @@
     },
     "properties": {
     "sitename":"Abdallah Bin-Umar Bin al-Khattab Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC reported that on June 18, 2011, the Syrian army and security forces opened fire on anti-regime protestors outside of the Abdallah Bin-Umar Bin al-Khattab Mosque in Nawa. Nawa had been under siege by the Syrian army since April 23, 2011.",
     "date1":"Date: ",
-    "date":"June 17, 2011"
+    "date":"June 17, 2011",
+    "date_start":"2011_06_17",
+    "date_end":"2011_06_17",
+    "chsl_id":"CHSLSYR2382"
     }
   },
   {
@@ -553,12 +553,12 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid mosque and mausoleum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC reported that on June 18, 2011, the Syrian Army and security forces opened fire on protesters in front of the Khalid Bin al-Qalid Mosque in Homs. Four people were killed and 21 others were wounded. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
-    "date":"June 17, 2011"
+    "date":"June 17, 2011",
+    "date_start":"2011_06_17",
+    "date_end":"2011_06_17",
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -569,12 +569,12 @@
     },
     "properties": {
     "sitename":"mosque, Jisr al-Shughur",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC reported that on June 17th, 2011, the Syrian Military destroyed two mosques in Jisr Al-Shughur. Locals say that soldiers have destroyed two mosques in Jisr al-Shughur and killed around 60 people in the vicinity of Jisr al-Shughur.",
     "date1":"Date: ",
-    "date":"June 17, 2011"
+    "date":"June 17, 2011",
+    "date_start":"2011_06_17",
+    "date_end":"2011_06_17",
+    "chsl_id":"CHSLSYR2345"
     }
   },
   {
@@ -585,12 +585,12 @@
     },
     "properties": {
     "sitename":"mosque, Kisweh",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Radio New Zealand News reported that on June 24th, 2011, Syrian Military shot at a mosque killing 5 people in Kisweh. Human rights activists say five people were shot dead as they left a mosque after Friday prayers in Kisweh, near Damascus.",
     "date1":"Date: ",
-    "date":"June 24, 2011"
+    "date":"June 24, 2011",
+    "date_start":"2011_06_24",
+    "date_end":"2011_06_24",
+    "chsl_id":"CHSLSYR2346"
     }
   },
   {
@@ -601,12 +601,12 @@
     },
     "properties": {
     "sitename":"monasteries, Al Bara",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"CNN reported that on June 30, 2011, the Syrian Military bombarded Byzantine ruins in Al Bara, including monasteries. Al Bara is a part of the \"dead cities,\" a destination for tourists fascinated by fifth-century Byzantine churches, monasteries, and an iconic, fully intact pyramid-shaped burial chamber.",
     "date1":"Date: ",
-    "date":"June 30, 2011"
+    "date":"June 30, 2011",
+    "date_start":"2011_06_30",
+    "date_end":"2011_06_30",
+    "chsl_id":"CHSLSYR2322"
     }
   },
   {
@@ -617,12 +617,12 @@
     },
     "properties": {
     "sitename":"Al-Assad Statues",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Ottowa Citizen reported that between March 15th, 2011 and August 18th, 2011, a statue of Hafez Al-Assad was removed in Deir ez-Zor.  Hafez Al-Assad is the father of current Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - August 18, 2011"
+    "date":"March 15, 2011 - August 18, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_08_18",
+    "chsl_id":"CHSLSYR2347"
     }
   },
   {
@@ -633,12 +633,12 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid mosque and mausoleum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agency Tunis Afrique Press reported that on July 19, 2011, the Syrian Military opened fire on Khaled bin Al-Waleed mosque, killing up to 10 people in Homs. The Shooting erupted shortly after noon as families held funeral processions for 10 people killed a day before during a security sweep. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
-    "date":"June 19, 2011"
+    "date":"July 19, 2011",
+    "date_start":"2011_07_19",
+    "date_end":"2011_07_19",
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -649,12 +649,12 @@
     },
     "properties": {
     "sitename":"Statue of Hafez al-Assad",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The New York Times reported that between March 15, 2011 and July 20, 2011, protesters dismantled a statue of Hafez Al-Assad. Hafez Al-Assad is the father of current Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - July 20, 2011"
+    "date":"March 15, 2011 - July 20, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_07_20",
+    "chsl_id":"CHSLSYR2317"
     }
   },
   {
@@ -665,12 +665,12 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid mosque and mausoleum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The New York Times reported that between June 1 and 7, 2011 armed terrorists vandalized the Khaled bin Al-Waleed mosque, and attacked citizens in Homs.  Armed terrorist groups came from the area of Bab al-Khaldiya and set fire to cars, broke into stores and attacked citizens for not participating in the protests, they entered the mosque of Khalid Ibn al-Walid and vandalized it. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
-    "date":"June 1, 2011 - June 7, 2011"
+    "date":"June 1, 2011 - June 7, 2011",
+    "date_start":"2011_06_01",
+    "date_end":"2011_06_07",
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -681,12 +681,12 @@
     },
     "properties": {
     "sitename":"Abu Bakr al-Siddiq mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Middle East Repoter reported that on April 10, 2011 thugs sent by the Assad Regime fired at Abu Bakr al-Siddiq mosque in Banias. ",
     "date1":"Date: ",
-    "date":"April 10, 2011"
+    "date":"April 10, 2011",
+    "date_start":"2011_04_10",
+    "date_end":"2011_04_10",
+    "chsl_id":"CHSLSYR2309"
     }
   },
   {
@@ -697,12 +697,12 @@
     },
     "properties": {
     "sitename":"mosque, Erbin",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that on June 26, 2011 the Syrian Military opened fire at a funeral at the big mosque in Erbin, killing one mourner. During a funeral exit outside of the big mosque in Erbin's main square, thousands of mourners came under fire as soon as they began chanting, \"the people want the downfall of the regime.\"",
     "date1":"Date: ",
-    "date":"July 26, 2011"
+    "date":"July 26, 2011",
+    "date_start":"2011_07_26",
+    "date_end":"2011_07_26",
+    "chsl_id":"CHSLSYR2310"
     }
   },
   {
@@ -713,12 +713,12 @@
     },
     "properties": {
     "sitename":"Bilal al-Habashi mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on July 31, 2011 the Syrian Military seized the Bilal al-Habashi mosque in Hama. The mosque was targeted shortly before scheduled prayer and Iftar. ",
     "date1":"Date: ",
-    "date":"July 31, 2011"
+    "date":"July 31, 2011",
+    "date_start":"2011_07_31",
+    "date_end":"2011_07_31",
+    "chsl_id":"CHSLSYR1299"
     }
   },
   {
@@ -729,12 +729,12 @@
     },
     "properties": {
     "sitename":"mosque, Hama",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on July 31, 2011 the Syrian Military seized the Bilal al-Habashi mosque in Hama.  The mosque was targeted shortly before scheduled prayer and Iftar. ",
     "date1":"Date: ",
-    "date":"July 31, 2011"
+    "date":"July 31, 2011",
+    "date_start":"2011_07_31",
+    "date_end":"2011_07_31",
+    "chsl_id":"CHSLSYR2348"
     }
   },
   {
@@ -745,28 +745,28 @@
     },
     "properties": {
     "sitename":"Al Zaytunah Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on July 31, 2011 the Syrian Military beseiged the Al-Zaytunah mosque, firing directly on worshippers in Mu'addamiyat al-Sham. Security troops are besieging Al-Zaytunah Mosque and that people are being directly fired upon, and that nail bombs are being fired at the worshippers emerging from the mosque.",
     "date1":"Date: ",
-    "date":"July 31, 2011"
+    "date":"July 31, 2011",
+    "date_start":"2011_07_31",
+    "date_end":"2011_07_31",
+    "chsl_id":"CHSLSYR2311"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.6106669,35.1366085 ]
+       "coordinates":  [ 36.0295811,32.6228344 ]
     },
     "properties": {
     "sitename":"mosque, Daraa",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that between March 18, 2011 and May 31, 2011 the Syrian Military graffitied mosques in Daraa. The graffiti read \"There is no God but Bashar,\" referencing the Syrian President, Bashar Al-Assad.",
     "date1":"Date: ",
-    "date":"March 18, 2011 - May 31, 2011"
+    "date":"March 18, 2011 - May 31, 2011",
+    "date_start":"2011_03_18",
+    "date_end":"2011_05_31",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -777,12 +777,12 @@
     },
     "properties": {
     "sitename":"mosque, Al-Houla",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on August 7, 2011 the Syrian Military destroyed the dome of the main mosque in Al-Hurriyah Square in Al-Houla. The dome of the main mosque in Al-Hurriyah Square was destroyed, and mosques and homes were shelled.",
     "date1":"Date: ",
-    "date":"August 7, 2011"
+    "date":"August 7, 2011",
+    "date_start":"2011_08_07",
+    "date_end":"2011_08_07",
+    "chsl_id":"CHSLSYR2399"
     }
   },
   {
@@ -793,12 +793,12 @@
     },
     "properties": {
     "sitename":"Hamidiyeh Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that from August 4 through 11, 2011 the Syrian Military assaulted Hama, including a meter wide hole in the back of Hamidiyeh mosque in Hama. Signs of heavy firing on the walls of buildings at the city entrance were also reported.",
     "date1":"Date: ",
-    "date":"August 4, 2011 - August 11, 2011"
+    "date":"August 4, 2011 - August 11, 2011",
+    "date_start":"2011_08_04",
+    "date_end":"2011_08_11",
+    "chsl_id":"CHSLSYR2312"
     }
   },
   {
@@ -809,12 +809,12 @@
     },
     "properties": {
     "sitename":"mosque, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Euronews reported that on August 12, 2011 the syrian military shelled a mosque in Homs.",
     "date1":"Date: ",
-    "date":"August 12, 2011"
+    "date":"August 12, 2011",
+    "date_start":"2011_08_12",
+    "date_end":"2011_08_12",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -825,12 +825,12 @@
     },
     "properties": {
     "sitename":"Harwil mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that on August 12, 2011, the Syrian Military directed their AK-47s at Harwil mosque in Deir ez-Zor, hitting the main air-conditioning unit, which caught fire.",
     "date1":"Date: ",
-    "date":"August 12, 2011"
+    "date":"August 12, 2011",
+    "date_start":"2011_08_12",
+    "date_end":"2011_08_12",
+    "chsl_id":"CHSLSYR2321"
     }
   },
   {
@@ -841,12 +841,12 @@
     },
     "properties": {
     "sitename":"Uthman Bin Affan mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Asharq Al-Awsat reported on August 13, 2011, that the Assad Regime had shelled the Uthman bin Affan mosque in Deir ez-zor.   The minaret of the Uthman Bin Affan mosque was shelled.",
     "date1":"Date: ",
-    "date":"August 10, 2011"
+    "date":"August 10, 2011",
+    "date_start":"2011_08_10",
+    "date_end":"2011_08_10",
+    "chsl_id":"CHSLSYR2313"
     }
   },
   {
@@ -857,12 +857,12 @@
     },
     "properties": {
     "sitename":"Grand Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC reported that on August 16, 2011 the Syrian Military fired indiscriminately, near the Grand Mosque in Abu Kamal. Sources told Al-Jazeera that Abu Kamal, a city on the border with Iraq, is currently witnessing indiscriminate gunfire, and that the security forces prevented people from performing prayers in the Grand Mosque in the city.",
     "date1":"Date: ",
-    "date":"August 13, 2011"
+    "date":"August 13, 2011",
+    "date_start":"2011_08_13",
+    "date_end":"2011_08_13",
+    "chsl_id":"CHSLSYR2314"
     }
   },
   {
@@ -873,12 +873,12 @@
     },
     "properties": {
     "sitename":"mosque, Hama",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on August 13, 2011 the Syrian Military bombed the minaret of the Raml Al Janubi Mosque within the Palestinian camp in Latakia. The source says the mosque in Al-Raml al-Janubi was closed and its minaret was bombed and that civilians are besieged; there is no water or electricity.",
     "date1":"Date: ",
-    "date":"August 13, 2011"
+    "date":"August 13, 2011",
+    "date_start":"2011_08_13",
+    "date_end":"2011_08_13",
+    "chsl_id":"CHSLSYR2318"
     }
   },
   {
@@ -889,12 +889,12 @@
     },
     "properties": {
     "sitename":"mosques, Latakia",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Winnipeg Free Press reported that on August 14, 2011 the Syrian Military fired on mosques in Latakia. The source said at least three gunboats were taking part in the offensive and many people have been killed and wounded and that the shooting targeted several mosques in the area.",
     "date1":"Date: ",
-    "date":"August 14, 2011"
+    "date":"August 14, 2011",
+    "date_start":"2011_08_14",
+    "date_end":"2011_08_14",
+    "chsl_id":"CHSLSYR2318"
     }
   },
   {
@@ -905,12 +905,12 @@
     },
     "properties": {
     "sitename":"Palestinian mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"CNN reported that on August 16, 2011 the Syrian Military shelled the minarets of the Palestinian mosque and armed pro-government groups shot at other mosques and houses in Latakia. At least two mosques were damaged, and pro-government graffiti surfaced in the area.",
     "date1":"Date: ",
-    "date":"August 16, 2011"
+    "date":"August 16, 2011",
+    "date_start":"2011_08_16",
+    "date_end":"2011_08_16",
+    "chsl_id":"CHSLSYR2318"
     }
   },
   {
@@ -921,12 +921,12 @@
     },
     "properties": {
     "sitename":"Muaz Ibn Jabal mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was responsible for shell holes in the Muaz Ibn Jabal mosque in Hama.",
     "date1":"Date: ",
-    "date":"August 1, 2011 - August 16, 2011"
+    "date":"August 1, 2011 - August 16, 2011",
+    "date_start":"2011_08_01",
+    "date_end":"2011_08_16",
+    "chsl_id":"CHSLSYR2315"
     }
   },
   {
@@ -937,12 +937,12 @@
     },
     "properties": {
     "sitename":"mosque,  Hama",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was responsible for shell holes in the Muaz Ibn Jabal mosque in Hama.",
     "date1":"Date: ",
-    "date":"August 1, 2011 - August 16, 2011"
+    "date":"August 1, 2011 - August 16, 2011",
+    "date_start":"2011_08_01",
+    "date_end":"2011_08_16",
+    "chsl_id":"CHSLSYR2348"
     }
   },
   {
@@ -953,12 +953,12 @@
     },
     "properties": {
     "sitename":"mosque, Deir al-Zor",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was graffitied multiple mosques in Dier ez-Zor.  The graffiti reads \"there is no god but Bashar,\" referencing Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
-    "date":"August 1, 2011 - August 16, 2011"
+    "date":"August 1, 2011 - August 16, 2011",
+    "date_start":"2011_08_01",
+    "date_end":"2011_08_16",
+    "chsl_id":"CHSLSYR2348"
     }
   },
   {
@@ -969,12 +969,12 @@
     },
     "properties": {
     "sitename":"mosque, Deir al-Zor",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was graffitied multiple mosques in Deri ez-Zor.  The graffiti reads \"there is no god but Bashar,\" referencing Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
-    "date":"August 1, 2011 - August 16, 2011"
+    "date":"August 1, 2011 - August 16, 2011",
+    "date_start":"2011_08_01",
+    "date_end":"2011_08_16",
+    "chsl_id":"CHSLSYR2348"
     }
   },
   {
@@ -985,12 +985,12 @@
     },
     "properties": {
     "sitename":"Palestine mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on August 18, 2011 the Syrian Military shelled the Palestinian Mosque in Latakia.  Security forces were shelling the minaret of the Palestine Mosque in the camp and that heavy machine gun fire had been reported on houses in the nearby Yafa neighbourhood.",
     "date1":"Date: ",
-    "date":"August 18, 2011"
+    "date":"August 18, 2011",
+    "date_start":"2011_08_18",
+    "date_end":"2011_08_18",
+    "chsl_id":"CHSLSYR2318"
     }
   },
   {
@@ -1001,12 +1001,12 @@
     },
     "properties": {
     "sitename":"Fatima mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Spiegel Online International reported that on August 24, 2011 the Syrian Military fired into Fatima mosque, shooting at the crowd of people inside in Homs. Meanwhile, other troops opened fire on the nearby Rauda Mosque.",
     "date1":"Date: ",
-    "date":"August 24, 2011"
+    "date":"August 24, 2011",
+    "date_start":"2011_08_24",
+    "date_end":"2011_08_24",
+    "chsl_id":"CHSLSYR2316"
     }
   },
   {
@@ -1017,12 +1017,12 @@
     },
     "properties": {
     "sitename":"Rauda mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Spiegel Online International reported that on August 24, 2011 the Syrian Military opened fire on the Rauda Mosque in Homs.",
     "date1":"Date: ",
-    "date":"August 24, 2011"
+    "date":"August 24, 2011",
+    "date_start":"2011_08_24",
+    "date_end":"2011_08_24",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1033,12 +1033,12 @@
     },
     "properties": {
     "sitename":"al-Rifai mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that on August 27, 2011 the Syrian Military attacked the Al-Rifai mosque leaving its sheikh, Osama Al-Rifai, in the hospital in Damascus.",
     "date1":"Date: ",
-    "date":"August 27, 2011"
+    "date":"August 27, 2011",
+    "date_start":"2011_08_27",
+    "date_end":"2011_08_27",
+    "chsl_id":"CHSLSYR0021"
     }
   },
   {
@@ -1049,12 +1049,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on August 27, 2011 the Syrian Military attacked Mosques throughout Damascus. Mosques and mosque imams were systematically attacked by the security and armed forces in all places.",
     "date1":"Date: ",
-    "date":"August 27, 2011"
+    "date":"August 27, 2011",
+    "date_start":"2011_08_27",
+    "date_end":"2011_08_27",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -1065,12 +1065,12 @@
     },
     "properties": {
     "sitename":"Grand Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Jazeera reported that on August 28, 2011, security forces bombarded the minaret of the Grand Mosque in Abu Kamal. ",
     "date1":"Date: ",
-    "date":"August 28, 2011"
+    "date":"August 28, 2011",
+    "date_start":"2011_08_28",
+    "date_end":"2011_08_28",
+    "chsl_id":"CHSLSYR1506"
     }
   },
   {
@@ -1081,12 +1081,12 @@
     },
     "properties": {
     "sitename":"mosque, Harasta",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Daily Telegraph reported that on August 30, 2011, the Syrian Army stormed mosques and shelled minarets in Sarameen, Rastan,  Harasta, and Qara in attacks designed to crush protests and contain any defections in the army. ",
     "date1":"Date: ",
-    "date":"August 26, 2011 - August 27, 2011"
+    "date":"August 26, 2011 - August 27, 2011",
+    "date_start":"2011_08_26",
+    "date_end":"2011_08_27",
+    "chsl_id":"CHSLSYR2351"
     }
   },
   {
@@ -1097,12 +1097,12 @@
     },
     "properties": {
     "sitename":"mosque, Rastan",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Daily Telegraph reported that on August 30, 2011, the Syrian Army stormed mosques and shelled minarets in Sarameen, Rastan,  Harasta, and Qara in attacks designed to crush protests and contain any defections in the army. ",
     "date1":"Date: ",
-    "date":"August 26, 2011 - August 27, 2011"
+    "date":"August 26, 2011 - August 27, 2011",
+    "date_start":"2011_08_26",
+    "date_end":"2011_08_27",
+    "chsl_id":"CHSLSYR2352"
     }
   },
   {
@@ -1113,12 +1113,12 @@
     },
     "properties": {
     "sitename":"mosque, Qara",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Daily Telegraph reported that on August 30, 2011, the Syrian Army stormed mosques and shelled minarets in Sarameen, Rastan,  Harasta, and Qara in attacks designed to crush protests and contain any defections in the army. ",
     "date1":"Date: ",
-    "date":"August 26, 2011 - August 27, 2011"
+    "date":"August 26, 2011 - August 27, 2011",
+    "date_start":"2011_08_26",
+    "date_end":"2011_08_27",
+    "chsl_id":"CHSLSYR2353"
     }
   },
   {
@@ -1129,12 +1129,12 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid mosque and mausoleum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Trend News Agency reported that on Wednesday August 7, 2011 Syrian security forces swept through Homs and fired at the Khaled bin Walid mosque. Six people have been killed in the attacks. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
-    "date":"August 31, 2011"
+    "date":"August 31, 2011",
+    "date_start":"2011_08_31",
+    "date_end":"2011_08_31",
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -1145,12 +1145,12 @@
     },
     "properties": {
     "sitename":"mosques, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that in September 2011 the Syrian regime destroyed mosques in Damascus.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September  8, 2011"
+    "date":"March 15, 2011 - September  8, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_09_08",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -1161,12 +1161,12 @@
     },
     "properties": {
     "sitename":"mosque, Daraa",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that on Friday September 16, 2011 Syrian government forces stormed the Busra al-Hareer area in Daraa and attacked a mosque minaret. Nearly 20 others were killed in related raids by armed groups.",
     "date1":"Date: ",
-    "date":"September 16, 2011"
+    "date":"September 16, 2011",
+    "date_start":"2011_09_16",
+    "date_end":"2011_09_16",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -1177,12 +1177,12 @@
     },
     "properties": {
     "sitename":"Apamea",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that around September 20, 2011, unidentified groups vandalized and looted a number of archaeological sites in the ancient city of Apamea. The damage was mainly to a mosaic and the crown of a column. Apamea is an ancient city founded in 301 BC. It is on the UNESCO Tentative World Heritage List.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 20, 2011"
+    "date":"March 15, 2011 - September 20, 2011",
+    "date_start":"2011_03_15",
+    "date_end":"2011_09_20",
+    "chsl_id":"CHSLSYR2301"
     }
   },
   {
@@ -1193,12 +1193,12 @@
     },
     "properties": {
     "sitename":"mosque, Rastan",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"El Economista reported that on Wednesday September 28, 2011 security forces used anti-aircraft guns, tanks, and armored personnel carriers to attack two mosques in Rastan. Homes and clinics were also damaged in the attack.",
     "date1":"Date: ",
-    "date":"September 28, 2011"
+    "date":"September 28, 2011",
+    "date_start":"2011_09_28",
+    "date_end":"2011_09_28",
+    "chsl_id":"CHSLSYR2352"
     }
   },
   {
@@ -1209,12 +1209,12 @@
     },
     "properties": {
     "sitename":"Tawhid Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that on September 30, 2011 an explosive device was dismantled by a mosque in Douma, a suburb of Damascus. Three explosive experts were killed during the process.",
     "date1":"Date: ",
-    "date":"September 30, 2011"
+    "date":"September 30, 2011",
+    "date_start":"2011_09_30",
+    "date_end":"2011_09_30",
+    "chsl_id":"CHSLSYR0671"
     }
   },
   {
@@ -1225,12 +1225,12 @@
     },
     "properties": {
     "sitename":"Statue of President Hafez al-Assad",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Pretoria News reported that on October 10, 2011, protestors tore down a statue of Hafez Al- Assad in Qamlishi. Hafez Al-Assad is the late father of President Bashar al-Assad.",
     "date1":"Date: ",
-    "date":"October 8, 2011"
+    "date":"October 8, 2011",
+    "date_start":"2011_10_08",
+    "date_end":"2011_10_08",
+    "chsl_id":"CHSLSYR1265"
     }
   },
   {
@@ -1241,12 +1241,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on October 15, 2011 armed terrorist groups planted three explosive devices intended to cause damage to Al Omari mosque in Daraa. The Omari Mosque is considered one of the most prominent archaeological sites in the city of Daraa in Southern Syria.",
     "date1":"Date: ",
-    "date":"October 15, 2011"
+    "date":"October 15, 2011",
+    "date_start":"2011_10_15",
+    "date_end":"2011_10_15",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -1257,12 +1257,12 @@
     },
     "properties": {
     "sitename":"mosque, al Qasayr",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported on October 28, 2011 that regime forces in Al Qusayr shelled mosques.",
     "date1":"Date: ",
-    "date":"October 21, 2011 - October 26, 2011"
+    "date":"October 21, 2011 - October 26, 2011",
+    "date_start":"2011_10_21",
+    "date_end":"2011_10_26",
+    "chsl_id":"CHSLSYR2344"
     }
   },
   {
@@ -1273,12 +1273,12 @@
     },
     "properties": {
     "sitename":"mosques, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on October 28, mosques were besieged and fire was opened in Homs. One person was killed, five were wounded, and 17 were arrested in the violence.",
     "date1":"Date: ",
-    "date":"October 28, 2011"
+    "date":"October 28, 2011",
+    "date_start":"2011_10_28",
+    "date_end":"2011_10_28",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1289,12 +1289,12 @@
     },
     "properties": {
     "sitename":"mosque, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that around November 16, 2011 many mosques have been destroyed in many Syrian cities, the latest being in the city of Hims.",
     "date1":"Date: ",
-    "date":"November 14, 2011"
+    "date":"November 14, 2011",
+    "date_start":"2011_11_14",
+    "date_end":"2011_11_14",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1305,12 +1305,12 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid mosque and mausoleum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on November 16, 2011 Shabiha pro-government gunmen allegedly shelled the Khaled Bin al-Walid Mosque in Homs. According to the Syrian Observatory for Human Rights, about 50 people were killed. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
-    "date":"December 5, 2011"
+    "date":"December 5, 2011",
+    "date_start":"2011_12_05",
+    "date_end":"2011_12_05",
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -1321,12 +1321,12 @@
     },
     "properties": {
     "sitename":"mosques, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Telegraph UK reported that on December 8, 2011 Syrian security forces shot at the minaret of a mosque in Homs.",
     "date1":"Date: ",
-    "date":"December 8, 2011"
+    "date":"December 8, 2011",
+    "date_start":"2011_12_08",
+    "date_end":"2011_12_08",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1337,12 +1337,12 @@
     },
     "properties": {
     "sitename":"mosques, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that throughout December 2011, Syrian forces abombed and burned mosques in the city of Homs.",
     "date1":"Date: ",
-    "date":"December 9, 2011"
+    "date":"December 9, 2011",
+    "date_start":"2011_12_09",
+    "date_end":"2011_12_09",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1353,12 +1353,12 @@
     },
     "properties": {
     "sitename":"Grand Mosque of Douma",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Grand Mosque of Douma. The Grand Mosque in Douma is one of the largest mosques in the suburbs of Damascus. It was first built in 1136 but later demolished and rebuilt in 1983.\n",
     "date1":"Date: ",
-    "date":"December 9, 2011"
+    "date":"December 9, 2011",
+    "date_start":"2011_12_09",
+    "date_end":"2011_12_09",
+    "chsl_id":"CHSLSYR1174"
     }
   },
   {
@@ -1369,12 +1369,12 @@
     },
     "properties": {
     "sitename":"Hassiba Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Hasibeh Mosque.",
     "date1":"Date: ",
-    "date":"December 9, 2011"
+    "date":"December 9, 2011",
+    "date_start":"2011_12_09",
+    "date_end":"2011_12_09",
+    "chsl_id":"CHSLSYR1309"
     }
   },
   {
@@ -1385,12 +1385,12 @@
     },
     "properties": {
     "sitename":"mosques, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that around December 26, 2011 terrorist groups have planted explosives in populated areas near mosques in Homs.",
     "date1":"Date: ",
-    "date":"December 24, 2011"
+    "date":"December 24, 2011",
+    "date_start":"2011_12_24",
+    "date_end":"2011_12_24",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1401,12 +1401,12 @@
     },
     "properties": {
     "sitename":"Al-Rawda Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on December 30, 2011 an armed terrorist group detonated an explosive near al-Rawda mosque in Deir Ez-Zor. The attack caused no casualties.",
     "date1":"Date: ",
-    "date":"December 30, 2011"
+    "date":"December 30, 2011",
+    "date_start":"2011_12_30",
+    "date_end":"2011_12_30",
+    "chsl_id":"CHSLSYR0686"
     }
   },
   {
@@ -1417,12 +1417,12 @@
     },
     "properties": {
     "sitename":"Abdul Rahman Bin Auf mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on December 30, 2011 gunmen planted two explosives planted near Abdul Rahman Bin Auf Mosque in Hama. They were dismantled by engineering units before causing any damage or casualties.",
     "date1":"Date: ",
-    "date":"December 30, 2011"
+    "date":"December 30, 2011",
+    "date_start":"2011_12_30",
+    "date_end":"2011_12_30",
+    "chsl_id":"CHSLSYR2323"
     }
   },
   {
@@ -1433,12 +1433,12 @@
     },
     "properties": {
     "sitename":"Baba Amr Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Trend News Agency reported that on January 17, 2012 Syrian security forces shelled a mosque in the area of Baba Am, killing eight and wounding five.",
     "date1":"Date: ",
-    "date":"January 17, 2012"
+    "date":"January 17, 2012",
+    "date_start":"2012_01_17",
+    "date_end":"2012_01_17",
+    "chsl_id":"CHSLSYR2319"
     }
   },
   {
@@ -1449,12 +1449,12 @@
     },
     "properties": {
     "sitename":"Mosque of Abdul Rahman bin Auf",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on January 18, 2012 army and security forces targeted a minaret of the Abd al-Rahman Bin-Awf Mosque in Homs.",
     "date1":"Date: ",
-    "date":"January 1, 2012 - January 18, 2012"
+    "date":"January 1, 2012 - January 18, 2012",
+    "date_start":"2012_01_01",
+    "date_end":"2012_01_18",
+    "chsl_id":"CHSLSYR0869"
     }
   },
   {
@@ -1465,12 +1465,12 @@
     },
     "properties": {
     "sitename":"Convent of Our Lady of Sednaya",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on February 1, 2012 terrorists fired shells at the archaeological Convent of the Lady of Saydnaya in Damascus countryside. The monastery is part of the Greek Orthodox Church of Antioch. It is traditionally believed to have been founded by Byzantine Emperos Justinian I in 547 AD, and is a pilgrimage site for Christians and Muslims.",
     "date1":"Date: ",
-    "date":"January 29, 2012"
+    "date":"January 29, 2012",
+    "date_start":"2012_01_29",
+    "date_end":"2012_01_29",
+    "chsl_id":"CHSLSYR2320"
     }
   },
   {
@@ -1481,12 +1481,12 @@
     },
     "properties": {
     "sitename":"mosque,  Al-Rastan",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Newsfile reported that on February 6, 2012, terrorist armed groups burned a mosque in Ar-Rastan. An unspecified number of people died in the attack.",
     "date1":"Date: ",
-    "date":"February 6, 2012"
+    "date":"February 6, 2012",
+    "date_start":"2012_02_06",
+    "date_end":"2012_02_06",
+    "chsl_id":"CHSLSYR2352"
     }
   },
   {
@@ -1497,12 +1497,12 @@
     },
     "properties": {
     "sitename":"mosque, Irbin",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Spiegel Online International reported that on February 6, 2012, Assad’s troops threw a grenade through the roof of the local mosque in Irbin. Five people were killed in the attack.",
     "date1":"Date: ",
-    "date":"January 31, 2012 - February  6, 2012"
+    "date":"January 31, 2012 - February  6, 2012",
+    "date_start":"2012_01_31",
+    "date_end":"2012_02_2",
+    "chsl_id":"CHSLSYR2355"
     }
   },
   {
@@ -1513,12 +1513,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Newsfile reported that on February 10, 2012, authorities raided farms south of Palmyra in the Homs countryside and found 16 stolen archaeological pieces. Authorities also found explosive devices and medical equipment.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - February 10, 2012"
+    "date":"March 15, 2011 - February 10, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_02_10",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -1529,12 +1529,12 @@
     },
     "properties": {
     "sitename":"mosques, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Thai News Service reported that around February 10, 2012 Syrian security forces bombed mosques in Homs.",
     "date1":"Date: ",
-    "date":"March 1, 2011 - February 7, 2012"
+    "date":"March 1, 2011 - February 7, 2012",
+    "date_start":"2011_03_01",
+    "date_end":"2012_02_07",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1545,12 +1545,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse Reported that in February 2012, the Syrian army has been laying siege to the ancient city of Palmyra. The ancient city of Palmyra is a UNESCO World Heritage Site that was inhabited since the early second millennium BC.  ",
     "date1":"Date: ",
-    "date":"February 4, 2012 - February 19, 2012"
+    "date":"February 4, 2012 - February 19, 2012",
+    "date_start":"2012_02_04",
+    "date_end":"2012_02_19",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -1561,12 +1561,12 @@
     },
     "properties": {
     "sitename":"Baba Amr Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Trend News Agency reported that on February 21, 2012 government troops shelled the Baba Amr mosque. Several people were killed in the attack.",
     "date1":"Date: ",
-    "date":"February 12, 2012"
+    "date":"February 21, 2012",
+    "date_start":"2012_02_21",
+    "date_end":"2012_02_21",
+    "chsl_id":"CHSLSYR2319"
     }
   },
   {
@@ -1577,12 +1577,12 @@
     },
     "properties": {
     "sitename":"mosques, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"CNN reported that around March 1, 2012 Syrian forces targeted mosques with heavy artillery during the fighting in Homs. The Free Syrian Army defended the city.",
     "date1":"Date: ",
-    "date":"February 27, 2012 - March 1, 2012"
+    "date":"February 27, 2012 - March 1, 2012",
+    "date_start":"2012_02_27",
+    "date_end":"2012_03_01",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1593,12 +1593,12 @@
     },
     "properties": {
     "sitename":"The Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Cape Times reported that around March 8, 2012 the Syrian army shelled the al-Omari mosque in Homs. This shelling came after the mosque had been used to broadcast news about the uprising. This mosque had been converted from a Roman temple that was more than 2,000 years old.",
     "date1":"Date: ",
-    "date":"March 7, 2012"
+    "date":"March 7, 2012",
+    "date_start":"2012_03_07",
+    "date_end":"2012_03_07",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -1609,12 +1609,12 @@
     },
     "properties": {
     "sitename":"Apamea",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that between March 15, 2011 and April 17, 2012, fierce fighting took place near the Citadel of al-Mudiq in the city of Apamea, where the Syrian army has been stationed. The citadel is situated in the al-Ghab plain and is the cite of the ancient city of Apamea, which was founded by the Seleucids in the 3rd-century BCE.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - June 17, 2012"
+    "date":"March 15, 2011 - June 17, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_06_17",
+    "chsl_id":"CHSLSYR2301"
     }
   },
   {
@@ -1625,12 +1625,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that between March 15, 2011 and April 17, 2012, the Syrian Military took position in the Castle of Ibn Maan, also known as Palmyra Castle. The castle is thought to have been built by the Mamluks in the 13th century, and overlooks the archaeological site of Palmyra.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - June 17, 2012"
+    "date":"March 15, 2011 - June 17, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_06_17",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -1641,12 +1641,12 @@
     },
     "properties": {
     "sitename":"Umayyad Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that between  March 15, 2011 and April 17, 2012, damage was reported to the Umayyad Mosque in Daraa. The mosque is one of the oldest Islamic-era buildings in Syria, having been built in the early years of the Islamic Conquest at the behest of the Caliph Omar Ibn al-Khattab.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - June 17, 2012"
+    "date":"March 15, 2011 - June 17, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_06_17",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -1657,28 +1657,28 @@
     },
     "properties": {
     "sitename":"Bosra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that between March 15, 2011 and April 17, 2012 damage was reported to ancient buildings in Bosra. The ancient city of Bosra was an important administrative center during the Roman and Islamic Eras, and is a UNESCO World Heritage Site. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 - June 17, 2012"
+    "date":"March 15, 2011 - June 17, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_06_17",
+    "chsl_id":"CHSLSYR2304"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Crac Des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that between March 15, 2011 and April 17, 2012, the Free Syrian Army excavated and looted the Crac des Chevaliers, a UNESCO World Heritage Site that was built as a Crusader castle in the 11th century.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - June 17, 2012"
+    "date":"March 15, 2011 - June 17, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_06_17",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -1689,12 +1689,12 @@
     },
     "properties": {
     "sitename":"Sednaya Convent",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that between March 15, 2011 and June 17, 2012 shelling damaged the oldest section of the Sednaya monasteries in Sednayah.   The Monastery is one of the oldest, continuosly used monastaries in the world and the shelling damaged the oldest part of the building which dates back to 574.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - June 17, 2012"
+    "date":"March 15, 2011 - June 17, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_06_17",
+    "chsl_id":"CHSLSYR2320"
     }
   },
   {
@@ -1705,12 +1705,12 @@
     },
     "properties": {
     "sitename":"Salah al-Din's Castle",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
-    "description":"Al Akhbar rpeorted that between March 15, 2011 and June 17, 2012 terrorists attacked the Citadel of Salah al-Din. The Citadel of Salah al-Din is a meideival castle located in northwestwern Syria and a UNESCO World Heritage Site.",
+    "description":"Al Akhbar reported that between March 15, 2011 and June 17, 2012 terrorists attacked the Citadel of Salah al-Din. The Citadel of Salah al-Din is a meideival castle located in northwestwern Syria and a UNESCO World Heritage Site.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - June 17, 2012"
+    "date":"March 15, 2011 - June 17, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_06_17",
+    "chsl_id":"CHSLSYR2324"
     }
   },
   {
@@ -1721,12 +1721,12 @@
     },
     "properties": {
     "sitename":"St. Elias Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on June 14, 2012, an armed terrorists desecrated and occupied the Church of St. Elias, attacking clergymen in al-Qusayr. Armed terrorists occupied the church and converted it into a base.",
     "date1":"Date: ",
-    "date":"June 14, 2012"
+    "date":"June 14, 2012",
+    "date_start":"2012_06_14",
+    "date_end":"2012_06_14",
+    "chsl_id":"CHSLSYR2325"
     }
   },
   {
@@ -1737,12 +1737,12 @@
     },
     "properties": {
     "sitename":"Mosque, Douma",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse reported that between June 12 and 18, 2012, the Syrian Military destroyed homes, farms, and many mosques in Douma.",
     "date1":"Date: ",
-    "date":"June 12, 2012 - June 18, 2012"
+    "date":"June 12, 2012 - June 18, 2012",
+    "date_start":"2012_06_12",
+    "date_end":"2012_06_18",
+    "chsl_id":"CHSLSYR2341"
     }
   },
   {
@@ -1753,12 +1753,12 @@
     },
     "properties": {
     "sitename":"church, Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on June 19, 2012 Gunmen blew up an number of churches in addition to some historic homes in Homs. The attack occurred in the Al-Hamidiyah neighborhood of Homs, where most of the city's Christian population is concentrated.",
     "date1":"Date: ",
-    "date":"June 19, 2012"
+    "date":"June 19, 2012",
+    "date_start":"2012_06_19",
+    "date_end":"2012_06_19",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -1769,12 +1769,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Financial Times reported that between June 2, 2012 and July 2, 2012, regime forces bombed the mosque in Qudsaya. ",
     "date1":"Date: ",
-    "date":"June 2, 2012 - July 7,  2012"
+    "date":"June 2, 2012 - July 7,  2012",
+    "date_start":"2012_06_02",
+    "date_end":"2012_07_02",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -1785,12 +1785,12 @@
     },
     "properties": {
     "sitename":"mosque, Tremsa",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that on July 5, 2012, the Syrian Military shelled a mosque where people had taken shelter in Tremsa. Many people were taking shelter in the mosque to treat the sick and wounded when it was shelled, killing many inside.",
     "date1":"Date: ",
-    "date":"July 5, 2012"
+    "date":"July 5, 2012",
+    "date_start":"2012_07_05",
+    "date_end":"2012_07_05",
+    "chsl_id":"CHSLSYR2326"
     }
   },
   {
@@ -1801,12 +1801,12 @@
     },
     "properties": {
     "sitename":"Ghazwat Badr mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Euronews reported that between July 15 and 17, 2012, the Syrian Military shelled and destroyed Ghazwat Badr mosque in Damascus. Several people were injured in the attack.",
     "date1":"Date: ",
-    "date":"June 15, 2012 - June 17, 2012"
+    "date":"July  15, 2012 - July 17, 2012",
+    "date_start":"2012_07_15",
+    "date_end":"2012_07_17",
+    "chsl_id":"CHSLSYR2327"
     }
   },
   {
@@ -1817,12 +1817,12 @@
     },
     "properties": {
     "sitename":"mosque, Deir al-Zor",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News repored that on July 19, 2012, the Syrian Military shelled the Fardos mosque, killing at least 7 civilians in Der ez-zor. Shells hit the crowded Fardos Mosque in al-Jubeileh neighbourhood at evening prayers.",
     "date1":"Date: ",
-    "date":"July 19, 2012"
+    "date":"July 19, 2012",
+    "date_start":"2012_07_19",
+    "date_end":"2012_07_19",
+    "chsl_id":"CHSLSYR2340"
     }
   },
   {
@@ -1833,12 +1833,12 @@
     },
     "properties": {
     "sitename":"Majid Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Financial Times reported that on July 20, 2012 a large explosion was reported behind the minaret of the Majid Mosque in Damascus. There was a large explosion near the minaret of the Majid mosque, and many other explosions have occured throughout the city since Friday.",
     "date1":"Date: ",
-    "date":"July 20, 2012"
+    "date":"July 20, 2012",
+    "date_start":"2012_07_20",
+    "date_end":"2012_07_20",
+    "chsl_id":"CHSLSYR2332"
     }
   },
   {
@@ -1849,12 +1849,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on July 22, 2012, the Syrian Military rocketed the big mosque in the Barzeh neighborhood of Damascus. The airstrike caused a fire in the mosque.",
     "date1":"Date: ",
-    "date":"July 22, 2012"
+    "date":"July 22, 2012",
+    "date_start":"2012_07_22",
+    "date_end":"2012_07_22",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -1865,12 +1865,12 @@
     },
     "properties": {
     "sitename":"mosque, Azaz",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between June 25, 2012 and July 25, 2012, the Syrian Army occupied a mosque in Azaz.  During the occupation, the mosque was all but destroyed in fighting between the Syrian Military and Rebels.",
     "date1":"Date: ",
-    "date":"June 25, 2012 - July  25, 2012"
+    "date":"June 25, 2012 - July  25, 2012",
+    "date_start":"2012_06_25",
+    "date_end":"2012_07_25",
+    "chsl_id":"CHSLSYR2333"
     }
   },
   {
@@ -1881,12 +1881,12 @@
     },
     "properties": {
     "sitename":"mosque, Anadan",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between July 1 and 31, 2012, the Syrian Military bombarded the green domed mosque in Anadan.",
     "date1":"Date: ",
-    "date":"July 1, 2012 - July 31, 2012"
+    "date":"July 1, 2012 - July 31, 2012",
+    "date_start":"2012_07_01",
+    "date_end":"2012_07_31",
+    "chsl_id":"CHSLSYR2398"
     }
   },
   {
@@ -1897,12 +1897,12 @@
     },
     "properties": {
     "sitename":"Aleppo Citadel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse  reported that between August 7 and 10, 2012 the Syrian Military used mortars to bombard the Aleppo Citadel in Aleppo. Clashes between rebels and government forces in the ancient Citadel of Aleppo, a UNESCO World Heritage site, damaged one of the stone footbridges that lead into the fortress.",
     "date1":"Date: ",
-    "date":"August 7, 2012 - August 10, 2012"
+    "date":"August 7, 2012 - August 10, 2012",
+    "date_start":"2012_08_07",
+    "date_end":"2012_08_10",
+    "chsl_id":"CHSLSYR2389"
     }
   },
   {
@@ -1913,12 +1913,12 @@
     },
     "properties": {
     "sitename":"Aleppo Citadel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse  reported that between August 7 and 10, 2012, the Syrian Military bombarded the historic Aleppo Citadel in Aleppo with mortar fire. The Aleppo Citadel is a large medieval fortified palace in the center of the old city.",
     "date1":"Date: ",
-    "date":"August 7, 2012 - August 10, 2012"
+    "date":"August 7, 2012 - August 10, 2012",
+    "date_start":"2012_08_07",
+    "date_end":"2012_08_10",
+    "chsl_id":"CHSLSYR0890"
     }
   },
   {
@@ -1929,12 +1929,12 @@
     },
     "properties": {
     "sitename":"Old City Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The New York Times reported that between August 5 and 10, 2012, fighting between rebels and the Syrian Military damaged or destroyed parts of the Old City in Aleppo. The Old City of Aleppo us compoed of the ancient city within the city walls, including historic buildings, covered souqs, and the Ancient City of Aleppo UNESCO World Heritage Site.",
     "date1":"Date: ",
-    "date":"August 5, 2012 - August 10, 2012"
+    "date":"August 5, 2012 - August 10, 2012",
+    "date_start":"2012_08_5",
+    "date_end":"2012_08_10",
+    "chsl_id":"CHSLSYR2339"
     }
   },
   {
@@ -1945,12 +1945,12 @@
     },
     "properties": {
     "sitename":"Aleppo Citadel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The New York Times reported that  between August 5 and 10, 2012, fighting between rebels and the Syrian Military damaged the Temple of the Storm God in the Citadel in Aleppo. Among the significant archaeological sites endangered is the Temple of the Storm God, which dates from the third to the second millennium B.C.\n",
     "date1":"Date: ",
-    "date":"August 5, 2012 - August 10, 2012"
+    "date":"August 5, 2012 - August 10, 2012",
+    "date_start":"2012_08_5",
+    "date_end":"2012_08_10",
+    "chsl_id":"CHSLSYR2389"
     }
   },
   {
@@ -1961,12 +1961,12 @@
     },
     "properties": {
     "sitename":"Sharaf mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Star reported that between August 21 and 22, 2012, bullet holes and other damage occurred at the Sharaf mosque in Aleppo. Inside the mosque were bullets, cigarette butts and piles of mosque carpets, which the rebels had used as bedding, a live round had cut into the Bosnian-style tombstone of an imam's grave, and the mosque's records - lists of worshippers' complaints, Qur'ans, financial documents - were lying across one room.\n",
     "date1":"Date: ",
-    "date":"August 21, 2012 - August 22, 2012"
+    "date":"August 21, 2012 - August 22, 2012",
+    "date_start":"2012_08_21",
+    "date_end":"2012_08_22",
+    "chsl_id":"CHSLSYR2334"
     }
   },
   {
@@ -1977,12 +1977,12 @@
     },
     "properties": {
     "sitename":"Old City Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between August 24 and 26 2012, The Syrian military bombed a mosque in the old city of Aleppo. A jet dropped a bomb a couple metres from the main minaret of the 14th Century Mamluk mosque, which damaged the prayer hall.",
     "date1":"Date: ",
-    "date":"August 24, 2012 - August 26, 2012"
+    "date":"August 24, 2012 - August 26, 2012",
+    "date_start":"2012_08_24",
+    "date_end":"2012_08_26",
+    "chsl_id":"CHSLSYR2339"
     }
   },
   {
@@ -1993,12 +1993,12 @@
     },
     "properties": {
     "sitename":"Old City Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between August 24 and 26, 2012 Syrian Military Jets bombed the Old City damaging mosques in Aleppo.  Another mosque down the road was hit by a bomb, causing a bus to flip over, and the cemetery to crack open, causing large damage to the marble tombstones.",
     "date1":"Date: ",
-    "date":"August 24, 2012 - August 26, 2012"
+    "date":"August 24, 2012 - August 26, 2012",
+    "date_start":"2012_08_24",
+    "date_end":"2012_08_26",
+    "chsl_id":"CHSLSYR2339"
     }
   },
   {
@@ -2009,12 +2009,12 @@
     },
     "properties": {
     "sitename":"Al-Naser Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse  reported that on August 29, 2012,the Syrian Military shelled the Al-Naser mosque in Aleppo. Report of the Syrian army firing tank shells in the city and one of them hit the Al-Nasar mosque, according to correspondents at the scene.",
     "date1":"Date: ",
-    "date":"August 29, 2012"
+    "date":"August 29, 2012",
+    "date_start":"2012_08_29",
+    "date_end":"2012_08_29",
+    "chsl_id":"CHSLSYR2329"
     }
   },
   {
@@ -2025,12 +2025,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Australian Broadcasting Corporation reported that between March 15, 2011 and September 3, 2012 looting and damage has occured in Palmyra. Palmyra has been heavily damaged by looting, and also an Islamic citadel on a hill overlooking the Roman ruins has been occupied by soldiers who have been shooting into the ruins to try and catch people. Tanks have occupied the large parts of the city and internet footage shows statues and reliefs that have been hacked off in areas of the city.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 3, 2012"
+    "date":"March 15, 2011 - September 3, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_09_03",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -2041,12 +2041,12 @@
     },
     "properties": {
     "sitename":"mosaic museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Conversation reported that between March 15, 2011 and September 7, 2012  looters looted the Apamea Mosaic Museum in Apamea. The mosaic museum is housed in a historic caravanserai and houses 4th and 5th century mosaics excavated at Apamea.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 7, 2012"
+    "date":"March 15, 2011 - September 7, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_09_07",
+    "chsl_id":"CHSLSYR2330"
     }
   },
   {
@@ -2057,12 +2057,12 @@
     },
     "properties": {
     "sitename":"museum, Hama",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Conversation reported that between March 15, 2011 and September 7, 2012 looters looted the Hama Museum in Hama.  The Gilt Statues were stolen from the museum.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 7, 2012"
+    "date":"March 15, 2011 - September 7, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_09_07",
+    "chsl_id":"CHSLSYR2335"
     }
   },
   {
@@ -2073,12 +2073,12 @@
     },
     "properties": {
     "sitename":"ancient city Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Conversation reported that between March 15, 2011 and September 7, 2012, shelling and bombardment occured within the Ancient City of Damascus.  The ancient cities of Hama, Homs, Aleppo and Damascus have in some cases borne the brunt of extensive shelling and aerial bombardment.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 7, 2012"
+    "date":"March 15, 2011 - September 7, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_09_07",
+    "chsl_id":"CHSLSYR2336"
     }
   },
   {
@@ -2089,12 +2089,12 @@
     },
     "properties": {
     "sitename":"ancient city Homs",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Conversation reported that between March 15, 2011 and September 7, 2012, shelling and bombardment occured within the Ancient City of Homs. The ancient cities of Hama, Homs, Aleppo and Damascus have in some cases borne the brunt of extensive shelling and aerial bombardment.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 7, 2012"
+    "date":"March 15, 2011 - September 7, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_09_07",
+    "chsl_id":"CHSLSYR2337"
     }
   },
   {
@@ -2105,12 +2105,12 @@
     },
     "properties": {
     "sitename":"ancient city Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Conversation reported that between March 15, 2011 and September 7, 2012, shelling and bombardment occured within the Ancient City of Aleppo. The ancient cities of Hama, Homs, Aleppo and Damascus have in some cases borne the brunt of extensive shelling and aerial bombardment.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 7, 2012"
+    "date":"March 15, 2011 - September 7, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_09_07",
+    "chsl_id":"CHSLSYR2339"
     }
   },
   {
@@ -2121,12 +2121,12 @@
     },
     "properties": {
     "sitename":"mosques, Al-Qusayr",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"GNS reported that between March 15, 2011 and September 8, 2012, the syrian military bombarded mosques in Al-Qusayr.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - September 8, 2012"
+    "date":"March 15, 2011 - September 8, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_09_08",
+    "chsl_id":"CHSLSYR2344"
     }
   },
   {
@@ -2137,12 +2137,12 @@
     },
     "properties": {
     "sitename":"Mar Mikhail Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that on September 8, 2012, armed terrorist groups fired mortar shells at the Mar Mikhail church in Aleppo.",
     "date1":"Date: ",
-    "date":"September 8, 2012"
+    "date":"September 8, 2012",
+    "date_start":"2012_09_08",
+    "date_end":"2012_09_08",
+    "chsl_id":"CHSLSYR0897"
     }
   },
   {
@@ -2153,12 +2153,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that on August 17, 2012, the Syrian Army looted the museum in Palmyra. An amateur video posted online on August 17 shows seven or eight sculptures and busts crammed into the back of a pick-up truck. Palmyra is an ancient city and UNESCO World Heritage Site.",
     "date1":"Date: ",
-    "date":"August 17, 2012"
+    "date":"August 17, 2012",
+    "date_start":"2012_08_17",
+    "date_end":"2012_08_17",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -2169,12 +2169,12 @@
     },
     "properties": {
     "sitename":"mosques, Aazaz",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that between July 15, and September 29, 2012 the Syrian Opposition dynamited the minarets of the main mosque in Aazaz. The Minarets had previously been used by forces as sniper positions.",
     "date1":"Date: ",
-    "date":"July 15, 2012 - September 29, 2012"
+    "date":"July 15, 2012 - September 29, 2012",
+    "date_start":"2012_07_15",
+    "date_end":"2012_09_29",
+    "chsl_id":"CHSLSYR2359"
     }
   },
   {
@@ -2185,12 +2185,12 @@
     },
     "properties": {
     "sitename":"Aleppo Souq",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"San Angelo Standard Times reported that on September 29, 2012, fighting between the Syrian Military and Rebels caused damage to the Souk in Aleppo.  The Souk Madina in Aleppo's Old City is a centuries old bazaar and major tourist destination.",
     "date1":"Date: ",
-    "date":"September 29, 2012"
+    "date":"September 29, 2012",
+    "date_start":"2012_09_29",
+    "date_end":"2012_09_29",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
@@ -2201,12 +2201,12 @@
     },
     "properties": {
     "sitename":"Old City Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Associated Press reported that between March 15 , 2011 and October 1, 2012, fighting between the Syrian Military and Rebels damaged the Aleppo Citadel in Aleppo. The Aleppo Citadel is a large medieval fortified palace in the center of the old city.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 1, 2012"
+    "date":"March 15, 2011 -  October 1, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_01",
+    "chsl_id":"CHSLSYR2339"
     }
   },
   {
@@ -2217,12 +2217,12 @@
     },
     "properties": {
     "sitename":"Aleppo Souq",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Australian Broadcasting Corporation reported that between July 24 and October 1, 2012, fighting between Rebels and the Syrian Military have burned down the covered markets in Aleppo.  The Souk Madina in Aleppo's Old City is a centuries old bazaar and major tourist destination.",
     "date1":"Date: ",
-    "date":"July 24, 2012 - October 2, 2012"
+    "date":"July 24, 2012 - October 2, 2012",
+    "date_start":"2012_07_24",
+    "date_end":"2012_10_02",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
@@ -2233,12 +2233,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"NPR reported that between March 15, 2011 and October 8, 2012, the Syrian Military damaged statues in Palmyra.  Statuettes have been hacked off the site and at least one ancient temple has collapsed. Palmyra is an ancient city and UNESCO World Heritage Site.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 8, 2012"
+    "date":"March 15, 2011 -  October 8, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_08",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -2249,12 +2249,12 @@
     },
     "properties": {
     "sitename":"Aleppo Citadel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that between March 15, 2011 and October 10, 2012, fighting between the Syrian Military caused damage to the Aleppo Citadel in Aleppo.The entrance of the medieval citadel is cratered, and the fortress's huge wooden gates are gone.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 10, 2012"
+    "date":"March 15, 2011 -  October 10, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_10",
+    "chsl_id":"CHSLSYR2389"
     }
   },
   {
@@ -2265,12 +2265,12 @@
     },
     "properties": {
     "sitename":"Aleppo Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that during the week of October 3rd, 2012, a car bomb exploded and blew out the windows of the Aleppo Museum in Aleppo. The Aleppo Museum hosts one of the world’s best collections of Near Eastern artifacts.",
     "date1":"Date: ",
-    "date":"October 3, 2012 - October 10, 2012"
+    "date":"October 3, 2012 - October 10, 2012",
+    "date_start":"2012_10_03",
+    "date_end":"2012_10_10",
+    "chsl_id":"CHSLSYR2338"
     }
   },
   {
@@ -2281,12 +2281,12 @@
     },
     "properties": {
     "sitename":"Great Umayyad Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that on Wednesday October 10, 2012 Syrian Rebels used rocket-propelled grenades to attack and push inside the Umayyad Mosque in Aleppo. The Umayyad Mosque is a landmark mosque in Aleppo, serving as a place of worship since the 13th century.",
     "date1":"Date: ",
-    "date":"October 10, 2012"
+    "date":"October 10, 2012",
+    "date_start":"2012_10_10",
+    "date_end":"2012_10_10",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
@@ -2297,12 +2297,12 @@
     },
     "properties": {
     "sitename":"Ma'ara Mosaic Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that in early October Assad’s troops dropped a bomb on the Alma Arra museum in Maaret al-Numan, shattering wooden doors and high windows. The blast also caused damage to statues, mosaics, and carvings inside the museum which houses treasures from Ur, ancient Greece, the Roman Empire, and the pre-Islamic era.",
     "date1":"Date: ",
-    "date":"October 1, 2012 - October 14, 2012"
+    "date":"October 1, 2012 - October 14, 2012",
+    "date_start":"2012_10_01",
+    "date_end":"2012_10_14",
+    "chsl_id":"CHSLSYR2302"
     }
   },
   {
@@ -2313,28 +2313,28 @@
     },
     "properties": {
     "sitename":"Great Umayyad Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that on Monday October 15, 2012 clashes between Syrian troops and rebel fighters have damaged the Ummayyad Mosque in Aleppo. An engineer sent to inspect the damage was killed in the fighting. The Great Mosque of Aleppo is the largest and one of the oldest mosques in Aleppo, dating to the 8th century CE,",
     "date1":"Date: ",
-    "date":"October 13, 2012"
+    "date":"October 13, 2012",
+    "date_start":"2012_10_13",
+    "date_end":"2012_10_13",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that in October 2012 the Syrian army shelled the Crac de Chevalier in Homs. Rebel forces have barricaded themselves inside the historic citadel to flee the shelling. Crac des Cheveliers is a UNESCO World Heritage Site that was built as a Medieval Crusader Castle.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 14, 2012"
+    "date":"March 15, 2011 -  October 14, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_14",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -2345,12 +2345,12 @@
     },
     "properties": {
     "sitename":"Umar Bin Al-Khattab Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Newsfile reported that on October 16, 2012 a terrorist suicide bomber detonated a booby-trapped car near the Umar Bin al-Khattab Mosque, wounding several citizens and causing material damage in Damascus.",
     "date1":"Date: ",
-    "date":"October 16, 2012"
+    "date":"October 16, 2012",
+    "date_start":"2012_10_16",
+    "date_end":"2012_10_16",
+    "chsl_id":"CHSLSYR0807"
     }
   },
   {
@@ -2361,12 +2361,12 @@
     },
     "properties": {
     "sitename":"Ma`arat al-Nu`man mosques",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Daily News, the Statesman, and the Salt Lake Tribune, among others, reported that on October 19, 2012 Syrian military aircraft bombed Maaret al-Numan, killing more than 40 people. Mosques were damaged in the airstrike.",
     "date1":"Date: ",
-    "date":"October 18, 2012"
+    "date":"October 18, 2012",
+    "date_start":"2012_10_18",
+    "date_end":"2012_10_18",
+    "chsl_id":"CHSLSYR2361"
     }
   },
   {
@@ -2377,12 +2377,12 @@
     },
     "properties": {
     "sitename":"Ma'ara Mosaic Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that on October 8, 2012, a fighter jet dropped a bomb next to the Maaaret al-Numan museum destroying the wooden doors and some of the museum's most fragile pieces. The museum houses terra-cotta statues, antiques, and pottery dating back to 2000 BC.",
     "date1":"Date: ",
-    "date":"October 8, 2012"
+    "date":"October 8, 2012",
+    "date_start":"2012_10_08",
+    "date_end":"2012_10_08",
+    "chsl_id":"CHSLSYR2302"
     }
   },
   {
@@ -2393,12 +2393,12 @@
     },
     "properties": {
     "sitename":"Aleppo Souq",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Pittsburgh Post-Gazette reported that in September and October of 2012 snipers and shells dot the abandoned Aleppo Souq, part of Aleppo’s Old City a UNESCO World Heritage Site.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 19, 2012"
+    "date":"March 15, 2011 -  October 19, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_19",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
@@ -2409,12 +2409,12 @@
     },
     "properties": {
     "sitename":"Ma`arat al-Nu`man- general",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Salt Lake Tribune reported that in mid-October Syrian military aircraft continued a bombing campaign against Maaret al-Numan, killing more than 40 people and leveling a mosque. The town is in a strategic location on the Damascus-Aleppo highway.",
     "date1":"Date: ",
-    "date":"October 18, 2012"
+    "date":"October 18, 2012",
+    "date_start":"2012_10_18",
+    "date_end":"2012_10_18",
+    "chsl_id":"CHSLSYR2361"
     }
   },
   {
@@ -2425,12 +2425,12 @@
     },
     "properties": {
     "sitename":"Church, Deir Ezzor",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that on Saturday October 27, 2012 terrorists exploded a car bomb in front of a church in Deir Ezzor, causing significant material damage to the church facade.",
     "date1":"Date: ",
-    "date":"October 27, 2012"
+    "date":"October 27, 2012",
+    "date_start":"2012_10_27",
+    "date_end":"2012_10_27",
+    "chsl_id":"CHSLSYR2347"
     }
   },
   {
@@ -2441,12 +2441,12 @@
     },
     "properties": {
     "sitename":"Old City Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that in the fall of 2012 the Aleppo Souks have faced the worse kind of damage which may be difficult to bring back or renovate after the fighting. The Souq Al-Madina is a major tourist destination in the Old City.",
     "date1":"Date: ",
-    "date":"September 15, 2012 - September 30, 2012"
+    "date":"September 15, 2012 - September 30, 2012",
+    "date_start":"2012_09_15",
+    "date_end":"2012_09_30",
+    "chsl_id":"CHSLSYR2339"
     }
   },
   {
@@ -2457,12 +2457,12 @@
     },
     "properties": {
     "sitename":"Daraa",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that in the fall of 2012 shells and bullets hit antique sites in Daraa damaging heritage buildings in the region.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 29, 2012"
+    "date":"March 15, 2011 -  October 29, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_29",
+    "chsl_id":"CHSLSYR2349"
     }
   },
   {
@@ -2473,12 +2473,12 @@
     },
     "properties": {
     "sitename":"Apamia Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that in the fall of 2012 a small golden statue was looted from the museum in Apamea. The Apamea Museum contains objects excavated at Apamea.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 29, 2012"
+    "date":"March 15, 2011 -  October 29, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_29",
+    "chsl_id":"CHSLSYR2330"
     }
   },
   {
@@ -2489,12 +2489,12 @@
     },
     "properties": {
     "sitename":"Hama Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that in the fall of 2012 an ancient stone table was looted from the museum in Hama.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 29, 2012"
+    "date":"March 15, 2011 -  October 29, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_29",
+    "chsl_id":"CHSLSYR2335"
     }
   },
   {
@@ -2505,12 +2505,12 @@
     },
     "properties": {
     "sitename":"Idlib",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that in the fall of 2012 shells and bullets hit antique sites in Idlib damaging heritage buildings in the region.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 29, 2012"
+    "date":"March 15, 2011 -  October 29, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_29",
+    "chsl_id":"CHSLSYR2362"
     }
   },
   {
@@ -2521,12 +2521,12 @@
     },
     "properties": {
     "sitename":"Jabal Alzawiya",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Akhbar reported that in the fall of 2012 shells and bullets hit antique sites in Jabal al-Zawiya damaging heritage buildings in the region.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 29, 2012"
+    "date":"March 15, 2011 -  October 29, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_10_29",
+    "chsl_id":"CHSLSYR2363"
     }
   },
   {
@@ -2537,76 +2537,76 @@
     },
     "properties": {
     "sitename":"Al-Mahasinah Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on October 29, 2012 (the last day of the supposed Id Al-Adha truce) Syrian warplanes targeted the Al Mahasinah Mosque in Damascus with barrels and rockets, killing dozens. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  October 29, 2012"
+    "date":" October 29, 2012",
+    "date_start":"2012_10_29",
+    "date_end":"2012_10_29",
+    "chsl_id":"CHSLSYR2406"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.156885,36.199428 ]
+       "coordinates":  [ 37.1728892,36.2158093 ]
     },
     "properties": {
     "sitename":"Al-Qur'an Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that around October 30, 2012 armed terrorist groups caused destruction to the Al-Qur’an Mosque in Aleppo.",
     "date1":"Date: ",
-    "date":"October 31, 2012"
+    "date":"October 31, 2012",
+    "date_start":"2012_10_31",
+    "date_end":"2012_10_31",
+    "chsl_id":"CHSLSYR2407"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.940278,35.179149 ]
+       "coordinates":  [ 37.161523,36.217847 ]
     },
     "properties": {
     "sitename":"Armenian Orthodox Church of St. Kivork",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that around October 30, 2012 armed terrorist groups attacked the Armenian Orthodox Church of St. Kivork with Molotov incendiary bombs, burning an entire half of the church.",
     "date1":"Date: ",
-    "date":"October 31, 2012"
+    "date":"October 31, 2012",
+    "date_start":"2012_10_31",
+    "date_end":"2012_10_31",
+    "chsl_id":"CHSLSYR2409"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.71564755,34.73660195 ]
+       "coordinates":  [ 38.9270472,35.9547093 ]
     },
     "properties": {
     "sitename":"al-Bishara church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Info-Asian News Service and Xinhua News Agency reported that on Tuesday November 13, 2012 a booby-trapped car went off in front of the al-Bishara church in northern Syria in the province of al-Raqqa, killing two people. ",
     "date1":"Date: ",
-    "date":"November 13, 2012"
+    "date":"November 13, 2012",
+    "date_start":"2012_11_13",
+    "date_end":"2012_11_13",
+    "chsl_id":"CHSLSYR2408"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.7219758,35.5436656 ]
+       "coordinates":  [ 35.79475989,35.54240839 ]
     },
     "properties": {
     "sitename":"Alawite shrine",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that around November 17, 2012 Turkoman gangs reportedly stormed and demolished an Alawite shrine in Latakia. The Alawites are a sect of Shia Islam who make up seventeen percent of the Syrian population, including the Al-Assad family.",
     "date1":"Date: ",
-    "date":"November 8, 2012 - November 20, 2012"
+    "date":"November 8, 2012 - November 20, 2012",
+    "date_start":"2012_11_08",
+    "date_end":"2012_11_20",
+    "chsl_id":"CHSLSYR2356"
     }
   },
   {
@@ -2617,12 +2617,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Pincher Creek Echo reported on November 21, 2012 that there is daily gunfire raining down on the ancient Greco-Roman ruins of Palmyra, as reported by residents. The al-Assad forces currently have control of the ruins and believe any approaching forces to be rebels. The ancient city of Palmyra is a UNESO World Heritage Site and major tourist destination in Syria.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  November  21, 2012"
+    "date":"March 15, 2011 -  November  21, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_11_21",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -2633,12 +2633,12 @@
     },
     "properties": {
     "sitename":"Aleppo Citadel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Austin American-Statesman reported that in August 2012 the Syrian army shelled the main gate to the Aleppo citadel, which is more than 800 years old. The Aleppo Citadel is a large medieval fortified palace in the center of the old city.",
     "date1":"Date: ",
-    "date":"August  1, 2012 - August 31, 2012"
+    "date":"August  1, 2012 - August 31, 2012",
+    "date_start":"2012_08_01",
+    "date_end":"2012_08_31",
+    "chsl_id":"CHSLSYR0890"
     }
   },
   {
@@ -2649,28 +2649,28 @@
     },
     "properties": {
     "sitename":"Apamea",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Austin American-Statesman reported in 2012 damage and looting of mosaics from the Greek ruins in Apamea.  Apamea is an ancient city that was the capital of Apamene under the Macedonians.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  December  2, 2012"
+    "date":"March 15, 2011 -  December  2, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_12_02",
+    "chsl_id":"CHSLSYR2301"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Austin American-Statesman reported that in early 2012 Krak de Chevaliers was shelled. This Crusader fortress nears Homs is considered among the best-preserved medieval castles in the world.",
     "date1":"Date: ",
-    "date":"January 1, 2012 - December 2, 2012"
+    "date":"January 1, 2012 - December 2, 2012",
+    "date_start":"2012_01_01",
+    "date_end":"2012_12_02",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -2681,12 +2681,12 @@
     },
     "properties": {
     "sitename":"A'zaz mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Austin American-Statesman reported in September 2012 a mosque in Azaz was damaged. ",
     "date1":"Date: ",
-    "date":"September 1, 2012 - September 30, 2012"
+    "date":"September 1, 2012 - September 30, 2012",
+    "date_start":"2012_09_01",
+    "date_end":"2012_09_30",
+    "chsl_id":"CHSLSYR2359"
     }
   },
   {
@@ -2697,12 +2697,12 @@
     },
     "properties": {
     "sitename":"Bab Touma",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Austin American-Statesman reported that in October 2012 a car bombing damaged Bab Touma or St. Thomas Gate, killing 13 people. This gate is the ancient entrance to the city’s Christian Quarter.",
     "date1":"Date: ",
-    "date":"October 1, 2012 - October 31, 2012"
+    "date":"October 1, 2012 - October 31, 2012",
+    "date_start":"2012_10_01",
+    "date_end":"2012_10_31",
+    "chsl_id":"CHSLSYR0697"
     }
   },
   {
@@ -2713,12 +2713,12 @@
     },
     "properties": {
     "sitename":"Umar Bin Al-Khattab Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Newsfile reported that on December 7, 2012 a terrorist bombing using a boobytrapped car erupted near the Qiba Mosque in the Al-Insha’at neighborhood, injuring 15 people and causing material damage to the mosque.",
     "date1":"Date: ",
-    "date":"December 2, 2012"
+    "date":"December 2, 2012",
+    "date_start":"2012_12_02",
+    "date_end":"2012_12_02",
+    "chsl_id":"CHSLSYR0807"
     }
   },
   {
@@ -2729,12 +2729,12 @@
     },
     "properties": {
     "sitename":"Al Yarmouk mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya, Reuters News, Euronews, and BBC Monitoring Middle East reported that on December 15, 2012 Syrian warplanes bombarded a mosque in the Palestinian Yarmouk camp in Southern Damascus, killing at least twenty five.",
     "date1":"Date: ",
-    "date":"December 9, 2012"
+    "date":"December 9, 2012",
+    "date_start":"2012_12_09",
+    "date_end":"2012_12_09",
+    "chsl_id":"CHSLSYR2364"
     }
   },
   {
@@ -2745,12 +2745,12 @@
     },
     "properties": {
     "sitename":"Great Umayyad Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Financial Times reported that during the civil war in 2012, according to UNESCO, the ancient Umayyad mosque was burnt in fierce fighting between rebels and government forces. The Great Umayyad Mosque is one of the oldest and largest mosques in the city.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  December  27, 2012"
+    "date":"March 15, 2011 -  December  27, 2012",
+    "date_start":"2011_03_15",
+    "date_end":"2012_12_27",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
@@ -2761,28 +2761,28 @@
     },
     "properties": {
     "sitename":"Homs churches",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Daily Star and Dow Jones News Service reported that in early 2013 churches were damaged in Homs.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  December  8, 2012"
+    "date":"March 15, 2011 -  February  8, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_08",
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.7219758,35.5436656 ]
+       "coordinates":  [ 35.79475989,35.54240839 ]
     },
     "properties": {
     "sitename":"Latakia churches",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Daily Star and Dow Jones News Service reported that in early 2013 churches were damaged in Latakia.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  December  8, 2012"
+    "date":"March 15, 2011 -  February  8, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_08",
+    "chsl_id":"CHSLSYR2356"
     }
   },
   {
@@ -2793,12 +2793,12 @@
     },
     "properties": {
     "sitename":"Aleppo churches",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Daily Star and Dow Jones News Service reported that in early 2013 churches were damaged in Aleppo.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  December  8, 2012"
+    "date":"March 15, 2011 -  February  8, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_08",
+    "chsl_id":"CHSLSYR2358"
     }
   },
   {
@@ -2809,12 +2809,12 @@
     },
     "properties": {
     "sitename":"Hauran churches",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Daily Star and Dow Jones News Service reported that in early 2013 churches were damaged in Hauran.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  December  8, 2012"
+    "date":"March 15, 2011 -  February  8, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_08",
+    "chsl_id":"CHSLSYR2360"
     }
   },
   {
@@ -2825,12 +2825,12 @@
     },
     "properties": {
     "sitename":"Damascus churches",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Daily Star and Dow Jones News Service reported that in early 2013 churches were damaged in Damascus.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  December  8, 2012"
+    "date":"March 15, 2011 -  February  8, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_08",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -2841,28 +2841,28 @@
     },
     "properties": {
     "sitename":"Aleppo Citadel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Jordan Times reported that clashes between regime and rebel forces have caused damage to the Aleppo Citadel. The Aleppo Citadel is a large medieval fortified palace in the center of the old city.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  February 10, 2013"
+    "date":"March 15, 2011 -  February 10, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_10",
+    "chsl_id":"CHSLSYR2389"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Jordan Times reported that clashes between regime and rebel forces have caused damage to the Crusader castle Crac des Chevaliers. Crac des Chevaliers is one of the best preserved Medieval crusader castles in the world.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  February 10, 2013"
+    "date":"March 15, 2011 -  February 10, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_10",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -2873,12 +2873,12 @@
     },
     "properties": {
     "sitename":"Um Al Zenar Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Jordan Times reported that clashes between regime and rebel forces have caused damage to the Um Al Zanar church in the northern province of Homs, damaging the decorative steeple. Um Al Zennar Cathedral is a historic Syriac Orthodox Cathedral and the seat of the Syriac Orthodox Archbishop of Homs and Hama. The site of the church is claimed to have been dedicated to Christian worship since 59 AD.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  February 10, 2013"
+    "date":"March 15, 2011 -  February 10, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_10",
+    "chsl_id":"CHSLSYR2395"
     }
   },
   {
@@ -2889,12 +2889,12 @@
     },
     "properties": {
     "sitename":"Apamea",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Jordan Times reported that “mafias” brazenly bulldozed Byzantine mosaics in the Roman city of Apamea near Aleppo. Apamea is a major archaeological site in Syria.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  February 10, 2013"
+    "date":"March 15, 2011 -  February 10, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_10",
+    "chsl_id":"CHSLSYR2301"
     }
   },
   {
@@ -2905,12 +2905,12 @@
     },
     "properties": {
     "sitename":"Barad",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that on February 11, 2013 gunmen attacked the Brad village, vandalizing the Mar Maroun Church and smashing its windows. The village of Brad contains many Byzantine churches and structures. Mar Maroun is dedicated to the 4th century Syriac Christian hermit monk Maron, who founded the Syriac Maronite Church.",
     "date1":"Date: ",
-    "date":"February 11, 2013"
+    "date":"February 11, 2013",
+    "date_start":"2013_02_11",
+    "date_end":"2013_02_11",
+    "chsl_id":"CHSLSYR2392"
     }
   },
   {
@@ -2921,12 +2921,12 @@
     },
     "properties": {
     "sitename":"statue of Abu al-Alaa al-Maari",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse and Reuters News reported that on February 12, 2013 unidentified members of an armed group in northern Syria cut off the head of a statue honoring Abu al-Alaa al-Maari. The Abbasid-era poet is one of the best known Arab poets for his criticism of Islam and other religions.",
     "date1":"Date: ",
-    "date":"February 12, 2013"
+    "date":"February 12, 2013",
+    "date_start":"2013_02_12",
+    "date_end":"2013_02_12",
+    "chsl_id":"CHSLSYR2361"
     }
   },
   {
@@ -2937,12 +2937,12 @@
     },
     "properties": {
     "sitename":"Ebla",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that in February 2013, rebel forces have illicitly excavated tablets from the Bronze Age city of Ebla inscribed in the Sumerian script. Ebla was one of the earliest kingdoms in Syria and contains a world renowned arhive of cuneigorm tablets.",
     "date1":"Date: ",
-    "date":"January 1, 2012 - February  13, 2013"
+    "date":"January 1, 2012 - February  13, 2013",
+    "date_start":"2012_01_01",
+    "date_end":"2013_02_13",
+    "chsl_id":"CHSLSYR2375"
     }
   },
   {
@@ -2953,28 +2953,28 @@
     },
     "properties": {
     "sitename":"Aleppo Souq",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that in February 2013, the Aleppo souk has been cast into the theater of war and become a site for fighting. The souk is a major tourist destination in Aleppo.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  February  13, 2013"
+    "date":"March 15, 2011 -  February  13, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_13",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that in February 2013, the Krak de Chevaliers has been cast into the theater of war and become a site for fighting. Krak des Chevaliers is a Medieval crusador fortress.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  February  13, 2013"
+    "date":"March 15, 2011 -  February  13, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_13",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -2985,12 +2985,12 @@
     },
     "properties": {
     "sitename":"Apamia Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that in February 2013 a collection of marble figurines and tablets has been looted from the museum at Apamea. The museum holds archaeological collections excavated from the ancient city of Apamea.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  February  13, 2013"
+    "date":"March 15, 2011 -  February  13, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_02_13",
+    "chsl_id":"CHSLSYR2330"
     }
   },
   {
@@ -3001,12 +3001,12 @@
     },
     "properties": {
     "sitename":"Church of St. Simeon",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that between January 1 and March 13, 2012, Rebels had looted the Church of Mount Simeon in Mount Simeon. The excavators claimed to have incovered Byzantine mosaics from the Church in Mount Simeon near Aleppo. The Church of St. Simeon Stylites dates back to the 5th century and is one of the oldest surviving church complexes.",
     "date1":"Date: ",
-    "date":"January 1, 2013 -  March  13, 2013"
+    "date":"January 1, 2013 -  March  13, 2013",
+    "date_start":"2013_01_01",
+    "date_end":"2013_03_13",
+    "chsl_id":"CHSLSYR1164"
     }
   },
   {
@@ -3017,12 +3017,12 @@
     },
     "properties": {
     "sitename":"Bosra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that between January 1 and March 13, 2012, Rebels had looted the archeological site in Bosra. The excavators claimed to have uncovered statuettes more than 2,000 years old from the Ancient City. ",
     "date1":"Date: ",
-    "date":"January 1, 2013 -  March  13, 2013"
+    "date":"January 1, 2013 -  March  13, 2013",
+    "date_start":"2013_01_01",
+    "date_end":"2013_03_13",
+    "chsl_id":"CHSLSYR2304"
     }
   },
   {
@@ -3033,12 +3033,12 @@
     },
     "properties": {
     "sitename":"Syriac Orthodox Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that on March 15, 2013, terrorists launched a mortar strike causing material damage to the Syriac Orthodox Church in Aleppo. Located in the Al-Sulaimanieh neighborhood, witness added that \"another mortar shell slammed into al-Maarri school in al-Sulaimanieh and caused property losses\".",
     "date1":"Date: ",
-    "date":"March 15, 2013"
+    "date":"March 15, 2013",
+    "date_start":"2013_03_15",
+    "date_end":"2013_03_15",
+    "chsl_id":"CHSLSYR2358"
     }
   },
   {
@@ -3049,12 +3049,12 @@
     },
     "properties": {
     "sitename":"Deir ez-Zor Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Asharq Al-Awsat reported that between August 1 and 31, 2012, the Syrian Regime destroyed the Museum in Deir ez-Zor. The Deir ez-Zor Museum is devoted to the archaeology and history of northeastern Syria.",
     "date1":"Date: ",
-    "date":"August  1, 2012 - August 31, 2012"
+    "date":"August  1, 2012 - August 31, 2012",
+    "date_start":"2012_08_01",
+    "date_end":"2012_08_31",
+    "chsl_id":"CHSLSYR2387"
     }
   },
   {
@@ -3065,12 +3065,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that on March 28, 2013, Syrian Rebels shelled a Mosque in central Damascus. The mortar targeted a mosque in the upscale district of Malki in central Damascus.",
     "date1":"Date: ",
-    "date":"March 28, 2013"
+    "date":"March 28, 2013",
+    "date_start":"2013_03_28",
+    "date_end":"2013_03_28",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -3081,12 +3081,12 @@
     },
     "properties": {
     "sitename":"church, Dayr al-Zawr",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on March 28, 2013, the Syrian Military shelled two Syriac Orthodox churches in Deir ez-Zor.",
     "date1":"Date: ",
-    "date":"March 28, 2013"
+    "date":"March 28, 2013",
+    "date_start":"2013_03_28",
+    "date_end":"2013_03_28",
+    "chsl_id":"CHSLSYR2347"
     }
   },
   {
@@ -3097,12 +3097,12 @@
     },
     "properties": {
     "sitename":"Hama National Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that between March 15, 2011 and March 28, 2013, an individual looted from the Hama National Museum. A small bronze statue plated with gold from the Aramaic age was stolen from the Hama National Museum.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  March 28, 2013"
+    "date":"March 15, 2011 -  March 28, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_03_28",
+    "chsl_id":"CHSLSYR2335"
     }
   },
   {
@@ -3113,12 +3113,12 @@
     },
     "properties": {
     "sitename":"Al Gassaneyah Evangelical church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse reported that between March 15, 2011 and March 31, 2013, rockets damaged churches in Ghassaniyeh. At the entrance to the town, a large statue of Saint George slaying the dragon has been half destroyed by a rocket, and an altar dedicated to the Virgin Mary bears the marks of fighting. The roof of one of the three churches in the area, belonging to the Evangelical community, has been pierced by a rocket and the floors of buildings in the town have been reduced to rubble by successive air raids.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  March 31, 2013"
+    "date":"March 15, 2011 -  March 31, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_03_31",
+    "chsl_id":"CHSLSYR2397"
     }
   },
   {
@@ -3129,12 +3129,12 @@
     },
     "properties": {
     "sitename":"Al Gassaneyah Catholic church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse  reported that between March 15, 2011 and March 31, 2013, rockets damaged churches in Ghassaniyeh. At the entrance to the town, a large statue of Saint George slaying the dragon has been half destroyed by a rocket, and an altar dedicated to the Virgin Mary bears the marks of fighting. The roof of one of the three churches in the area, belonging to the Evangelical community, has been pierced by a rocket and the floors of buildings in the town have been reduced to rubble by successive air raids.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  March 31, 2013"
+    "date":"March 15, 2011 -  March 31, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_03_31",
+    "chsl_id":"CHSLSYR2397"
     }
   },
   {
@@ -3145,12 +3145,12 @@
     },
     "properties": {
     "sitename":"Damascus mosques",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that between March 1 and 31, 2013, terrorists mortered Damascus University in Damascus. The Source also speaks about the massacres of academians as well as attacks on mosques and martyring Shaikh Hasan Saif al-Din, the prayer imam of Aleppo's Grand Mosque, by Syrian terrorists.",
     "date1":"Date: ",
-    "date":"March 1, 2013 - March 31, 2013"
+    "date":"March 1, 2013 - March 31, 2013",
+    "date_start":"2013_03_01",
+    "date_end":"2013_03_31",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -3161,12 +3161,12 @@
     },
     "properties": {
     "sitename":"Jobar Synagogue",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Evening Standard reported that on April 1, 2013, fighting between the Syrian Military and Rebels resulted in Mortars damaging the Jobar Synagogue in Damascus. Jobar Synagogue was built atop a cave traditionally though to have held the prophet Elijah in hiding. The synagogue dates to at least the Medieval era.",
     "date1":"Date: ",
-    "date":"April 1, 2013"
+    "date":"April 1, 2013",
+    "date_start":"2013_04_01",
+    "date_end":"2013_04_01",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -3177,12 +3177,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between March 3 and April 3, 2013, rebels shelled the dome of a mosque in Abu Rumaneh, Damascus.",
     "date1":"Date: ",
-    "date":"March 3, 2013 -  April 3, 2013"
+    "date":"March 3, 2013 -  April 3, 2013",
+    "date_start":"2013_03_03",
+    "date_end":"2013_04_03",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -3193,12 +3193,12 @@
     },
     "properties": {
     "sitename":"Temple of Bel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Reuters News reported that between February 3, 2013 and April 3, 2013, the Syrian Millitary bombed the Temple of Bel in Palmyra.  The Temple of Bel was edicated to the Mesopotamian god Bel, and was dedicated in AD 32.",
     "date1":"Date: ",
-    "date":"February 3, 2013 -  April 3, 2013"
+    "date":"February 3, 2013 -  April 3, 2013",
+    "date_start":"2013_02_03",
+    "date_end":"2013_04_03",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3209,12 +3209,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on April 8, 2013 a terrorist bombed a crowded area damaging a mosque and school in Damascus. The attack caused many casualties. ",
     "date1":"Date: ",
-    "date":"April 8, 2013"
+    "date":"April 8, 2013",
+    "date_start":"2013_04_08",
+    "date_end":"2013_04_08",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -3225,12 +3225,12 @@
     },
     "properties": {
     "sitename":"al-Fardous Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"FARS News Agency reported that between April 2 and 10, 2013, terrorists mortered the Al-Fardous mosque in Deir ez-Zor. Two shells launched by terrorists fell near al-Fardous Mosque in al-Tahrir square in Baghdad Street, causing fire and material damage in the site.",
     "date1":"Date: ",
-    "date":"April  2, 2013 -  April 10, 2013"
+    "date":"April  2, 2013 -  April 10, 2013",
+    "date_start":"2013_04_02",
+    "date_end":"2013_04_10",
+    "chsl_id":"CHSLSYR0043"
     }
   },
   {
@@ -3241,12 +3241,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse reported that on March 21, 2013, an explosion damaged a mosque killing at least two people in Damascus. The explosion killed Mohammed Saeed al-Bouti a well known cleric but is not clear who is responsible.",
     "date1":"Date: ",
-    "date":"March 21, 2013"
+    "date":"March 21, 2013",
+    "date_start":"2013_03_21",
+    "date_end":"2013_03_21",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -3257,12 +3257,12 @@
     },
     "properties": {
     "sitename":"mosque, Damascus",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that on April 12, 2013, fighting between Rebels and the Syrian Military resulted in shelling by mortar causing damage to a mosque and an adjacent school. Two people were injured.",
     "date1":"Date: ",
-    "date":"April 12, 2013"
+    "date":"April 12, 2013",
+    "date_start":"2013_04_12",
+    "date_end":"2013_04_12",
+    "chsl_id":"CHSLSYR2343"
     }
   },
   {
@@ -3273,12 +3273,12 @@
     },
     "properties": {
     "sitename":"Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France-Presse reported that on April 13, 2013, the Syrian Military destroyed the minaret of the Omari Mosque in Daraa. The Minaret of the Omari mosque was built by Caliph Omar bin al-Khattab .",
     "date1":"Date: ",
-    "date":"April 13, 2013"
+    "date":"April 13, 2013",
+    "date_start":"2013_04_13",
+    "date_end":"2013_04_13",
+    "chsl_id":"CHSLSYR0703"
     }
   },
   {
@@ -3289,12 +3289,12 @@
     },
     "properties": {
     "sitename":"Church of St. Thomas",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"USA Today reported that between January 1 and April 18, 2013, fighting resulted in damage to the Church of St. Thomas in Hasaka. The Gate was sprayed with gunfire, a mural was damaged with bullet holes, and the crossed inside were broken.",
     "date1":"Date: ",
-    "date":"January 1, 2013 -  April 18, 2013"
+    "date":"January 1, 2013 -  April 18, 2013",
+    "date_start":"2013_01_01",
+    "date_end":"2013_04_18",
+    "chsl_id":"CHSLSYR2401"
     }
   },
   {
@@ -3305,12 +3305,12 @@
     },
     "properties": {
     "sitename":"Aleppo Citadel",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that between Between March 15, 2011 and March 15, 2013, fighting between the Syrian Military and Rebels damaged the Aleppo Citadel in Aleppo.  The Aleppo Citadel is part of the ancient city of Aleppo, a UNESCO World Heritage Site. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  March 15, 2013"
+    "date":"March 15, 2011 -  March 15, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_03_15",
+    "chsl_id":"CHSLSYR2389"
     }
   },
   {
@@ -3321,12 +3321,12 @@
     },
     "properties": {
     "sitename":"Souk Al-Madina",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that between Between March 15, 2011 and March 15, 2013, fighting between the Syrian Military and Rebels damaged the Aleppo Souq, a historic marketplace that is a major tourist attraction. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  March 15, 2013"
+    "date":"March 15, 2011 -  March 15, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_03_15",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
@@ -3337,12 +3337,12 @@
     },
     "properties": {
     "sitename":"Great Mosque of Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Al Arabiya reported that between Between March 15, 2011 and March 15, 2013, fighting between the Syrian Military and Rebels damaged the Aleppo Citadel, including the Great Mosque of Aleppo. The Great Mosque is one of the oldest and largest mosques in Aleppo.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  March 15, 2013"
+    "date":"March 15, 2011 -  March 15, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_03_15",
+    "chsl_id":"CHSLSYR0890"
     }
   },
   {
@@ -3353,12 +3353,12 @@
     },
     "properties": {
     "sitename":"St. Mark's Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Spiegel Online International reported that between Feburary 1, 2012, and April 23, 2013, the Syrian Military blasted  the tower of St. Mark's Church in Zabadani. A tank has blasted away half of the tower of the orthodox St. Mark's Church.",
     "date1":"Date: ",
-    "date":"February 1, 2012 - April 23, 2013"
+    "date":"February 1, 2012 - April 23, 2013",
+    "date_start":"2012_02_01",
+    "date_end":"2013_04_23",
+    "chsl_id":"CHSLSYR2354"
     }
   },
   {
@@ -3369,12 +3369,12 @@
     },
     "properties": {
     "sitename":"mosque, Zabadani",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Spiegel Online International reported that between Feburary 1, 2012, and April 23, 2013, the Syrian Military shelled the roof of a mosque Zabadani. The roof of the mosque more than a thousand years old collapsed after several shellings.",
     "date1":"Date: ",
-    "date":"February 1, 2012 - April 23, 2013"
+    "date":"February 1, 2012 - April 23, 2013",
+    "date_start":"2012_02_01",
+    "date_end":"2013_04_23",
+    "chsl_id":"CHSLSYR2354"
     }
   },
   {
@@ -3385,12 +3385,12 @@
     },
     "properties": {
     "sitename":"catholic church, Zabadani",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Spiegel Online International reported that between  Feburary 1, 2012, and April 23, 2013 the Syrian Military destroyed a catholic church in Zabadani.",
     "date1":"Date: ",
-    "date":"February 1, 2012 - April 23, 2013"
+    "date":"February 1, 2012 - April 23, 2013",
+    "date_start":"2012_02_01",
+    "date_end":"2013_04_23",
+    "chsl_id":"CHSLSYR2354"
     }
   },
   {
@@ -3401,12 +3401,12 @@
     },
     "properties": {
     "sitename":"graves, Zabadani",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Spiegel Online International reported that between Feburary 1, 2012, and April 23, 2013, the Syrian Military damaged the graveyard in Zabadani. After the attack, human remains were collected from the street to be reburied.",
     "date1":"Date: ",
-    "date":"February 1, 2012 - April 23, 2013"
+    "date":"February 23, 2012 - April 23, 2013",
+    "date_start":"2012_02_23",
+    "date_end":"2013_04_23",
+    "chsl_id":"CHSLSYR2354"
     }
   },
   {
@@ -3417,28 +3417,28 @@
     },
     "properties": {
     "sitename":"Great Mosque of Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that between February 15 and 28, 2012, fighting between the Syrian Military and Rebels left bullet marks in the Great Mosque in Aleppo. This was the third attack on the Great Mosque of Aleppo in April 2013.",
     "date1":"Date: ",
-    "date":"March 15, 2013 -  February 28, 2013"
+    "date":"February 15, 2013 -  February 28, 2013",
+    "date_start":"2013_02_15",
+    "date_end":"2013_02_28",
+    "chsl_id":"CHSLSYR0890"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Telegraph reported that between March 15, 2011 and April 24, 2013 Fighting between the Syrian Military and Rebels damaged the Krak des Chevaliers. The Krac des Chevaliers is a Crusader castle first inhabitted in the 11th century and a UNESCO World Heritage Site.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  April 24, 2013"
+    "date":"March 15, 2011 -  April 24, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_04_24",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -3449,12 +3449,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Telegraph reported that between March 15, 2011 and April 24, 2013 Fighting between the Syrian Military and Rebels damaged the ancient city of Palmyra.  Palmyra is a major archaeological site and tourist destination in Syria.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  April 24, 2013"
+    "date":"March 15, 2011 -  April 24, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_04_24",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3465,12 +3465,12 @@
     },
     "properties": {
     "sitename":"Hajar ibn Adi Shrine",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The BBC reported that on April 28, 2013,  extremists desecrated the mausoleum of Hojr ibn Oday in Adra. Hojr ibn Oday was a companion to the prophet Muhammad who was sentenced to death by the Umayyad Caaliph Muawiyah.",
     "date1":"Date: ",
-    "date":"April 28, 2013"
+    "date":"April 28, 2013",
+    "date_start":"2013_04_28",
+    "date_end":"2013_04_28",
+    "chsl_id":"CHSLSYR2396"
     }
   },
   {
@@ -3481,12 +3481,12 @@
     },
     "properties": {
     "sitename":"mosque, Al-Bayda village",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"CNN reported that on May 2, 2013, the Syrian Government and loyal militias damaged the mosque in Al-Bayda.  Afterward, the regime forces stormed the village and killed dozens of Sunnis.",
     "date1":"Date: ",
-    "date":"May 2, 2013"
+    "date":"May 2, 2013",
+    "date_start":"2013_05_02",
+    "date_end":"2013_05_02",
+    "chsl_id":"CHSLSYR2400"
     }
   },
   {
@@ -3497,28 +3497,28 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Sunday Times reported that between March 15, 2011 and May 4, 2013, looters stole Roman Busts from Palmyra. The busts are from the second century and reportedly worth 1.4 milllion euro. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  May 4, 2013"
+    "date":"March 15, 2011 -  May 4, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_05_04",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that between April 6 and May 6, 2013, fighting between the Syrian Military and Rebels destroyed the south wall of the krak des Chevaliers. The Krac des Chevaliers is a Crusader castle first inhabitted in the 11th century and a UNESCO World Heritage Site.",
     "date1":"Date: ",
-    "date":"April 6, 2013 - May 6, 2013"
+    "date":"April 6, 2013 - May 6, 2013",
+    "date_start":"2013_04_06",
+    "date_end":"2013_05_06",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -3529,12 +3529,12 @@
     },
     "properties": {
     "sitename":"Great Mosque of Aleppo",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Washington Post reported that between April 6 and May 6, 2013,  the Syrian Military destroyed the minaret of the Great Mosque of Aleppo. The minaret was built in 1090 AD.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  May 6, 2013"
+    "date":"March 15, 2011 -  May 6, 2013",
+    "date_start":"2011_03_15",
+    "date_end":"2013_05_06",
+    "chsl_id":"CHSLSYR0890"
     }
   },
   {
@@ -3545,12 +3545,12 @@
     },
     "properties": {
     "sitename":"Monastery of St. Elian",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported on August 20, 2015, that the Islamic State destroyed the Mar Elian Monastery in central Syria with bulldozers after moving the Christian population to Raqqa, Syria. The town of Qaryten, where the monastery was located, was taken by the IS earlier that month. Mar Elian Monastery was a Syriac Catholic Monastery that housed the 5th-century toumb of Mar Elian, and was a major pilgrimage site.",
     "date1":"Date: ",
-    "date":"August 20, 2015"
+    "date":"August 20, 2015",
+    "date_start":"2015_08_20",
+    "date_end":"2015_08_20",
+    "chsl_id":"CHSLSYR1152"
     }
   },
   {
@@ -3561,12 +3561,12 @@
     },
     "properties": {
     "sitename":"Temple of Baal Shamin",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agencia EFE reported on August 31, 2015 that the Islamic State destroyed several parts of the Temple of Bel in the ancient city of Palmyra, Syria. This was the second attack on an ancient temple in Palmyra within the week.  The Temple of Bel was a Mesopotamian temple dedicated to the god Bel.",
     "date1":"Date: ",
-    "date":"August 31, 2015"
+    "date":"August 31, 2015",
+    "date_start":"2015_08_31",
+    "date_end":"2015_08_31",
+    "chsl_id":"CHSLSYR0697"
     }
   },
   {
@@ -3577,12 +3577,12 @@
     },
     "properties": {
     "sitename":"Triumphal Arch of Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Middle East Financial Network reported that on October 5, 2015 the Islamic state attached explosives to the Arch of Triumph in the ancient Syrian city of Palmyra and blew up the arch. The Arch of Triumph, also known as the Arch of Septimius Severus, was a Roman archway built in the 3rd century.",
     "date1":"Date: ",
-    "date":"October 5, 2015"
+    "date":"October 5, 2015",
+    "date_start":"2015_10_05",
+    "date_end":"2015_10_05",
+    "chsl_id":"CHSLSYR1054"
     }
   },
   {
@@ -3593,12 +3593,12 @@
     },
     "properties": {
     "sitename":"Forty Martyrs Armenian Cathedral",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"ANSA Med reported that on October 25, 2019 the Latin Church of Aleppo was targeted by a mortar shell, fired by anti-Assad rebels, while mass was underway. The shell exploded outside the church, damaging the building, but did not injure the 400 worshippers inside. ",
     "date1":"Date: ",
-    "date":"October 25, 2015"
+    "date":"October 25, 2015",
+    "date_start":"2015_10_25",
+    "date_end":"2015_10_25",
+    "chsl_id":"CHSLSYR0904"
     }
   },
   {
@@ -3609,12 +3609,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"RIA Novosti reports that on October 25, 2015 the Islamic State blew up three ancient columns in city of Palmyra, Syria during the execution of three prisoners. Palmyra has been damaged by other events in the ongoing conflict, especially the Temple of Bel. ",
     "date1":"Date: ",
-    "date":"October 25, 2015"
+    "date":"October 25, 2015",
+    "date_start":"2015_10_25",
+    "date_end":"2015_10_25",
+    "chsl_id":"CHSLSYR1202"
     }
   },
   {
@@ -3625,12 +3625,12 @@
     },
     "properties": {
     "sitename":"Set Zaynab Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Numerous news articles reported that on February 21, 2016, ISIS conducted 4 blasts, including car bombs, a propane gas canister, and at least 2 suicide bombers, near the most important holy Shiite shrine, Sayyida Zeinab, in Damascus. The mosque contains the tomb of the Prophet Mohammad’s granddaughter, Zaynab, which also serves as a center for religious studies for the Shiite sect of Islam and as a destination for mass pilgrimage.",
     "date1":"Date: ",
-    "date":"February 21, 2016"
+    "date":"February 21, 2016",
+    "date_start":"2016_02_21",
+    "date_end":"2016_02_21",
+    "chsl_id":"CHSLSYR1494"
     }
   },
   {
@@ -3641,12 +3641,12 @@
     },
     "properties": {
     "sitename":"Aleppo Umayyad mosque ",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence French Press reported that during April 2013, the minaret of Aleppo’s Ummayad mosque collapsed during fierce fighting. No specific perpetrator was named.  The minaret was built in 1090 AD.",
     "date1":"Date: ",
-    "date":"April  1, 2013 -  April 30, 2013"
+    "date":"April  1, 2013 -  April 30, 2013",
+    "date_start":"2013_04_01",
+    "date_end":"2013_04_30",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
@@ -3657,12 +3657,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"ANSA Med reported that on May 4, ISIS attacked government forces near Palmyra through suicide car bombs in order to secure control of a strategic natural gas field. The May 4 attack was a continuation of a 3-day period in which ISIS attempted to take back the gas field from the Syrian government forces and its allies. Palmyra is a UNESCO World Heritage site, and Syrian government forces and ISIS have been battling over control of the area. ",
     "date1":"Date: ",
-    "date":"May 4, 2016"
+    "date":"May 4, 2016",
+    "date_start":"2016_05_04",
+    "date_end":"2016_05_04",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3673,12 +3673,12 @@
     },
     "properties": {
     "sitename":"Aleppo Umayyad Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"DPA International reported that sometime between April and May 2016, shelling and fire from government forces toppled the minaret of the central Umayyad Mosque in Aleppo. Aleppo was reported to be the “last major urban centre in rebel hands”, and the Aleppo province is one of the most “critical battlegrounds” in the war. ",
     "date1":"Date: ",
-    "date":"April 22, 2016 - May 4, 2016"
+    "date":"April 22, 2016 - May 4, 2016",
+    "date_start":"2016_04_22",
+    "date_end":"2016_05_04",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
@@ -3689,12 +3689,12 @@
     },
     "properties": {
     "sitename":"Bilal al-Habashi mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"FARS News Agency and Mehr News Agency reported that on May 2 and 3, terrorists of the al-Qaeda affiliated al-Nusra front stormed government forces near the Bilal al-Habashi mosque in the Southern districts of Dara'a. No specific damage to the mosque was mentioned, but the city was victim to heavy machinegun fire and its location is reported to be strategic. ",
     "date1":"Date: ",
-    "date":"May 2, 2016 - May 3, 2016"
+    "date":"May 2, 2016 - May 3, 2016",
+    "date_start":"2016_05_02",
+    "date_end":"2016_05_03",
+    "chsl_id":"CHSLSYR0953"
     }
   },
   {
@@ -3705,12 +3705,12 @@
     },
     "properties": {
     "sitename":"Abed Elkader- Al Husaini mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Handelsblatt Global Edition reported that during December 2012 and July 2013, the Syrian regime targeted the Abed Elkader- Al Husaini mosque and Al Faluja school in Yarmouk with airstrikes. Yarmouk became a prime city for refugees fleeing rebel cities that were under attack from Assad’s regime, but the government turned its focus to the city after opposition fighters of the Free Syria Army. The mosque and the school were refugee centers, and many were forced to leave the city of Yarmouk. In July 2013, a partial blockade orchestrated by the regime trapped around 20,000 civilians in the city. ",
     "date1":"Date: ",
-    "date":"December 1, 2012 -  July 31, 2013"
+    "date":"December 1, 2012 -  July 31, 2013",
+    "date_start":"2012_12_01",
+    "date_end":"2013_07_31",
+    "chsl_id":"CHSLSYR0013"
     }
   },
   {
@@ -3721,12 +3721,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reported that during the week of May 15, the Islamic State (IS) militant group launched attacks on Palmyra to recapture the city after losing it to the Syrian government. Palmyra is a UNESCO World Heritage Site and IS militants have been using it as a strategic location for war efforts. The reports noted that IS was advancing on Palmyra to make a comeback. ",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 15, 2016"
+    "date":"January 1, 2011 - May 15, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_05_15",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3737,12 +3737,12 @@
     },
     "properties": {
     "sitename":"Khalid ibn al-Walid Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Design MENA reported that during the Syrian conflict, the Khalid Ibn al-Walid Mosque in the city of Homs was badly damaged. The mosque is named after a military commander who served under the Prophet Muhammad. Homs is known as the “capital of the revolution”, as it led an uprising against President Assad’s regime, and the city was victim to mortars, rockets, and barrel bombs.",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 12, 2016"
+    "date":"January 1, 2011 - May 12, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_05_12",
+    "chsl_id":"CHSLSYR1279"
     }
   },
   {
@@ -3753,12 +3753,12 @@
     },
     "properties": {
     "sitename":"Set Zaynab Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence French Press reported that during January 2016, the Takfiris and jihadists attacked the Sayeda Zeinab mausoleum through a triple explosion. 70 people were killed, and the mausoleum was the target of numerous attacks in 2016.",
     "date1":"Date: ",
-    "date":"January 1, 2016 - January 31, 2016"
+    "date":"January 1, 2016 - January 31, 2016",
+    "date_start":"2016_01_01",
+    "date_end":"2016_01_31",
+    "chsl_id":"CHSLSYR1494"
     }
   },
   {
@@ -3769,12 +3769,12 @@
     },
     "properties": {
     "sitename":"Sayyida Zeinab mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Numerous sources reported that on May 13, 2016, explosions from Takfiri artillery bombardments rocked the Damascus airport, which is near the Sayyida Zeinab shrine, and killed the top Hezbolla military commander Mustafa Badreddine. According to Twelver Shia Muslim tradition, the Sayyida Zeinab shrine is dedicated to the daughter of Ali and Fatimah, the granddaughter of Muhammad.",
     "date1":"Date: ",
-    "date":"May 12, 2016 - May 13, 2016"
+    "date":"May 12, 2016 - May 13, 2016",
+    "date_start":"2016_05_12",
+    "date_end":"2016_05_13",
+    "chsl_id":"CHSLSYR1469"
     }
   },
   {
@@ -3785,12 +3785,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"TASS World Service reported that between 2012 and May 2016, Syrian ancient treasures in Palmyra have been looted. Palmyra was looted specifically when ISIS demolished the Temple of Bel, the Temple of Baal Shamin, the Palmyrene tombs, the Arc of Triumph and the statue of the Lion of al-Lat. ",
     "date1":"Date: ",
-    "date":"January 11, 2012 - May 16, 2012"
+    "date":"January 11, 2012 - May 16, 2016",
+    "date_start":"2012_01_11",
+    "date_end":"2016_05_16",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3801,12 +3801,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Canadian Press and the Guardian reported that the Russian military was constructing a base after the Palmyra UNESCO World Heritage Site was controlled by ISIS militants. Construction of the base, including barracks, offices, and clinics, began on the northern edge of the site that was previously damaged by ISIS.",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 17, 2016"
+    "date":"January 1, 2011 - May 17, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_05_17",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3817,12 +3817,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Sputnik News Service reported that on May 12, the Syrian army captured Daesh jihadist group commander Ahmad Mursid al-Iraqi during a raid in Palmyra. Other terrorists were also killed during the raid. The ancient city of Palmyra is a UNESCO World Heritage Site. ",
     "date1":"Date: ",
-    "date":"May 17, 2016"
+    "date":"May 17, 2016",
+    "date_start":"2016_05_17",
+    "date_end":"2016_05_17",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3833,12 +3833,12 @@
     },
     "properties": {
     "sitename":"Cathedral of St. Simeon Stylite",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Several sources reported that between May 12 and May 16, an airstrike hit the St. Simeon monestary in the Ancient Villages of Northern Syria, a UNESCO World Heritage Site. The Church of Saint Simeon suffered severe damage, specifically to the pillars where it is said Saint Simeon spent forty years as a hermit, the facade, which was holed, and the nave, where the missile struck.",
     "date1":"Date: ",
-    "date":"May 12, 2016 - May 18, 2016"
+    "date":"May 12, 2016 - May 18, 2016",
+    "date_start":"2016_05_12",
+    "date_end":"2016_05_18",
+    "chsl_id":"CHSLSYR1164"
     }
   },
   {
@@ -3849,12 +3849,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Numerous sources reported that on March 27, Russian airstrikes, Syrian soldiers, tanks, missile systems, mortars, cannons firing, and missiles damaged the ancient city of Palmyra. They were conducted during the March 2015 recapture of Palmyra from ISIS control to Syria and Russian military control. The city is a UNESCO World Heritage Site and was used as a strategic location by ISIS. Efforts to remove mines and to restore destroyed buildings are being administered. ",
     "date1":"Date: ",
-    "date":"March 1, 2015 - May 18, 2016"
+    "date":"March 1, 2015 - May 18, 2016",
+    "date_start":"2015_03_01",
+    "date_end":"2016_05_18",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3865,12 +3865,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":" Iran Daily reported that on April 1, a mass grave containing 42 bodies was discovered in the northeastern region of Palmyra. Daesh terrorists were attributed to the violence.",
     "date1":"Date: ",
-    "date":"January 1, 2011 - April 1, 2016"
+    "date":"January 1, 2011 - April 1, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_04_01",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3881,12 +3881,12 @@
     },
     "properties": {
     "sitename":"Sayyida Zeinab mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Guardian reported that on May 22, 2016, ISIS claimed several bombings near the Sayyida Zeinab Mosque in Damascus. The first blast was caused by a car bomb, and the next two were caused by suicide bombers. Over fifty people were killed and 120 were injured. The Sayyida Zeinab Mosque is a known pilgrimage site for Shia Muslims living in nearby countries of Iran, Lebanon, and others. The attacks were conducted in response to UN peace talks where Syrian government and opposition officials participated. ",
     "date1":"Date: ",
-    "date":"May 22, 2016"
+    "date":"May 22, 2016",
+    "date_start":"2016_05_22",
+    "date_end":"2016_05_22",
+    "chsl_id":"CHSLSYR1469"
     }
   },
   {
@@ -3897,12 +3897,12 @@
     },
     "properties": {
     "sitename":"Omar Bin Al Khattab mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Guardian reported that on October 1, 2015, Russian defense military forces bombed the Omar Bin Al Khattab mosque in Jisr al-Shughour, Idlib, destroying minarets and killing at least two. On October 30, the Russians denied having hit the mosque, and instead argued that they hit the Al Farooq mosque, but aerial footage shown by the Atlantic Council showed otherwise. Russians also denied targeting other cities, civilians, and mosques, but the Atlantic Council’s aerial photographs showed Russian targets have been outside of ISIS controlled territory. ",
     "date1":"Date: ",
-    "date":"October 1, 2015"
+    "date":"October 1, 2015",
+    "date_start":"2015_10_01",
+    "date_end":"2015_10_01",
+    "chsl_id":"CHSLSYR1460"
     }
   },
   {
@@ -3913,12 +3913,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Numerous sources reported that from July 2015 to May 2016, Russian airstrikes, ISIS land mines and booby traps, and Syrian military forces have been targeting Palmyra. Palmyra is a UNESCO World Heritage site and was Syria’s most popular tourist attraction. ISIS destroyed 3 temples, including the Temple of Bel, Temple of Baalshamin, the Arch of Triumph, lower tombs, and a lion statue at Palmyra's entrance soon after seizing the ancient city in 2011 and used an ancient Roman amphitheater as a location for executions. Syrian forces, backed by the Russian military, gained back the city in 2015, which served as a military success symbol for them. ISIS is planting mines and booby traps in attempts to regain it as it is used as a channel for personnel and equipment.    ",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 27, 2016"
+    "date":"January 1, 2011 - May 27, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_05_27",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3929,12 +3929,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Guardian reported that sometime during the week before May 27, 2016, a mass grave of 42 bodies was discovered in the ancient city of Palmyra. The grave consisted of 24 civilian victims, including children, and officers, soldiers, members of pro-regime committees and relatives. During ISIS’s entire occupation of Palmyra, over 280 people were killed. ",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 27, 2016"
+    "date":"January 1, 2011 - May 27, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_05_27",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -3945,28 +3945,28 @@
     },
     "properties": {
     "sitename":"Aleppo Umayyad mosque ",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Guardian reported that during 2011 and 2016, an Umayyad mosque in Aleppo was nearly destroyed due to shelling, barrel bombs, and artillery fire. No perpetrator was specifically named.",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 27, 2016"
+    "date":"January 1, 2011 - May 27, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_05_27",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers castle",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Saudi Gazette reported that for three months in 2014, the Krak des Chevaliers castle was “overrun” by rebels and damaged by “mortar fires”. The castle is a 900-year-old UNESCO World Heritage site, and French archaeologists are attempting to repair the damage done to the site, caused by shrapnel and bomb damage. Additional ancient cities of Homs and Aleppo are reported to be “in ruins”. ",
     "date1":"Date: ",
-    "date":"January 1, 2014 - December 31, 2014"
+    "date":"January 1, 2014 - December 31, 2014",
+    "date_start":"2014_01_01",
+    "date_end":"2014_12_31",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -3977,12 +3977,12 @@
     },
     "properties": {
     "sitename":"Sho’ayb mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"FARS News Agency reported that on May 28, 2016, a bomb-laden car exploded near the Sho’ayb mosque in the al-Dhabit district of Idlib. Over 30 were killed in the blast, including field commanders and guards of the al-Qaeda affiliated al-Nursa front and some civilians. N",
     "date1":"Date: ",
-    "date":"May 28, 2016 - May 29, 2016"
+    "date":"May 28, 2016 - May 29, 2016",
+    "date_start":"2016_05_28",
+    "date_end":"2016_05_29",
+    "chsl_id":"CHSLSYR1351"
     }
   },
   {
@@ -3993,12 +3993,12 @@
     },
     "properties": {
     "sitename":"Zaynab holy shrine",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"BBC Monitoring Middle East reported that on May 29, 2016, Mohammad Davud Khademi was killed while defending holy shrine of Zaynab, the granddaughter of Prophet Muhammad. No specific damage to the shrine was mentioned. ",
     "date1":"Date: ",
-    "date":"5/29/16"
+    "date":"May 29, 2016",
+    "date_start":"2016_05_29",
+    "date_end":"2016_05_29",
+    "chsl_id":"CHSLSYR0847"
     }
   },
   {
@@ -4009,12 +4009,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Indo-Asian News Service reported that a few days prior to May 30, 2016, the Syrian army uncovered a new mass burial site in the ancient ruins of Palmyra, Syria. IS militants seized the “significantly important location” in 2015 and are known to kill civilians and dump bodies there. Workers trying to repair the ruins find other graves almost every 10-15 days. ",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 30, 2016"
+    "date":"January 1, 2011 - May 30, 2016",
+    "date_start":"2011_01_01",
+    "date_end":"2016_05_30",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -4025,12 +4025,12 @@
     },
     "properties": {
     "sitename":"Great Umayyad Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Independent online reports that the Omayyad Mosque of Sulieman ben Abdul Malik was destroyed.",
     "date1":"Date: ",
-    "date":"March 15, 2011 - July 4, 2016"
+    "date":"March 15, 2011 - July 4, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_07_04",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
@@ -4041,12 +4041,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Statesman, News Wing, and Mirror report that on July 8, 2016, videos were released showing Islamic State militants destroying statues and running over mummies with a lorry in Palmyra. ",
     "date1":"Date: ",
-    "date":"July 8, 2016"
+    "date":"July 8, 2016",
+    "date_start":"2016_07_08",
+    "date_end":"2016_07_08",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -4057,12 +4057,12 @@
     },
     "properties": {
     "sitename":"Janpolad Palace",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Sputnik News Service reports that on July 11, 2016, the Aleppo National Museum  was hit by heavy shelling which damaged the building's structure and roof. This shelling was a result of continuing conflict in Aleppo and many exhibitions that content extensive examples of Syrian archeology were placed at risk.",
     "date1":"Date: ",
-    "date":"July 11, 2016"
+    "date":"July 11, 2016",
+    "date_start":"2016_07_11",
+    "date_end":"2016_07_11",
+    "chsl_id":"CHSLSYR0068"
     }
   },
   {
@@ -4073,12 +4073,12 @@
     },
     "properties": {
     "sitename":"Karkamis Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"AP reports that in August 2016, Turkish troops crossed into Syria through the ancient city of Karkemish. While the Turkish side of the city remains safe, sporadic gunfire and shelling can be heard from the Syrian side of the city. The archeological materials of Karkemish on the Syrian sideare extremely vulnerable to damage as they are just below ground surface. ",
     "date1":"Date: ",
-    "date":"August 1, 2016 - September 7, 2016"
+    "date":"August 1, 2016 - September 7, 2016",
+    "date_start":"2016_08_01",
+    "date_end":"2016_09_07",
+    "chsl_id":"CHSLSYR0797"
     }
   },
   {
@@ -4089,12 +4089,12 @@
     },
     "properties": {
     "sitename":"Tell 'Ajaja",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The French Press Agency reports that the Islamic State captured and destroyed Tal Ajaja, also destroying statues and cuneiform tablets found at the Assyrian-era site. IS was chased out of the site by Kurdish fighters in February 2016. It is reported that IS has destroyed about 40% of Tal Ajaja.",
     "date1":"Date: ",
-    "date":"January 1, 2014 - February 29, 2016"
+    "date":"January 1, 2014 - February 29, 2016",
+    "date_start":"2014_01_01",
+    "date_end":"2016_02_29",
+    "chsl_id":"CHSLSYR1069"
     }
   },
   {
@@ -4105,12 +4105,12 @@
     },
     "properties": {
     "sitename":"Al-Omari Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"FARS News Agency reports that on Saturday August 6, 2016, Syrian sodiers stormed the eastern side of the al-Omari mosque whch was occupied by the Fatah al-Sham front at the time. Fatah al-Sham, previously known as the al-Nusra Front, had established strongholds in Dara'a province.",
     "date1":"Date: ",
-    "date":"August 6, 2016"
+    "date":"August 6, 2016",
+    "date_start":"2016_08_06",
+    "date_end":"2016_08_06",
+    "chsl_id":"CHSLSYR0018"
     }
   },
   {
@@ -4121,12 +4121,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Times UK reports that ISIS blew up the second-century Lion of al-Lat statue at some point during the conflict. The remnants of this statue was found ater the city of Palmyra was recaptured in March 2016 with Russian help. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  August 26, 2016"
+    "date":"March 15, 2011 -  August 26, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_08_26",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -4137,12 +4137,12 @@
     },
     "properties": {
     "sitename":"Sayeda Zeinab Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Xinhua News Agency reports that a Shiite shrine in Daraya has been repeatedly attacked and bombed by Sunni-led rebels. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  September 1, 2016"
+    "date":"March 15, 2011 -  September 1, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_09_01",
+    "chsl_id":"CHSLSYR1469"
     }
   },
   {
@@ -4153,12 +4153,12 @@
     },
     "properties": {
     "sitename":"Khalid ibn al-Walid Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The New York Times reported that at some point during the Syrian conflict, the Khalid ibn al-Walid mosque was severely damaged. This site was an important pilgrimage site in Homs.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  September 14, 2016"
+    "date":"March 15, 2011 -  September 14, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_09_14",
+    "chsl_id":"CHSLSYR1279"
     }
   },
   {
@@ -4169,12 +4169,12 @@
     },
     "properties": {
     "sitename":"Temple of Baal Shamin",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Deutsche Presse-Agentur reports that in 2015, the Islamic state destroyed the temple Bel in Palmyra. The temple is dedicated to a Mesopotamian god.",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  September 15, 2016"
+    "date":"March 15, 2011 -  September 15, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_09_15",
+    "chsl_id":"CHSLSYR0697"
     }
   },
   {
@@ -4185,12 +4185,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"CNN Newsroom reports that in 2016, the Russian military reports it has killed 250 ISIS fighters in an airstrike north of Palmyra. This strike was meant to prevent ISIS from retaking Palmyra. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  September 15, 2016"
+    "date":"March 15, 2011 -  September 15, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_09_15",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -4201,12 +4201,12 @@
     },
     "properties": {
     "sitename":"Ma'ara Mosaic Museum",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Kathimerinin English Edition reported that on May, 9, 2016, Syrian army airstrikes and shelling damaged the The Maarat al-Numan Mosaics Museum in the Idlib Governorate, Syria. This is the third time that the museum has been severely damaged, even after attempts to clean up the damaged areas and prevent any future destruction. The Museum contains a significant collection of Byzantine-era mosaics.",
     "date1":"Date: ",
-    "date":"May 9, 2016"
+    "date":"May 9, 2016",
+    "date_start":"2016_05_09",
+    "date_end":"2016_05_09",
+    "chsl_id":"CHSLSYR2302"
     }
   },
   {
@@ -4217,12 +4217,12 @@
     },
     "properties": {
     "sitename":"Apamea- general",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Kathimerinin English Edition and La Stampa reported that sometime between July 19, 2011, and December 31, 2011, ISIS militants and treasure hunters looted and severely damaged the ancient site of Apamea, near Hama, Syria. Satellites images showed that looters dug hundreds of holes looking for ancient artifacts.  Apamea was an an ancient Greek and Roman city, now found in present-day Syria, on the Orontes River. ",
     "date1":"Date: ",
-    "date":"July 19, 2011 - Decembe 31, 2011"
+    "date":"July 19, 2011 - December 31, 2011",
+    "date_start":"2011_07_19",
+    "date_end":"2011_12_31",
+    "chsl_id":"CHSLSYR2301"
     }
   },
   {
@@ -4233,12 +4233,12 @@
     },
     "properties": {
     "sitename":"Armenian Forty Martyrs Cathedral",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Sunday Times reported that on either April 28 or April 29, 2015, clashes between Syrian government forces and rebels caused the Cathedral of Forty Martyrs to be targeted by bombing. The cathedral is a significant part of the Armenian community of Aleppo, Syria, as it has been standing since the 1400's. ",
     "date1":"Date: ",
-    "date":"April 28, 2015 -  Arpil 29, 2015"
+    "date":"April 28, 2015 -  April 29, 2015",
+    "date_start":"2015_04_28",
+    "date_end":"2015_04_29",
+    "chsl_id":"CHSLSYR0904"
     }
   },
   {
@@ -4249,28 +4249,28 @@
     },
     "properties": {
     "sitename":"Khirbat al Mari",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Publico Online reported that sometime in March 2013, Mari experienced its first instance of heavy looting and illegal excavations. Mari is an ancient Mesopotamian city in Syria. At the site, thousands of looting pits were found. Looters, most likely consisting of Islamic State militants, armed gangs, and civilians, took huge quantities of ancient artifacts. ",
     "date1":"Date: ",
-    "date":"March 1, 2013 -  March 31, 2013"
+    "date":"March 1, 2013 -  March 31, 2013",
+    "date_start":"2013_03_01",
+    "date_end":"2013_03_31",
+    "chsl_id":"CHSLSYR0260"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 34.756959,34.756959 ]
+       "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
     "sitename":"Krak des Chevaliers",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse reported that sometime in March 2013, Krak des Chevaliers experienced its first instance of damage by bombing, shelling, and looting as a result of the Syrian Civil War clashes. Krak des Chevaliers is a medieval Crusader castle located near Homs, Syria. ",
     "date1":"Date: ",
-    "date":"March 1, 2013 -  March 31, 2013"
+    "date":"March 1, 2013 -  March 31, 2013",
+    "date_start":"2013_03_01",
+    "date_end":"2013_03_31",
+    "chsl_id":"CHSLSYR2306"
     }
   },
   {
@@ -4281,12 +4281,12 @@
     },
     "properties": {
     "sitename":"Tell 'Ajaja",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Agence France Presse and SOUEST reported that sometime between May 1, 2014, and May 22, 2014, ISIS militants and looters destroyed hundreds, possibly thousands of ancient Assyrian statues, monuments, and sculptures in Tal Ajaja, Syria. Ancient goods were also looted from Tal Ajaja. Tal Ajaja, or ancient Saddikanni, is an ancient Assyrian-era archaeological site in Syria. ",
     "date1":"Date: ",
-    "date":"May 1, 2014 -  May 22, 2014"
+    "date":"May 1, 2014 -  May 22, 2014",
+    "date_start":"2014_05_01",
+    "date_end":"2014_05_22",
+    "chsl_id":"CHSLSYR1069"
     }
   },
   {
@@ -4297,12 +4297,12 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Canberra Times reported that on August 18, 2015, Islamic State militants publicly beheaded Khaled al-Asaad, a Syrian archaeologist and the antiquities director of Palmyra.  Al-Asaad refused to give out sensitive information regarding remaining artifacts, so ISIS beheaded him and hung his body from one of the ancient Roman columns in Palmyra, Syria. ",
     "date1":"Date: ",
-    "date":"August 18, 2015"
+    "date":"August 18, 2015",
+    "date_start":"2015_08_18",
+    "date_end":"2015_08_18",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -4313,12 +4313,12 @@
     },
     "properties": {
     "sitename":"Great Umayyad Mosque",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Sunday Times and The Associated Press reported that on April 24, 2013, fighting between Syrian government forces and the rebels destroyed the minaret of Great Umayyad Mosque in Aleppo, Syria. The minaret was destroyed by shellfire. ",
     "date1":"Date: ",
-    "date":"April 24, 2013"
+    "date":"April 24, 2013",
+    "date_start":"2013_04_24",
+    "date_end":"2013_04_24",
+    "chsl_id":"CHSLSYR2307"
     }
   },
   {
@@ -4329,12 +4329,12 @@
     },
     "properties": {
     "sitename":"Amphitheater ",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Times reported that on May 27, 2015, Islamic State militants used the Roman amphitheatre in Palmyra, Syria as a place for public executions, sometimes in front of crowds. Those executed included Syrian government troops. ",
     "date1":"Date: ",
-    "date":"May 27, 2015"
+    "date":"May 27, 2015",
+    "date_start":"2015_05_27",
+    "date_end":"2015_05_27",
+    "chsl_id":"CHSLSYR1586"
     }
   },
   {
@@ -4345,12 +4345,12 @@
     },
     "properties": {
     "sitename":"Temple of Baal Shamin",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Associated Press reported that on August 24, 2015, Islamic State militants blew up and destroyed part of the Temple of Baalshamin. The Temple of Baalshamin is an ancient  Mesopotamian temple located in modern-day Palmyra, Syria. ",
     "date1":"Date: ",
-    "date":"August 24, 2015"
+    "date":"August 24, 2015",
+    "date_start":"2015_08_24",
+    "date_end":"2015_08_24",
+    "chsl_id":"CHSLSYR0697"
     }
   },
   {
@@ -4361,12 +4361,12 @@
     },
     "properties": {
     "sitename":"Triumphal Arch of Palmyra",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"Sputnik News Service reported that on October 5, 2015, Islamic State militants blew up the 2000 year old Monumental Arch of Palmyra, in Palmyra, Syria. The Monumental Arch of Palmyra, also called the Arch of Triumph, was erected during the period of Roman emporer Septimius Severus. ",
     "date1":"Date: ",
-    "date":"October 5, 2015"
+    "date":"October 5, 2015",
+    "date_start":"2015_10_05",
+    "date_end":"2015_10_05",
+    "chsl_id":"CHSLSYR1054"
     }
   },
   {
@@ -4377,12 +4377,12 @@
     },
     "properties": {
     "sitename":"Al-Shibani Church",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Peninsula reported that between January 1, 2013 and the end of April, 2013, fights between the Syrian army and the rebels caused damage to the Al-Shibani church school. Located in Aleppo, Syria, the Al-Shibani church is currently used as a center for cultural exhibitions. However, in the past, it has been used as an Islamic school, a university, and a tobacco warehouse. ",
     "date1":"Date: ",
-    "date":"January 1, 2013 -  April 30, 2013"
+    "date":"January 1, 2013 -  April 30, 2013",
+    "date_start":"2013_01_01",
+    "date_end":"2013_04_30",
+    "chsl_id":"CHSLSYR0898"
     }
   },
   {
@@ -4393,12 +4393,12 @@
     },
     "properties": {
     "sitename":"Aleppo Souq",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Times reported that in September 2012, fighting between the Syrian Armed Forces and the Free Syrian Army caused heavy damage, by bombs and fires, to the Al-Madina Souk in Aleppo, Syria. The Al-Madina Souk is the largest covered market in the world. ",
     "date1":"Date: ",
-    "date":"September 1, 2012 - September 30, 2012"
+    "date":"September 1, 2012 - September 30, 2012",
+    "date_start":"2012_09_01",
+    "date_end":"2012_09_30",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
@@ -4409,12 +4409,12 @@
     },
     "properties": {
     "sitename":"Museum of Popular Traditions",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Times reported that on August 19, 2016, the Free Syrian Army blew up and damaged Beit Achiqbash in Aleppo, Syria. Beit Achiqbash is an old mansion famous for it's courtyard, orignally built in the 18th century by Karah Ali, a Christian merchant. ",
     "date1":"Date: ",
-    "date":"August 19, 2016"
+    "date":"August 19, 2016",
+    "date_start":"2016_08_19",
+    "date_end":"2016_08_19",
+    "chsl_id":"CHSLSYR0067"
     }
   },
   {
@@ -4425,12 +4425,12 @@
     },
     "properties": {
     "sitename":"Palmyra monuments",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The International New York Times reported that sometime between May 23, 2015 and May 31, 2015, during the ISIL occupation of Palmyra, Syria, Islamic State terrorists blew up monuments that were found on historical sites in Palmyra, Syria. ",
     "date1":"Date: ",
-    "date":"May 23, 2015 - May 31, 2015"
+    "date":"May 23, 2015 - May 31, 2015",
+    "date_start":"2015_05_23",
+    "date_end":"2015_05_31",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -4441,12 +4441,12 @@
     },
     "properties": {
     "sitename":"Palmyra statues",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The International New York Times reported that sometime between May 23, 2015 and May 31, 2015, during the ISIL occupation of Palmyra, Syria, Islamic State terrorists smashed statues that were found on historical sites in Palmyra, Syria. ",
     "date1":"Date: ",
-    "date":"May 23, 2015 - May 31, 2015"
+    "date":"May 23, 2015 - May 31, 2015",
+    "date_start":"2015_05_23",
+    "date_end":"2015_05_31",
+    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -4457,12 +4457,12 @@
     },
     "properties": {
     "sitename":"Dura Europos",
-    "ucdp_dyad":"",
-    "epr_initiator":"",
-    "epr_at_sit":"",
     "description":"The Herald reported that sometime between December 1, 2014 and December 17, 2014, Dura-Europos was significantly looted. Dura-Europos is an ancient Roman border city near Salhiyah, Syria.",
     "date1":"Date: ",
-    "date":"December 1, 2014 -  December 17, 2014"
+    "date":"December 1, 2014 -  December 17, 2014",
+    "date_start":"2014_12_01",
+    "date_end":"2014_12_17",
+    "chsl_id":"CHSLSYR2300"
     }
   }
 ]
