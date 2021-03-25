@@ -1353,7 +1353,7 @@
     },
     "properties": {
     "sitename":"Grand Mosque of Douma",
-    "description":"BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Grand Mosque of Douma. The Grand Mosque in Douma is one of the largest mosques in the suburbs of Damascus. It was first built in 1136 but later demolished and rebuilt in 1983.\n",
+    "description":"BBC Monitoring Middle East reported that on December 9, 2011 the Syrian army planted an explosive outside the Grand Mosque of Douma. The Grand Mosque in Douma is one of the largest mosques in the suburbs of Damascus. It was first built in 1136 but later demolished and rebuilt in 1983",
     "date1":"Date: ",
     "date":"December 9, 2011",
     "date_start":"2011_12_09",
@@ -5791,22 +5791,6 @@
     "date_start":"2013_09_05",
     "date_end":"2013_09_05",
     "chsl_id":"CHSLSYR0014"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "sitename":"",
-    "description":"",
-    "date1":"",
-    "date":"",
-    "date_start":"",
-    "date_end":"",
-    "chsl_id":""
     }
   }
 ]
