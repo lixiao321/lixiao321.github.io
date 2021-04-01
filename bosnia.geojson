@@ -3328,6 +3328,2502 @@
     "chsl_id":"CHSLBIH1622",
     "description":"HINA reported that between April 6, 1992 and December 14, 1995, unspecified actors damaged St. Luke’s Franciscan monastery in Serb-held Jajce. The monastery contains the remains of the last Bosnian king. Serbs are suspected to be responsible for damage to the Croat site."
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.731799,43.13439 ]
+    },
+    "properties": {
+    "datestart":"1991_01_01",
+    "dateend":"1992_12_31",
+    "date":"January 1, 1991- December 31, 1992",
+    "date1":"Date:",
+    "sitename":"Počitelj Mosque",
+    "chsl_id":"CHSLBIH1625",
+    "description":"The International Herald Tribune reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the ancient Sisam Imbrahim-immersed mosque in Pocitelj. Pocitelj is a historic Ottoman town and is considered to be an open-air museum due to its Ottoman Islamic tradition."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.429113,44.598073 ]
+    },
+    "properties": {
+    "datestart":"1992_08_01",
+    "dateend":"1992_08_31",
+    "date":"August 1, 1992 - August 31, 1992",
+    "date1":"Date:",
+    "sitename":"Džamija Hanifići",
+    "chsl_id":"CHSLBIH1626",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors burned 19 Bosnian Muslims to death in the mosque in Hanifici, damaging the mosque. Patterns of ethnic cleansing and mass grave burial suggest that Serb forces were responsible for the destruction."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.80750701,43.34379338 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Mostar Mosque",
+    "chsl_id":"CHSLBIH1459",
+    "description":"Agence France-Presse reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed a mosque in Mostar. Mostar was the site of fighting between Bosnian Muslims, Croats, and Serbs during the war and suffered shelling and artillery fire."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.56828414,44.78894849 ]
+    },
+    "properties": {
+    "datestart":"1999_11_07",
+    "dateend":"1999_11_07",
+    "date":"November 7, 1999",
+    "date1":"Date:",
+    "sitename":"St. Ante Pustinjaka Catholic Church",
+    "chsl_id":"CHSLBIH1627",
+    "description":"HINA reported that on November 7, 1999, unspecified actors broke four windows and damaged the door of a Croat Catholic church in Bijela. The population of Bijela is majority Croat, and Bijela reportedly had the highest number of Croat refugee returns to their pre-war homes."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.40801,43.84975 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Old Jewish Cemetery",
+    "chsl_id":"CHSLBIH1628",
+    "description":"U.S. Newswire reported that between April 6, 1992 and December 14, 1995, Bosnian Serb forces damaged the Old Jewish Cemetery in Sarajevo with artillery fire and mining. The site was used as a Serb sniper post. The cemetery is the oldest intact Jewish burial ground in southeastern Europe."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.90531646,44.97729888 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1999_12_13",
+    "date":"April 6, 1992 - December 13, 1995",
+    "date1":"Date:",
+    "sitename":"Derventa Catholic Church",
+    "chsl_id":"CHSLBIH1609",
+    "description":"The Associated Press reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed a Roman Catholic church in Derventa. When priests attempted to visit the ruins in the Serb-administered town in 1999, they were attacked."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.89992993,44.90041768 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Omarska Village Mosque",
+    "chsl_id":"CHSLBIH1610",
+    "description":"The Associated Press reported that between April 6, 1992 and December 14, 1995, Serb forces demolished a mosque in a village near Omarska. Omarska contained a Serb-run concentration camp targeting non-Serb populations. The Serb destruction of mosques aligned with their ethnic cleansing designs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2778085,44.1065822 ]
+    },
+    "properties": {
+    "datestart":"1995_07_01",
+    "dateend":"1995_07_31",
+    "date":"July 1, 1995 - July 31, 1995",
+    "date1":"Date:",
+    "sitename":"Srebrenica Main Mosque",
+    "chsl_id":"CHSLBIH1500",
+    "description":"The Associated Press reported that between July 11-22, 1995, Serb forces razed the main mosque in Srebrenica. The destruction of the mosque occurred as part of an ethnic cleansing campaign that killed approximately 7,500 Bosnian Muslim men and deported 25,000 women and children. Serbs sought control of the strategically-located town."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8523,43.3088 ]
+    },
+    "properties": {
+    "datestart":"2000_01_01",
+    "dateend":"2000_04_04",
+    "date":"January 1, 2000 - April 4, 2000",
+    "date1":"Date:",
+    "sitename":"Kocine Catholic Graves",
+    "chsl_id":"CHSLBIH1611",
+    "description":"BBC reported that between January 1, 2000 and April 4, 2000, unspecified actors desecrated Croat Catholic graves in Kocine, near Mostar. Croats began to return to the area in 2000 and implied that Bosnian Muslims were responsible for the desecration."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.90531646,44.97729888 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Derventa Chapel",
+    "chsl_id":"CHSLBIH1609",
+    "description":"Agence France-Presse reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed a Croat Catholic chapel in Derventa. The area was controlled by Serbs during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.89992993,44.90041768 ]
+    },
+    "properties": {
+    "datestart":"2000_06_26",
+    "dateend":"2000_06_26",
+    "date":"June 26, 2000",
+    "date1":"Date:",
+    "sitename":"Derventa Chapel",
+    "chsl_id":"CHSLBIH1610",
+    "description":"Agence France-Presse reported that on June 26, 2000, unspecified actors bombed a newly rebuilt Croat Catholic chapel in Derventa. The chapel was one of several Catholic sites targeted as Croats returned to their pre-war homes in the Serb-held area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.43156785,43.8664811 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Mosque near Sarajevo ",
+    "chsl_id":"CHSLBIH1450",
+    "description":"Pakistan Press International reported that between April 6, 1992 and December 14, 1995, enemies of Bosnian Muslims burned and destroyed a mosque near Sarajevo. More than 1,000 mosques were reportedly razed during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41336708,45.03171982 ]
+    },
+    "properties": {
+    "datestart":"2000_08_08",
+    "dateend":"2000_08_08",
+    "date":"August 8, 2000",
+    "date1":"Date:",
+    "sitename":"St. Duha Catholic Church",
+    "chsl_id":"CHSLBIH1629",
+    "description":"BBC reported that on August 8, 2000, unspecified actors threw a grenade at a Catholic church in Zasavica. The town is located in the Serb-administered Srpska Republic. Attacks on sites of Croat Catholic heritage became increasingly prevalent with the return of Croat refugees to their pre-war homes."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.8395,44.9743 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Kozarac Mosque ",
+    "chsl_id":"CHSLBIH1612",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed a mosque in Serb-administered Kozarac. Mosques were commonly destroyed during Serb-led campaigns of ethnic cleansing in Bosnia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.42515,43.85822 ]
+    },
+    "properties": {
+    "datestart":"2000_08_30",
+    "dateend":"2000_09_06",
+    "date":"August 30, 2000 - September 6, 2000",
+    "date1":"Date:",
+    "sitename":"Congregational Church of the Holy Mother ",
+    "chsl_id":"CHSLBIH1631",
+    "description":"BBC reported that between August 30, 2000 and September 6, 2000, unspecified actors looted the Serb Orthodox Congregational church of the Holy Mother in Bascarsija, Sarajevo. A deacon was also attacked. Sarajevo is located in a Bosnian Muslim-adminstered canton of the federation."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.43,43.86024 ]
+    },
+    "properties": {
+    "datestart":"2000_09_06",
+    "dateend":"2000_08_30",
+    "date":"August 30, 2000 - September 6, 2000",
+    "date1":"Date:",
+    "sitename":"Old Orthodox Church",
+    "chsl_id":"CHSLBIH1630",
+    "description":"BBC reported that between August 30, 2000 and September 6, 2000, unspecified actors looted the Serb Old Orthodox church in Bascarsija, Sarajevo. A deacon was also attacked. Sarajevo is located in a Bosnian Muslim-adminstered canton of the federation."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7938,43.8796 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Novoseoci Village Mosque",
+    "chsl_id":"CHSLBIH1613",
+    "description":"Reuters News reported that between April 6, 1992 and December 14, 1995, Serb forces destroyed a mosque in Novoseoci. They buried the remains of the destroyed mosque alongside the remains of 50 Bosnian Muslims in a mass grave at the Ivan Polje meadow."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.429237,43.859151 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Gazi Husrev-beg Mosque",
+    "chsl_id":"CHSLBIH1632",
+    "description":"The New Straits Times reported that between April 6, 1992 and December 14, 1995, unspecified actors damaged the Gazi Husrev-beg mosque in Sarajevo. The Gazi Husrev-beg mosque is the largest historical mosque in Bosnia and testifies to its Ottoman past. The mosque was likely targeted by Serb shelling during the Siege of Sarajevo."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7741,43.5054 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Foča Mosque",
+    "chsl_id":"CHSLBIH1591",
+    "description":"The Associated Press reported that between April 6, 1992 and December 14, 1995, Serb forces destroyed the local mosque in Foca. In an attempt to entirely erase signs of Muslim heritage, the rubble was even removed from the site. Most of the town’s Muslims fled the city due to Serb ethnic cleansing campaigns."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.789499,44.156174 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1992_12_31",
+    "date":"April 6, 1992 - December 31, 1992",
+    "date1":"Date:",
+    "sitename":"Foča Mosque",
+    "chsl_id":"CHSLBIH1592",
+    "description":"Agence France-Presse reported that between April 6, 1992 and December 31, 1992, Serb forces blew up a mosque in Foca. During the war, Foca was a Serb stronghold from which Bosnian Muslims populations fled or were expelled."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.70626,44.97768 ]
+    },
+    "properties": {
+    "datestart":"1992_01_01",
+    "dateend":"1992_12_31",
+    "date":"January 1, 1992- December 31, 1992",
+    "date1":"Date:",
+    "sitename":"Prijedor Old Town Mosque",
+    "chsl_id":"CHSLBIH1633",
+    "description":"The Christian Science Monitor reported that between April 6, 1992 and December 14, 1995, Serb forces destroyed the neighborhood mosque in Prijedor. The houses located in the city’s Muslim old quarter were also destroyed. Serb forces killed approximately 3,000 Bosnian Muslims in the area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.796272,43.337932 ]
+    },
+    "properties": {
+    "datestart":"1993_05_10",
+    "dateend":"1993_05_10",
+    "date":"May 10, 1993",
+    "date1":"Date:",
+    "sitename":"Baba Beširova Mosque",
+    "chsl_id":"CHSLBIH1634",
+    "description":"BBC reported that on May 10, 1993, the Croat Defence Council destroyed the Baba Bashir mosque in Balinovac, Mostar. The Dayton Agreement established the area as Croat-administered, and Croats reportedly obstructed attempts to rebuild the mosque after the war."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.80750701,43.34379338 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"5 Mostar Mosques",
+    "chsl_id":"CHSLBIH1459",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed five mosques in Mostar. Fighting between Bosnian Serbs, Muslims, and Croats occurred in the area, with shells often damaging sites."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.21759785,44.76089663 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Salihbegović džamija (Bijeljina)",
+    "chsl_id":"CHSLBIH1635",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Salihbegovic dzamija mosque in Bijeljina. The mosque was likely destroyed by Serb forces in their occupation of the town."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.21279,44.76038 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Dašnica džamija (Bijeljina)",
+    "chsl_id":"CHSLBIH1636",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Dasnica mosque in Bijeljina. The mosque was likely destroyed by Serb forces in their occupation of the town."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.21898,44.75188 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Krpić dzamija (Bijeljina)",
+    "chsl_id":"CHSLBIH1637",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Krpic mosque in Bijeljina. The mosque was likely destroyed by Serb forces in their occupation of the town."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2469089,44.6669659 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Atik džamija (Janja)",
+    "chsl_id":"CHSLBIH0429",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Atih mosque in Janja. The mosque was likely destroyed by Serb forces in their occupation of the town."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.2429,45.13998 ]
+    },
+    "properties": {
+    "datestart":"2000_12_19",
+    "dateend":"2000_12_20",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Obradovac Mosque",
+    "chsl_id":"CHSLBIH1638",
+    "description":"BCC reported that on December 19, 2000, unspecified actors stoned a newly-built mosque in Obradovac, smashing several windows and damaging the facade. Obradovac is located in the Serb-administered municipality of Bosanska Gradiska. The post-war reconstruction of religious buildings was often contentious."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1824,44.5123 ]
+    },
+    "properties": {
+    "datestart":"2000_12_31",
+    "dateend":"2001_01_05",
+    "date":"December 31, 2000 - January 5, 2001",
+    "date1":"Date:",
+    "sitename":"Donja Bocinja Community Cultural Centre",
+    "chsl_id":"CHSLBIH1619",
+    "description":"BBC reported that between December 31, 2000 and January 3, 2001, 70 mujahidin partly destroyed the community cultural center and mosque in Boncinja. The perpetrators had illegally seized Serb property. When ordered to leave as Serbs returned, they destroyed Serb property in addition to the center and mosque."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.10493476,44.38658039 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Zvornik Mosque",
+    "chsl_id":"CHSLBIH1473",
+    "description":"The New York Times reported that between December 6, 1992 and December 14, 1995, Serb forces razed a mosque in Zvornik. Mosques were often destroyed during Serb campaigns of ethnic cleansing. After the war, a makeshift marketplace replaced the mosque."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6500189,44.8689024 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Prnjavor Mosque 1",
+    "chsl_id":"CHSLBIH1573",
+    "description":"Agence France-Presse reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed five mosques in Prnjavor. Mosques located in such Serb-administered towns were often targeted by Serb forces during their wartime campaigns of ethnic cleansing. Serb authorities did not respond to the Islamic community’s requests to rebuild the mosques."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.8667,44.4474 ]
+    },
+    "properties": {
+    "datestart":"2001_04_13",
+    "dateend":"2001_04_14",
+    "date":"April 13, 2001 - April 14, 2001",
+    "date1":"Date:",
+    "sitename":"Jelah Croat Graveyard",
+    "chsl_id":"CHSLBIH1616",
+    "description":"BBC reported that between April 13-14, 2001, unspecified actors removed nine crosses from graves in a Croat Catholic graveyard in Jelah. The municipality is located in the Bosniak-administered Zenica-Doboj canton of the Federation of Bosnia and Herzegovina."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.80980486,44.87214492 ]
+    },
+    "properties": {
+    "datestart":"2001_04_20",
+    "dateend":"2001_04_24",
+    "date":"April 20, 2001 - April 24, 2001",
+    "date1":"Date:",
+    "sitename":"Draža Mihailović Statue",
+    "chsl_id":"CHSLBIH1466",
+    "description":"Reuters News reported that on April 24, 2001, unspecified actors smashed a statue of Draza Mihajlovic in Brcko. The World War II-era statue of the Serb war criminal, convicted of collaborating with Germany and perpetrating war crimes, was located in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.08384,44.73374 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Heart of Jesus Catholic Church ",
+    "chsl_id":"CHSLBIH1639",
+    "description":"BBC reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Heart of Jesus Catholic Church in Doboj. Bosnian Croats are associated with Catholicism. Places of worship were often targeted by all sides in the Bosnian War, although the participation of Serbs in such acts was particularly prevalent."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.8667,44.4474 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"TREBINJE MOSQUES",
+    "chsl_id":"CHSLBIH1616",
+    "description":"The Associated Press reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed ten mosques in Trebinje. It is likely that Serb forces destroyed these mosques, given patterns of ethnic cleansing in Serb-held wartime territories. In 2001, Serbs rioted at the reconstruction of one of these mosques."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6663,44.765 ]
+    },
+    "properties": {
+    "datestart":"2001_05_07",
+    "dateend":"2001_05_07",
+    "date":"May 7, 2001",
+    "date1":"Date:",
+    "sitename":"SANSKI MOST SERBIAN ORTHADOX CHURCH",
+    "chsl_id":"CHSLBIH1621",
+    "description":"The Associated Press reported that on May 7, 2001, a Bosnian Muslim threw a hand grenade at a Serbian Orthodox church in Sanski Most, causing minor damage. The attack was reportedly triggered by Serb nationalist riots during mosque reconstruction ceremonies in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.68919789,44.53840849 ]
+    },
+    "properties": {
+    "datestart":"2001_05_09",
+    "dateend":"2001_05_09",
+    "date":"May 9, 2001",
+    "date1":"Date:",
+    "sitename":"Trnovac Cemetary",
+    "chsl_id":"CHSLBIH1640",
+    "description":"BBC reported that on May 9, 2001, unspecified actors desecrated an Orthodox cemetery in Tuzla, damaging 15 tombstones and breaking several windows and doors. The desecration occurred in the Bosniak canton after anti-Muslim riots in neighbording Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.10789973,44.35987596 ]
+    },
+    "properties": {
+    "datestart":"2001_01_01",
+    "dateend":"2001_05_13",
+    "date":"January 1, 2001 - May 13, 2001",
+    "date1":"Date:",
+    "sitename":"Kula Grad Orthodox Church ",
+    "chsl_id":"CHSLBIH1641",
+    "description":"The Boston Globe reported that between January 1, 2001 and May 13, 2001, vandals defaced the crucifix of an Orthodox church in Kula Grad. The vandalization occurred as part of a series of multi-directional attacks against religious sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8503831,44.7833297 ]
+    },
+    "properties": {
+    "datestart":"2001_01_01",
+    "dateend":"2001_05_14",
+    "date":"January 1, 2001 - May 14, 2001",
+    "date1":"Date:",
+    "sitename":"Doboj Memorial Plaque to Serb Soliders",
+    "chsl_id":"CHSLBIH1477",
+    "description":"Reuters News reported that between January 1, 2001 and May 13, 2001, unspecified actors damaged a memorial plaque to Serb soldiers killed during the Bosnian War in Doboj. The vandalization occurred as part of a series of multi-directional attacks against religious and cultural sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.54842,44.52488 ]
+    },
+    "properties": {
+    "datestart":"2001_05_13",
+    "dateend":"2001_05_14",
+    "date":"May 13, 2001 - May 14, 2001",
+    "date1":"Date:",
+    "sitename":"Lukavac Catholic Cemetery",
+    "chsl_id":"CHSLBIH1681",
+    "description":"Reuters News reported that between May 13-14, 2001, unspecified actors vandalized an Orthodox and Catholic cemetery in Lukavac. The vandalization occurred as part of a series of multi-directional attacks against religious and cultural sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5325309,44.5344136 ]
+    },
+    "properties": {
+    "datestart":"2001_05_13",
+    "dateend":"2001_05_14",
+    "date":"May 13, 2001 - May 14, 2001",
+    "date1":"Date:",
+    "sitename":"Lukavac Orthodox Cemetary",
+    "chsl_id":"CHSLBIH1710",
+    "description":"Reuters News reported that between May 13-14, 2001, unspecified actors vandalized an Orthodox and Catholic cemetery in Lukavac. The vandalization occurred as part of a series of multi-directional attacks against religious and cultural sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.19629417,44.77247802 ]
+    },
+    "properties": {
+    "datestart":"2001_05_11",
+    "dateend":"2001_05_14",
+    "date":"May 11, 2001 - May 14, 2001",
+    "date1":"Date:",
+    "sitename":"Banja Luka Muslim Cemetery",
+    "chsl_id":"CHSLBIH1451",
+    "description":"Reuters News reported that between May 11-14, 2001, unspecified actors damaged Muslims gravestones in a cemetery in Banja Luka. The vandalization occurred as part of a series of multi-directional attacks against religious and cultural sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.408009,43.84976 ]
+    },
+    "properties": {
+    "datestart":"2000_01_01",
+    "dateend":"2000_12_31",
+    "date":"January 1, 2000 - December 31, 2000",
+    "date1":"Date:",
+    "sitename":"Old Jewish Cemetary ",
+    "chsl_id":"CHSLBIH1642",
+    "description":"Reuters News reported that in 2000, teenagers damaged gravestones in the Old Jewish Cemetery in Sarajevo. Established by Sephardic Jews during the Ottoman period, the 16th century cemetery is the oldest intact Jewish burial ground in southeastern Europe."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2778085,44.1065822 ]
+    },
+    "properties": {
+    "datestart":"2001_05_14",
+    "dateend":"2001_05_15",
+    "date":"May 14, 2001 - May 15, 2001",
+    "date1":"Date:",
+    "sitename":"Srebrenica Serb Cemetery ",
+    "chsl_id":"CHSLBIH1500",
+    "description":"Reuters News reported that between May 14-15, 2001, unspecified actors damaged a Serb graveyard near Srebrenica. Srebrenica was the sight of the 1995 massacre of approximately 8,000 Bosnian Muslim men and expulsion of Bosnian Muslim women and children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5802553,43.2230358 ]
+    },
+    "properties": {
+    "datestart":"2001_05_25",
+    "dateend":"2001_05_26",
+    "date":"May 25, 2001 - May 26, 2001",
+    "date1":"Date:",
+    "sitename":"VRBA Orthodox monastery",
+    "chsl_id":"CHSLBIH1643",
+    "description":"BBC reported that between May 25-26, 2001, unspecified actors fired shots at an Orthodox monastery in Vrba. Houses belonging to Serbs were also shot at. Vrba is located in a Croat-administered canton of the Federation of Bosnia and Herzegovina."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.22845,44.75722 ]
+    },
+    "properties": {
+    "datestart":"2001_05_31",
+    "dateend":"2001_05_31",
+    "date":"May 31, 2001",
+    "date1":"Date:",
+    "sitename":"Bijeljina Catholic Cemetery ",
+    "chsl_id":"CHSLBIH1644",
+    "description":"BBC reported that on May 31, 2001, unspecified actors desecrated a Croat Catholic cemetery in Bijeljina. Headstones were toppled over in the cemetery. The act occurred as part of a series of assaults on Catholic officials and attacks on Catholic facilities during the week of the Pentecost in Bosnia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.66192,44.86752 ]
+    },
+    "properties": {
+    "datestart":"2001_12_16",
+    "dateend":"2001_12_16",
+    "date":"December 16, 2001",
+    "date1":"Date:",
+    "sitename":"Prnjavor Muslim Cemetery",
+    "chsl_id":"CHSLBIH1645",
+    "description":"BBC reported that on December 16, 2001, unspecified actors desecrated a Muslim graveyard in Prnjavor, toppling 30 tombstones. The site was reportedly attacked due to the beginning of construction work on a nearby mosque."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.77857,44.53205 ]
+    },
+    "properties": {
+    "datestart":"2002_09_18",
+    "dateend":"2002_09_18",
+    "date":"September 18, 2002",
+    "date1":"Date:",
+    "sitename":"Kljuc MOSQUE",
+    "chsl_id":"CHSLBIH1422",
+    "description":"Agence France-Presse reported that on September 18, 2002, unspecified actors bombed the Gradska mosque in Kljuc, destroying its minaret and damaging its roof. The attack was reportedly an attempt to ignite ethnic tensions and prevent the return of Bosnian Muslim refugees to the Serb-controlled area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6664094,44.9829566 ]
+    },
+    "properties": {
+    "datestart":"2002_12_04",
+    "dateend":"2002_12_04",
+    "date":"December 4, 2002",
+    "date1":"Date:",
+    "sitename":"PRIJEDOR ISLAMIC COMMUNITY BUILDING",
+    "chsl_id":"CHSLBIH1482",
+    "description":"The Associated Press reported that on December 4, 2002, unspecified actors threw an explosive device at an Islamic community building in Prijedor. The attack was one of three instances in which the building was targeted as Bosnian Muslims refugees returned to the Serb-held area in 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.08445,44.73497 ]
+    },
+    "properties": {
+    "datestart":"2002_12_07",
+    "dateend":"2002_12_07",
+    "date":"December 7, 2002",
+    "date1":"Date:",
+    "sitename":"DOBOJ MOSQUE",
+    "chsl_id":"CHSLBIH1646",
+    "description":"Agence France-Presse reported that on December 7, 2002, unspecified actors bombed a mosque in the center of Doboj, causing minor damage. The attack was the second of two incidents targeting Muslim places of worship in the Serb-controlled part of Bosnia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41107,43.86571 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO ST MIHOVIL CEMETARY",
+    "chsl_id":"CHSLBIH1647",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the St. Mihovil cemetery in Sarajevo. 19 tomb crosses and central crucifix suffered damage. The St. Mihovil cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.410014,43.869087 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO ST Mark's cemetery",
+    "chsl_id":"CHSLBIH1649",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the St. Joseph cemetery in Sarajevo. Both tombstones and crosses were vandalized. The St. Joseph cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41024,43.86904 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO ST Joseph's cemetery",
+    "chsl_id":"CHSLBIH1648",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the St. Mark cemetery in Sarajevo. Both tombstones and crosses were vandalized. The St. Mark cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41262,43.87117 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO Lav cemetery",
+    "chsl_id":"CHSLBIH1709",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the Lav cemetery in Sarajevo. Both tombstones and crosses were vandalized. The Lav cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.73686,44.93323 ]
+    },
+    "properties": {
+    "datestart":"2003_11_23",
+    "dateend":"2003_11_23",
+    "date":"November 23, 2003",
+    "date1":"Date:",
+    "sitename":"Cela MOSQUE",
+    "chsl_id":"CHSLBIH1650",
+    "description":"BBC reported that on November 23, 2003, unspecified actors fired bullets at a mosque in Cela. The mosque, which did not exist prior to the war, had been recently constructed as Bosnian Muslims returned to Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.42631,44.05552 ]
+    },
+    "properties": {
+    "datestart":"2004_03_18",
+    "dateend":"2004_03_18",
+    "date":"March 18, 2004",
+    "date1":"Date:",
+    "sitename":"BUGOJNO ORTHODOX CHURCH",
+    "chsl_id":"CHSLBIH1671",
+    "description":"The Associated Press reported that on March 18, 2004, unspecified actors set the roof of a Serb Orthodox church on fire in Bugojno, causing minor damage. The church is located in the Serb neighborhood of a predominantly Muslim town. The act occurred after the burning of Serb homes by Albanians in neighboring Kosovo."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0317509,45.1979529 ]
+    },
+    "properties": {
+    "datestart":"1993_03_21",
+    "dateend":"1993_03_22",
+    "date":"March 21, 1993 - March 22, 1993",
+    "date1":"Date:",
+    "sitename":"Orahova mosque",
+    "chsl_id":"CHSLBIH1672",
+    "description":"BBC reported that between March 21-22, 1993, unspecified actors demolished the mosque in Orahova. Mosques in northern Bosnia were often destroyed by Serbs during campaigns of wartime ethnic cleansing in Serb-held territories."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0317509,45.1979529 ]
+    },
+    "properties": {
+    "datestart":"2004_03_22",
+    "dateend":"2004_03_22",
+    "date":"March 22, 2004",
+    "date1":"Date:",
+    "sitename":"Orahova MOSQUE",
+    "chsl_id":"CHSLBIH1672",
+    "description":"BBC reported that on March 22, 2004, unspecified actors threw an explosive device at a newly reconstructed mosque in Orahova, damaging the facade and shattering glass. The damage occurred as Bosnian Muslim refugees began to return to the Serb-administered village."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2933519,43.7844137 ]
+    },
+    "properties": {
+    "datestart":"2004_10_18",
+    "dateend":"2004_10_18",
+    "date":"October 18, 2004",
+    "date1":"Date:",
+    "sitename":"VISEGRAD MOSQUE",
+    "chsl_id":"CHSLBIH1673",
+    "description":"Agence France-Presse reported that on October 18, 2004, two Bosnian Serbs damaged a mosque in Visegrad. The perpetrators destroyed part of a wall that was under construction in the Serb-administered town. The event occurred during Ramadan."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6664094,44.9829566 ]
+    },
+    "properties": {
+    "datestart":"2005_05_05",
+    "dateend":"2005_05_05",
+    "date":"May 5, 2005",
+    "date1":"Date:",
+    "sitename":"PRIJEDOR CEMETARY",
+    "chsl_id":"CHSLBIH1482",
+    "description":"HINA reported that on May 5, 2005, unspecified actors desecrated the grave of a Catholic priest in Prijedor, breaking a wooden cross. Matanovic had been killed during the war after unknown perpetrators removed him from this home in the Serb-dominated city."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.66649,44.87253 ]
+    },
+    "properties": {
+    "datestart":"2005_05_06",
+    "dateend":"2005_05_06",
+    "date":"May 6, 2005",
+    "date1":"Date:",
+    "sitename":"PRNJAVOR CEMETARY",
+    "chsl_id":"CHSLBIH1674",
+    "description":"BBC reported that on May 6, 2005, unspecified actors damaged the city mosque’s Muslim cemetery in Prnjavor, desecrating 26 graves. It is suspected that the event was related to the commemoration of the Day of Mosques in the Federation of Bosnia and Herzegovina."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.99141,44.93577 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"DERVENTA FRANCISCAN MONASTERY PLEHAN",
+    "chsl_id":"CHSLBIH1675",
+    "description":"HINA reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Plehan Franciscan monastery near Derventa. 365 artifacts had been safely stored in the Archives of Republika Srpska during the war and were returned to the monastery in 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.10954133,44.2512121 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"KONJEVICI POLJE MOSQUE",
+    "chsl_id":"CHSLBIH1676",
+    "description":"The Associated Press reported that between April 6, 1992 and December 14, 1995, Serb forces destroyed two mosques in Konjevic Polje. The Bosnian Muslim population of the Serb-dominated area was expelled during the war, their property destroyed or appropriated by resettled Serbs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.9354624,44.5346714 ]
+    },
+    "properties": {
+    "datestart":"2010_01_01",
+    "dateend":"2010_12_31",
+    "date":"January 1, 2010 - December 31, 2010",
+    "date1":"Date:",
+    "sitename":"Rozanj orthodox church",
+    "chsl_id":"CHSLBIH1677",
+    "description":"Agence France-Presse reported that in 2010, unspecified actors damaged an Orthodox church in Rozanj. The perpetrators broke a window and forced the door in order to steal a generator and tools from the construction site of the church. Rozanj is located in the Muslim-Croat Federation of Bosnia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.10493476,44.38658039 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Zvornik mosques",
+    "chsl_id":"CHSLBIH1473",
+    "description":"Agence France-Presse reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed 23 mosques in and around Zvornik. Bosnian Serb forces expelled and massacred the Bosnian Muslim population from Zvornik during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.43156785,43.8664811 ]
+    },
+    "properties": {
+    "datestart":"2011_01_08",
+    "dateend":"2011_01_15",
+    "date":"January 8, 2011 - January 15, 2011",
+    "date1":"Date:",
+    "sitename":"Sarajevo Old Mosque",
+    "chsl_id":"CHSLBIH1450",
+    "description":"Kuwait News Agency reported that between January 8-15, 2001, unspecified actors threw a molotov cocktail at an old mosque in Sarajevo. Several other mosques throughout Bosnia were the targets of arson attacks at this time."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.88577,44.25952 ]
+    },
+    "properties": {
+    "datestart":"2011_01_17",
+    "dateend":"2011_01_17",
+    "date":"January 17, 2011",
+    "date1":"Date:",
+    "sitename":"Blagaj Trinity Church",
+    "chsl_id":"CHSLBIH1678",
+    "description":"HINA reported that on January 17, 2011, unspecified actors stoned the Trinity Catholic Church in Blagaj, smashing its windows. Destroyed during the Bosnian War, the church was declared a cultural monument in 2008 and subsequently reconstructed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.88577,44.25952 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Blagaj Trinity Church",
+    "chsl_id":"CHSLBIH1678",
+    "description":"HINA reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Trinity Catholic Church in Blagaj. Local Catholic Croats had fled the area during the war. The site was stoned after its reconstruction in 2011."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1779705,44.7657988 ]
+    },
+    "properties": {
+    "datestart":"2011_05_28",
+    "dateend":"2011_05_29",
+    "date":"May 28, 2011 -  May 29, 2011",
+    "date1":"Date:",
+    "sitename":"Sefer Bey Mosque",
+    "chsl_id":"CHSLBIH0052",
+    "description":"BBC reported that between May 28-29, 2011, unspecified actors vandalized the Sefer Bey mosque in Banja Luka. The event is suspected to have been related to the arrest of Serb war criminal Ratko Mladic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.810337,45.1802313 ]
+    },
+    "properties": {
+    "datestart":"2011_05_29",
+    "dateend":"2011_05_30",
+    "date":"May 29, 2011 - May 30, 2011",
+    "date1":"Date:",
+    "sitename":"Bosanska Dubica Old City Mosque",
+    "chsl_id":"CHSLBIH1679",
+    "description":"BBC reported that between May 29-30, 2011, unspecified actors stoned the newly renovated Old City mosque in Bosanska Dubica, damaging the front wall. Groups of people were reportedly chanting in support of Mladic outside of the town imam’s house."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.274104,43.830655 ]
+    },
+    "properties": {
+    "datestart":"2011_05_31",
+    "dateend":"2011_06_03",
+    "date":"May 31, 2011 - June 3, 2011",
+    "date1":"Date:",
+    "sitename":"Blažuj Serb Orthodox Temple",
+    "chsl_id":"CHSLBIH1680",
+    "description":"BBC reported that between May 31, 2011 and June 3, 2011, unspecified actors vandalized the Serb Orthodox St. Sava temple in Blazuj, marking it with offensive graffiti. Blazuj is located in the Sarajevo canton of the Federation of Bosnia and Herzegovina, which is dominated by Bosnian Muslims."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.56781123,43.81642318 ]
+    },
+    "properties": {
+    "datestart":"2011_06_04",
+    "dateend":"2011_06_06",
+    "date":"June 4, 2011 - June 6, 2011",
+    "date1":"Date:",
+    "sitename":"Pale Village Mosque",
+    "chsl_id":"CHSLBIH1548",
+    "description":"BBC reported that between June 4-6, 2011, unspecified actors threw a hand grenade at a mosque in a village near Pale. The village is located in the Podrinje canton of the Federation of Bosnia and Herzegovina, which is dominated by Bosnian Muslims."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.54842,44.52488 ]
+    },
+    "properties": {
+    "datestart":"2001_05_13",
+    "dateend":"2001_05_14",
+    "date":"May 13, 2001 - May 14, 2001",
+    "date1":"Date:",
+    "sitename":"Lukavac Catholic Cemetery",
+    "chsl_id":"CHSLBIH1681",
+    "description":"Reuters News reported that between May 13-14, 2001, unspecified actors vandalized an Orthodox and Catholic cemetery in Lukavac. The vandalization occurred as part of a series of multi-directional attacks against religious and cultural sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5325309,44.5344136 ]
+    },
+    "properties": {
+    "datestart":"2001_05_13",
+    "dateend":"2001_05_14",
+    "date":"May 13, 2001 - May 14, 2001",
+    "date1":"Date:",
+    "sitename":"Lukavac Orthodox Cemetary",
+    "chsl_id":"CHSLBIH1710",
+    "description":"Reuters News reported that between May 13-14, 2001, unspecified actors vandalized an Orthodox and Catholic cemetery in Lukavac. The vandalization occurred as part of a series of multi-directional attacks against religious and cultural sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.19629417,44.77247802 ]
+    },
+    "properties": {
+    "datestart":"2001_05_11",
+    "dateend":"2001_05_14",
+    "date":"May 11, 2001 - May 14, 2001",
+    "date1":"Date:",
+    "sitename":"Banja Luka Muslim Cemetery",
+    "chsl_id":"CHSLBIH1451",
+    "description":"Reuters News reported that between May 11-14, 2001, unspecified actors damaged Muslims gravestones in a cemetery in Banja Luka. The vandalization occurred as part of a series of multi-directional attacks against religious and cultural sites throughout Bosnia, triggered by Serb riots at the ceremony for a mosque’s reconstruction in Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.408009,43.84976 ]
+    },
+    "properties": {
+    "datestart":"2000_01_01",
+    "dateend":"2000_12_31",
+    "date":"January 1, 2000 - December 31, 2000",
+    "date1":"Date:",
+    "sitename":"Old Jewish Cemetary ",
+    "chsl_id":"CHSLBIH1642",
+    "description":"Reuters News reported that in 2000, teenagers damaged gravestones in the Old Jewish Cemetery in Sarajevo. Established by Sephardic Jews during the Ottoman period, the 16th century cemetery is the oldest intact Jewish burial ground in southeastern Europe."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2778085,44.1065822 ]
+    },
+    "properties": {
+    "datestart":"2001_05_14",
+    "dateend":"2001_05_15",
+    "date":"May 14, 2001 - May 15, 2001",
+    "date1":"Date:",
+    "sitename":"Srebrenica Serb Cemetery ",
+    "chsl_id":"CHSLBIH1500",
+    "description":"Reuters News reported that between May 14-15, 2001, unspecified actors damaged a Serb graveyard near Srebrenica. Srebrenica was the sight of the 1995 massacre of approximately 8,000 Bosnian Muslim men and expulsion of Bosnian Muslim women and children."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5802553,43.2230358 ]
+    },
+    "properties": {
+    "datestart":"2001_05_25",
+    "dateend":"2001_05_26",
+    "date":"May 25, 2001 - May 26, 2001",
+    "date1":"Date:",
+    "sitename":"VRBA Orthodox monastery",
+    "chsl_id":"CHSLBIH1643",
+    "description":"BBC reported that between May 25-26, 2001, unspecified actors fired shots at an Orthodox monastery in Vrba. Houses belonging to Serbs were also shot at. Vrba is located in a Croat-administered canton of the Federation of Bosnia and Herzegovina."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.22845,44.75722 ]
+    },
+    "properties": {
+    "datestart":"2001_05_31",
+    "dateend":"2001_05_31",
+    "date":"May 31, 2001",
+    "date1":"Date:",
+    "sitename":"Bijeljina Catholic Cemetery ",
+    "chsl_id":"CHSLBIH1644",
+    "description":"BBC reported that on May 31, 2001, unspecified actors desecrated a Croat Catholic cemetery in Bijeljina. Headstones were toppled over in the cemetery. The act occurred as part of a series of assaults on Catholic officials and attacks on Catholic facilities during the week of the Pentecost in Bosnia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.66192,44.86752 ]
+    },
+    "properties": {
+    "datestart":"2001_12_16",
+    "dateend":"2001_12_16",
+    "date":"December 16, 2001",
+    "date1":"Date:",
+    "sitename":"Prnjavor Muslim Cemetery",
+    "chsl_id":"CHSLBIH1645",
+    "description":"BBC reported that on December 16, 2001, unspecified actors desecrated a Muslim graveyard in Prnjavor, toppling 30 tombstones. The site was reportedly attacked due to the beginning of construction work on a nearby mosque."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.77857,44.53205 ]
+    },
+    "properties": {
+    "datestart":"2002_09_18",
+    "dateend":"2002_09_18",
+    "date":"September 18, 2002",
+    "date1":"Date:",
+    "sitename":"Kljuc MOSQUE",
+    "chsl_id":"CHSLBIH1422",
+    "description":"Agence France-Presse reported that on September 18, 2002, unspecified actors bombed the Gradska mosque in Kljuc, destroying its minaret and damaging its roof. The attack was reportedly an attempt to ignite ethnic tensions and prevent the return of Bosnian Muslim refugees to the Serb-controlled area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6664094,44.9829566 ]
+    },
+    "properties": {
+    "datestart":"2002_12_04",
+    "dateend":"2002_12_04",
+    "date":"December 4, 2002",
+    "date1":"Date:",
+    "sitename":"PRIJEDOR ISLAMIC COMMUNITY BUILDING",
+    "chsl_id":"CHSLBIH1482",
+    "description":"The Associated Press reported that on December 4, 2002, unspecified actors threw an explosive device at an Islamic community building in Prijedor. The attack was one of three instances in which the building was targeted as Bosnian Muslims refugees returned to the Serb-held area in 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.08445,44.73497 ]
+    },
+    "properties": {
+    "datestart":"2002_12_07",
+    "dateend":"2002_12_07",
+    "date":"December 7, 2002",
+    "date1":"Date:",
+    "sitename":"DOBOJ MOSQUE",
+    "chsl_id":"CHSLBIH1646",
+    "description":"Agence France-Presse reported that on December 7, 2002, unspecified actors bombed a mosque in the center of Doboj, causing minor damage. The attack was the second of two incidents targeting Muslim places of worship in the Serb-controlled part of Bosnia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41107,43.86571 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO ST MIHOVIL CEMETARY",
+    "chsl_id":"CHSLBIH1647",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the St. Mihovil cemetery in Sarajevo. 19 tomb crosses and central crucifix suffered damage. The St. Mihovil cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.410014,43.869087 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO ST Mark's cemetery",
+    "chsl_id":"CHSLBIH1649",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the St. Joseph cemetery in Sarajevo. Both tombstones and crosses were vandalized. The St. Joseph cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41024,43.86904 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO ST Joseph's cemetery",
+    "chsl_id":"CHSLBIH1648",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the St. Mark cemetery in Sarajevo. Both tombstones and crosses were vandalized. The St. Mark cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41262,43.87117 ]
+    },
+    "properties": {
+    "datestart":"2003_08_20",
+    "dateend":"2003_08_20",
+    "date":"August 20, 2003",
+    "date1":"Date:",
+    "sitename":"SARAJEVO Lav cemetery",
+    "chsl_id":"CHSLBIH1709",
+    "description":"BBC reported that on August 20, 2003, unspecified actors desecrated the Lav cemetery in Sarajevo. Both tombstones and crosses were vandalized. The Lav cemetery was one of several Orthodox and Catholic cemeteries damaged in the Bosniak canton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.73686,44.93323 ]
+    },
+    "properties": {
+    "datestart":"2003_11_23",
+    "dateend":"2003_11_23",
+    "date":"November 23, 2003",
+    "date1":"Date:",
+    "sitename":"Cela MOSQUE",
+    "chsl_id":"CHSLBIH1650",
+    "description":"BBC reported that on November 23, 2003, unspecified actors fired bullets at a mosque in Cela. The mosque, which did not exist prior to the war, had been recently constructed as Bosnian Muslims returned to Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.42631,44.05552 ]
+    },
+    "properties": {
+    "datestart":"2004_03_18",
+    "dateend":"2004_03_18",
+    "date":"March 18, 2004",
+    "date1":"Date:",
+    "sitename":"BUGOJNO ORTHODOX CHURCH",
+    "chsl_id":"CHSLBIH1671",
+    "description":"The Associated Press reported that on March 18, 2004, unspecified actors set the roof of a Serb Orthodox church on fire in Bugojno, causing minor damage. The church is located in the Serb neighborhood of a predominantly Muslim town. The act occurred after the burning of Serb homes by Albanians in neighboring Kosovo."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0317509,45.1979529 ]
+    },
+    "properties": {
+    "datestart":"1993_03_21",
+    "dateend":"1993_03_22",
+    "date":"March 21, 1993 - March 22, 1993",
+    "date1":"Date:",
+    "sitename":"Orahova mosque",
+    "chsl_id":"CHSLBIH1672",
+    "description":"BBC reported that between March 21-22, 1993, unspecified actors demolished the mosque in Orahova. Mosques in northern Bosnia were often destroyed by Serbs during campaigns of wartime ethnic cleansing in Serb-held territories."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0317509,45.1979529 ]
+    },
+    "properties": {
+    "datestart":"2004_03_22",
+    "dateend":"2004_03_22",
+    "date":"March 22, 2004",
+    "date1":"Date:",
+    "sitename":"Orahova MOSQUE",
+    "chsl_id":"CHSLBIH1672",
+    "description":"BBC reported that on March 22, 2004, unspecified actors threw an explosive device at a newly reconstructed mosque in Orahova, damaging the facade and shattering glass. The damage occurred as Bosnian Muslim refugees began to return to the Serb-administered village."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2933519,43.7844137 ]
+    },
+    "properties": {
+    "datestart":"2004_10_18",
+    "dateend":"2004_10_18",
+    "date":"October 18, 2004",
+    "date1":"Date:",
+    "sitename":"VISEGRAD MOSQUE",
+    "chsl_id":"CHSLBIH1673",
+    "description":"Agence France-Presse reported that on October 18, 2004, two Bosnian Serbs damaged a mosque in Visegrad. The perpetrators destroyed part of a wall that was under construction in the Serb-administered town. The event occurred during Ramadan."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6664094,44.9829566 ]
+    },
+    "properties": {
+    "datestart":"2005_05_05",
+    "dateend":"2005_05_05",
+    "date":"May 5, 2005",
+    "date1":"Date:",
+    "sitename":"PRIJEDOR CEMETARY",
+    "chsl_id":"CHSLBIH1482",
+    "description":"HINA reported that on May 5, 2005, unspecified actors desecrated the grave of a Catholic priest in Prijedor, breaking a wooden cross. Matanovic had been killed during the war after unknown perpetrators removed him from this home in the Serb-dominated city."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.66649,44.87253 ]
+    },
+    "properties": {
+    "datestart":"2005_05_06",
+    "dateend":"2005_05_06",
+    "date":"May 6, 2005",
+    "date1":"Date:",
+    "sitename":"PRNJAVOR CEMETARY",
+    "chsl_id":"CHSLBIH1674",
+    "description":"BBC reported that on May 6, 2005, unspecified actors damaged the city mosque’s Muslim cemetery in Prnjavor, desecrating 26 graves. It is suspected that the event was related to the commemoration of the Day of Mosques in the Federation of Bosnia and Herzegovina."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.99141,44.93577 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"DERVENTA FRANCISCAN MONASTERY PLEHAN",
+    "chsl_id":"CHSLBIH1675",
+    "description":"HINA reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Plehan Franciscan monastery near Derventa. 365 artifacts had been safely stored in the Archives of Republika Srpska during the war and were returned to the monastery in 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.10954133,44.2512121 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"KONJEVICI POLJE MOSQUE",
+    "chsl_id":"CHSLBIH1676",
+    "description":"The Associated Press reported that between April 6, 1992 and December 14, 1995, Serb forces destroyed two mosques in Konjevic Polje. The Bosnian Muslim population of the Serb-dominated area was expelled during the war, their property destroyed or appropriated by resettled Serbs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.9354624,44.5346714 ]
+    },
+    "properties": {
+    "datestart":"2010_01_01",
+    "dateend":"2010_12_31",
+    "date":"January 1, 2010 - December 31, 2010",
+    "date1":"Date:",
+    "sitename":"Rozanj orthodox church",
+    "chsl_id":"CHSLBIH1677",
+    "description":"Agence France-Presse reported that in 2010, unspecified actors damaged an Orthodox church in Rozanj. The perpetrators broke a window and forced the door in order to steal a generator and tools from the construction site of the church. Rozanj is located in the Muslim-Croat Federation of Bosnia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.10493476,44.38658039 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Zvornik mosques",
+    "chsl_id":"CHSLBIH1473",
+    "description":"Agence France-Presse reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed 23 mosques in and around Zvornik. Bosnian Serb forces expelled and massacred the Bosnian Muslim population from Zvornik during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.43156785,43.8664811 ]
+    },
+    "properties": {
+    "datestart":"2011_01_08",
+    "dateend":"2011_01_15",
+    "date":"January 8, 2011 - January 15, 2011",
+    "date1":"Date:",
+    "sitename":"Sarajevo Old Mosque",
+    "chsl_id":"CHSLBIH1450",
+    "description":"Kuwait News Agency reported that between January 8-15, 2001, unspecified actors threw a molotov cocktail at an old mosque in Sarajevo. Several other mosques throughout Bosnia were the targets of arson attacks at this time."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.88577,44.25952 ]
+    },
+    "properties": {
+    "datestart":"2011_01_17",
+    "dateend":"2011_01_17",
+    "date":"January 17, 2011",
+    "date1":"Date:",
+    "sitename":"Blagaj Trinity Church",
+    "chsl_id":"CHSLBIH1678",
+    "description":"HINA reported that on January 17, 2011, unspecified actors stoned the Trinity Catholic Church in Blagaj, smashing its windows. Destroyed during the Bosnian War, the church was declared a cultural monument in 2008 and subsequently reconstructed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.88577,44.25952 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Blagaj Trinity Church",
+    "chsl_id":"CHSLBIH1678",
+    "description":"HINA reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the Trinity Catholic Church in Blagaj. Local Catholic Croats had fled the area during the war. The site was stoned after its reconstruction in 2011."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1779705,44.7657988 ]
+    },
+    "properties": {
+    "datestart":"2011_05_28",
+    "dateend":"2011_05_29",
+    "date":"May 25, 2001 - May 26, 2001",
+    "date1":"Date:",
+    "sitename":"Sefer Bey Mosque",
+    "chsl_id":"CHSLBIH0052",
+    "description":"BBC reported that between May 28-29, 2011, unspecified actors vandalized the Sefer Bey mosque in Banja Luka. The event is suspected to have been related to the arrest of Serb war criminal Ratko Mladic."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.810337,45.1802313 ]
+    },
+    "properties": {
+    "datestart":"2011_05_29",
+    "dateend":"2011_05_30",
+    "date":"May 29, 2011 - May 30, 2011",
+    "date1":"Date:",
+    "sitename":"Bosanska Dubica Old City Mosque",
+    "chsl_id":"CHSLBIH1679",
+    "description":"BBC reported that between May 29-30, 2011, unspecified actors stoned the newly renovated Old City mosque in Bosanska Dubica, damaging the front wall. Groups of people were reportedly chanting in support of Mladic outside of the town imam’s house."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.274104,43.830655 ]
+    },
+    "properties": {
+    "datestart":"2011_05_31",
+    "dateend":"2011_06_03",
+    "date":"May 31, 2011 - June 3, 2011",
+    "date1":"Date:",
+    "sitename":"Blažuj Serb Orthodox Temple",
+    "chsl_id":"CHSLBIH1680",
+    "description":"BBC reported that between May 31, 2011 and June 3, 2011, unspecified actors vandalized the Serb Orthodox St. Sava temple in Blazuj, marking it with offensive graffiti. Blazuj is located in the Sarajevo canton of the Federation of Bosnia and Herzegovina, which is dominated by Bosnian Muslims."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.56781123,43.81642318 ]
+    },
+    "properties": {
+    "datestart":"2011_06_04",
+    "dateend":"2011_06_06",
+    "date":"June 4, 2011 - June 6, 2011",
+    "date1":"Date:",
+    "sitename":"Pale Village Mosque",
+    "chsl_id":"CHSLBIH1548",
+    "description":"BBC reported that between June 4-6, 2011, unspecified actors threw a hand grenade at a mosque in a village near Pale. The village is located in the Podrinje canton of the Federation of Bosnia and Herzegovina, which is dominated by Bosnian Muslims."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7258255,43.174232 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Šurmanci Memorial",
+    "chsl_id":"CHSLBIH1662",
+    "description":"The Irish Times reported that between April 6, 1992 and December 14, 1995, Croats blew up a monument to the Ustasa’s Serb victims in Surmanci. There existed tensions between Croats and Serbs in relation to the memorial site and its representation of World War II-era victimhood and perpetration."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1779705,44.7657988 ]
+    },
+    "properties": {
+    "datestart":"2011_09_24",
+    "dateend":"2011_09_26",
+    "date":"September 24, 2011 - September 26, 2011",
+    "date1":"Date:",
+    "sitename":"Sefer Bey Mosque",
+    "chsl_id":"CHSLBIH0052",
+    "description":"BBC reported that between September 24-26, 2011, unspecified actors attacked the Sefer Bey mosque in Banja Luka. Considering the Serb destruction of all mosques in Banja Luka during the Bosnian War, the Sefer Bey mosque had likely been recently reconstructed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.00754066,43.82489951 ]
+    },
+    "properties": {
+    "datestart":"2010_01_01",
+    "dateend":"2010_12_31",
+    "date":"January 1, 2010 - December 31, 2010",
+    "date1":"Date:",
+    "sitename":"Livno Masjid",
+    "chsl_id":"CHSLBIH1456",
+    "description":"BBC reported that in 2010, unspecified actors demolished a masjid in Livno. Bosnian Muslims also came under attack for attempting to reconstruct the Curcinica mosque in Livno. Such attacks have been understood as attempts to prevent the reacclimation of Bosnian Muslims in majority-Croat areas."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8184228,43.3377881 ]
+    },
+    "properties": {
+    "datestart":"2011_10_17",
+    "dateend":"2011_10_17",
+    "date":"October 17, 2011",
+    "date1":"Date:",
+    "sitename":"Mostar Serb Orthodox Cemetery",
+    "chsl_id":"CHSLBIH1652",
+    "description":"BBC reported that on October 17, 2011, unspecified actors damaged a Serb Orthodox cemetery in Mostar, desecrating tombstones. Mostar is dominated by Bosnian Muslims and Croats and was the site of fighting between Bosnian Serbs, Muslims, and Croats during the war."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.1878559,44.677935 ]
+    },
+    "properties": {
+    "datestart":"2011_11_22",
+    "dateend":"2011_11_22",
+    "date":"November 22, 2011",
+    "date1":"Date:",
+    "sitename":"Janja Mosque",
+    "chsl_id":"CHSLBIH1663",
+    "description":"BCC reported that on November 22, 2011, unspecified actors vandalized a mosque in Janja. Located in a Serb-dominated part of Bosnia, Janja was ethnically cleansed of non-Serb populations as a Serb-held territory during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3672118,45.0337482 ]
+    },
+    "properties": {
+    "datestart":"2011_12_10",
+    "dateend":"2011_12_12",
+    "date":"December 10, 2011 - December 12, 2011",
+    "date1":"Date:",
+    "sitename":"Bosanski Novi Mosque",
+    "chsl_id":"CHSLBIH1575",
+    "description":"BBC reported that between December 10-12, 2011, unspecified actors desecrated a mosque in Bosanski Novi, marking it with nationalist graffiti. The town is located in Republika Srpska and was the site of ethnic cleansing against non-Serbs during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.80750701,43.34379338 ]
+    },
+    "properties": {
+    "datestart":"2011_12_14",
+    "dateend":"2011_12_14",
+    "date":"December 14, 2011",
+    "date1":"Date:",
+    "sitename":"Mostar Mosque",
+    "chsl_id":"CHSLBIH1459",
+    "description":"BBC reported that on December 14, 2011, vandals desecrated a mosque in Mostar. Mostar is dominated by Bosnian Muslims and Croats. Tensions persisted in post-war Mostar regarding the reconstruction of a mosque in the Croat section of the city."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1779705,44.7657988 ]
+    },
+    "properties": {
+    "datestart":"2012_02_29",
+    "dateend":"2012_03_14",
+    "date":"February 29, 2012 - March 14, 2012",
+    "date1":"Date:",
+    "sitename":"Sefer Bey Mosque",
+    "chsl_id":"CHSLBIH0052",
+    "description":"BBC reported that between February 29, 2012, and March 14, 2012, unspecified actors desecrated the Sefer Bey mosque in Banja Luka. An attack on the mosque also occurred in the Serb-dominated area in September 2011."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3073076,43.8373449 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1992_12_31",
+    "date":"April 6, 1992 - December 31, 1992",
+    "date1":"Date:",
+    "sitename":"Stup Church ",
+    "chsl_id":"CHSLBIH1651",
+    "description":"Reuters News reported that between April 6, 1992 and December 31, 1992, unspecified actors burned down a Catholic church in Stup. The church was located on the front confrontation line of the war, during the Siege of Sarajevo."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.19629417,44.77247802 ]
+    },
+    "properties": {
+    "datestart":"2012_04_01",
+    "dateend":"2012_04_07",
+    "date":"April 1, 1992 - April 7, 1992",
+    "date1":"Date:",
+    "sitename":"Banja Luka Mosque",
+    "chsl_id":"CHSLBIH1451",
+    "description":"BBC reported that between April 1-7, 2012, vandals attacked a mosque in Banja Luka. The attack occurred during prayer time. A majority of the Serb-dominated area’s mosques were destroyed by Serb forces during the Bosnian War. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2778085,44.1065822 ]
+    },
+    "properties": {
+    "datestart":"2012_06_07",
+    "dateend":"2012_06_14",
+    "date":"June 7, 2012 - June 14, 2012",
+    "date1":"Date:",
+    "sitename":"Srebrenica Serb Graves",
+    "chsl_id":"CHSLBIH1500",
+    "description":"BBC reported that between June 7-14, 2012, unspecified actors desecrated three Serb graves in the Srebrenica area. Srebrenica was the sight of the 1995 massacre of approximately 8,000 Bosnian Muslim men and expulsion of Bosnian Muslim women and children by Bosnian Serb forces."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.90531646,44.97729888 ]
+    },
+    "properties": {
+    "datestart":"2012_07_30",
+    "dateend":"2012_08_01",
+    "date":"July 30, 2012 - August 1, 2012",
+    "date1":"Date:",
+    "sitename":"Derventa Mosque",
+    "chsl_id":"CHSLBIH1609",
+    "description":"BBC reported that between July 30, 2012 and August 1, 2012 vandals threw a glass bottle at a mosque in Derventa. The now Serb-dominated town was the site of ethnic cleansing against non-Serb populations during the Bosnian War. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7893963,43.583489 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Turhan Emin-begova Džamija (Ustikolina)",
+    "chsl_id":"CHSLBIH1653",
+    "description":"Transitions Online reported that between April 6, 1992 and December 14, 1995, Bosnian Serb forces destroyed the Turhan Beg Mosque in Ustikolina. When the mosque was rebuilt in 2007, its minaret was designed to be double the size of the original so that it could be seen from the nearby border with the Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2661553,43.95645 ]
+    },
+    "properties": {
+    "datestart":"2012_08_05",
+    "dateend":"2012_08_10",
+    "date":"August 5, 2012 - August 10, 2012",
+    "date1":"Date:",
+    "sitename":"Ilidža Orthodox Cemetery",
+    "chsl_id":"CHSLBIH1497",
+    "description":"BBC reported that between August 5-10, 2012, unspecified actors desecrated several tombstones at Ilijas Orthodox cemetery near Sarajevo. The cemetery is located in the Sarajevo canton of the Federation of Bosnia and Herzegovina, which is dominated by Bosnian Muslims."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.1697902,44.760706 ]
+    },
+    "properties": {
+    "datestart":"2012_09_21",
+    "dateend":"2012_10_06",
+    "date":"September 21, 2012 - October 6, 2012",
+    "date1":"Date:",
+    "sitename":"Bijeljina Mosque ",
+    "chsl_id":"CHSLBIH1664",
+    "description":"BBC reported that between September 21, 2012 and October 6, 2012, unspecified actors vandalized a mosque in Bijeljina. Bijeljina was the site of the massacre and expulsion of non-Serb populations during the Bosnian War, as well as the destruction of mosques."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.3192949,44.1874012 ]
+    },
+    "properties": {
+    "datestart":"2012_10_06",
+    "dateend":"2012_10_17",
+    "date":"October 6, 2012 - October 17, 2012",
+    "date1":"Date:",
+    "sitename":"Bratunac Orthodox Church",
+    "chsl_id":"CHSLBIH1665",
+    "description":"BBC reported that between October 6-17, 2012, Turkish tourists broke down the door of the Serb Orthodox churchof the Assumption of the Most Holy Theotokos in Bratunac. The town is located in the Republika Srpska."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.1334322,43.9530655 ]
+    },
+    "properties": {
+    "datestart":"1995_07_11",
+    "dateend":"1995_07_31",
+    "date":"July 11, 1995 - July 31, 1995",
+    "date1":"Date:",
+    "sitename":"Zepa Mosque",
+    "chsl_id":"CHSLBIH1666",
+    "description":"M2 Presswire reported that between July 11-31, 1995, Bosnian Serb forces demolished a mosque in Zepa. The perpetrators also expelled the Muslim population from their enclave in the Serb-dominated area and destroyed their homes. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3197157,43.8867946 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"2012_12_31",
+    "date":"April 6, 1992 - December 31, 2012",
+    "date1":"Date:",
+    "sitename":"Reljevo Orthodox Church",
+    "chsl_id":"CHSLBIH0510",
+    "description":"Agence France-Presse reported that between April 6, 1992 and December 31, 2012, unspecified actors fired at and vandalized the Serb Orthodox church of the Transfiguration of the Holy Father Nikolai in Reljevo. The policeman assigned to guard the church was shot and killed in the Muslim-dominated village."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.807885,43.34196 ]
+    },
+    "properties": {
+    "datestart":"2013_01_06",
+    "dateend":"2013_01_15",
+    "date":"January 6, 2013 - January 15, 2013",
+    "date1":"Date:",
+    "sitename":"Mostar Monument to B-H Army Soliders",
+    "chsl_id":"CHSLBIH1654",
+    "description":"BBC reported that between January 6-15, 2013, unspecified actors destroyed a monument to the soldiers of Bosnia and Herzegovina in an explosion in Mostar. The attack was reportedly an act of terrorism that heightened tensions in the city. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8907389,43.9599424 ]
+    },
+    "properties": {
+    "datestart":"2013_03_05",
+    "dateend":"2013_03_12",
+    "date":"March 5, 2013 - Marcy 12, 2013",
+    "date1":"Date:",
+    "sitename":"Fojnica Village Catholic Church ",
+    "chsl_id":"CHSLBIH1667",
+    "description":"HINA reported that between March 5-12, 2013, unspecified actors vandalized the Catholic church of the Holy Spirit near Fojnica, smashing its windows. The Croat-minority church had reportedly been desecrated before."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1962284,44.7926286 ]
+    },
+    "properties": {
+    "datestart":"2013_03_28",
+    "dateend":"2013_03_29",
+    "date":"March 28, 2013 - March 29, 2013",
+    "date1":"Date:",
+    "sitename":"Petrićevac Catholic Church",
+    "chsl_id":"CHSLBIH1655",
+    "description":"HINA reported that between March 28-29, 2013, unspecified actors set fire to the door of a Catholic church in Petricevac. Petricevac is located in the Serb-dominated Banja Luka district. The event occurred on Good Friday, an important Catholic holy day."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4348073,43.8614519 ]
+    },
+    "properties": {
+    "datestart":"2006_08_11",
+    "dateend":"2006_08_11",
+    "date":"August 11, 2006",
+    "date1":"Date:",
+    "sitename":"Alija Izetbegović's Grave",
+    "chsl_id":"CHSLBIH1656",
+    "description":"BBC reported that on August 11, 2006, unspecified actors bombed the grave of Alija Izetbegovic in Sarajevo. Izetbegovic was the first President of the Presidency of the Republic of Bosnia and Herzegovina and supported Bosnian independence from Yugoslavia in 1992."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9026672,44.2050676 ]
+    },
+    "properties": {
+    "datestart":"2013_10_04",
+    "dateend":"2013_10_05",
+    "date":"October 4, 2013 - October 5, 2013",
+    "date1":"Date:",
+    "sitename":"Zenica Catholic Church",
+    "chsl_id":"CHSLBIH1657",
+    "description":"HINA reported that between October 4-5, 2013, unspecified actors desecrated a Catholic church in Zenica, smashing windows and damaging the door. The perpetrators also damaged the plaque identifying the church as a cultural monument. The attack occurred on an important feast day."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.67413293,44.5374361 ]
+    },
+    "properties": {
+    "datestart":"2014_01_05",
+    "dateend":"2014_01_12",
+    "date":"January 5, 2014 - January 12, 2014",
+    "date1":"Date:",
+    "sitename":"Tuzla Catholic cemetery",
+    "chsl_id":"CHSLBIH1452",
+    "description":"HINA reported that between January 5-12, 2014, unspecified actors desecrated a Catholic cemetery in Tuzla. The Federation of Bosnia and Herzegovina reportedly had not taken adequate measures to prevent the vandalization of Croat religious sites."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6236206,44.8974391 ]
+    },
+    "properties": {
+    "datestart":"2014_01_12",
+    "dateend":"2014_01_12",
+    "date":"January 12, 2014",
+    "date1":"Date:",
+    "sitename":"Ljubija rectory and Catholic church",
+    "chsl_id":"CHSLBIH1668",
+    "description":"HINA reported that on January 12, 2014, unspecified actors burglarized the rectory and Catholic church in Ljubija. The Federation of Bosnia and Herzegovina reportedly had not taken adequate measures to prevent the vandalization of Croat religious sites."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.413379,43.8579832 ]
+    },
+    "properties": {
+    "datestart":"2014_02_08",
+    "dateend":"2014_02_08",
+    "date":"February 8, 2014",
+    "date1":"Date:",
+    "sitename":"State Archives of Bosnia and Herzegovina",
+    "chsl_id":"CHSLBIH1658",
+    "description":"The Guardian reported that on February 8, 2014, anti-government protesters set the State Archives of Bosnia and Herzegovina on fire. Many of the archives important materials, including documents from the Ottoman period and World War II war crimes commission, were destroyed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8053431,43.3462996 ]
+    },
+    "properties": {
+    "datestart":"2014_02_08",
+    "dateend":"2014_02_13",
+    "date":"February 8, 2014 - February 13, 2014",
+    "date1":"Date:",
+    "sitename":"HDZ Headquarter Catholic religious objects",
+    "chsl_id":"CHSLBIH1659",
+    "description":"BBC reported that between February 8-13, 2014, protesters destroyed Catholic religious objects in the Croatian Democratic Union in Mostar. The protesters destroyed statues of the Virgin Mary, crucifixes, and ethnic insignia."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.2970002,43.7827257 ]
+    },
+    "properties": {
+    "datestart":"2014_01_23",
+    "dateend":"2014_01_23",
+    "date":"February 23, 2014",
+    "date1":"Date:",
+    "sitename":"Visegrad memorial to Bosniak genocide victims",
+    "chsl_id":"CHSLBIH1660",
+    "description":"The Guardian reported that on January 23, 2014, Serb authorities censored the memorial to genocide victims in Visegrad. The authorities ordered that the word “genocide” be removed from the memorial in continued denial of crimes committed against Bosnian Muslims during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5917157,44.8829035 ]
+    },
+    "properties": {
+    "datestart":"1992_07_25",
+    "dateend":"1992_07_25",
+    "date":"July 25, 1992",
+    "date1":"Date:",
+    "sitename":"Brisevo Catholic church",
+    "chsl_id":"CHSLBIH1669",
+    "description":"HINA reported that on July 25, 1992, Serb units demolished the Catholic church in Brisevo. The Serbs also killed or detained members of the local Croat population and burned down their homes and property."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2010449,44.525466 ]
+    },
+    "properties": {
+    "datestart":"1995_12_14",
+    "dateend":"2014_08_01",
+    "date":"December 14, 1995 - August 1, 2014",
+    "date1":"Date:",
+    "sitename":"Gornja Serb cemetery",
+    "chsl_id":"CHSLBIH1670",
+    "description":"BBC reported that between December 14, 1995 and August 1, 2014, unspecified actors desecrated the Serb cemetery in Gornja. The destruction of gravestones at the cemetery reportedly occurred in tandem with seizures of Serb property in the area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.804955,43.342816 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1995_12_14",
+    "date":"April 6, 1992 - December 14, 1995",
+    "date1":"Date:",
+    "sitename":"Mostar Old City Library",
+    "chsl_id":"CHSLBIH1661",
+    "description":"The Winnipeg Free Press reported that between April 6, 1992 and December 14, 1995, unspecified actors destroyed the old city library in Mostar. The town was a site of sustained fighting between Bosnian Muslims, Croats, and Serbs during the Bosnian War."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8503831,44.7833297 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1992_12_31",
+    "date":"April 6, 1992 - December 31, 2012",
+    "date1":"Date:",
+    "sitename":"Doboj mosque",
+    "chsl_id":"CHSLBIH1477",
+    "description":"HINA reported that between April 6, 1992 and December 31, 1992, Serb red berets destroyed a mosque in Doboj. The Serb paramilitary units also killed, tortured, and detained several civilians in the predominantly Muslim city."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.24819286,43.76847858 ]
+    },
+    "properties": {
+    "datestart":"1993_08_01",
+    "dateend":"1993_08_31",
+    "date":"August 1, 1993 - August 31, 1993",
+    "date1":"Date:",
+    "sitename":"Mount Igman Olympic Facilities",
+    "chsl_id":"CHSLBIH1529",
+    "description":"The Christian Science Monitor reported that in August 1993, Serb forces set the Mt. Igman sporting facilities on fire. These facilities were used during the 1984 Sarajevo Olympic Games. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3105454,44.7052391 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1994_02_02",
+    "date":"April 6, 1992 - February 2, 1994",
+    "date1":"Date:",
+    "sitename":"Trebević Bobsled Track",
+    "chsl_id":"CHSLBIH1068",
+    "description":"The Christian Science Monitor reported that between April 6, 1992 and December 31, 1992, Serb and Muslim forces damaged the Trebevic bobsled and luge facilities in Sarajevo. The facilities were damaged in clashes over the strategic high ground area."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.779866,43.505293 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1993_11_16",
+    "date":"April 6, 1992 - November 16, 1993",
+    "date1":"Date:",
+    "sitename":"Aladža Džamija ",
+    "chsl_id":"CHSLBIH1429",
+    "description":"The Globe and Mail reported that between April 6, 1992 and November 16, 1993, Bosnian Serb forces destroyed the Aladza mosque in Foca.  During the war, Foca was a Serb stronghold from which Bosnian Muslims populations fled or were expelled."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.67413293,44.5374361 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1993_11_22",
+    "date":"April 6, 1992 - November 22, 1993",
+    "date1":"Date:",
+    "sitename":"Tuzla Orthodox churches",
+    "chsl_id":"CHSLBIH1452",
+    "description":"The Wall Street Journal reported that between April 6, 1992 and November 22, 1993, Muslims levelled 56 Orthodox churches in Tuzla. Tuzla was occupied by Bosnian Muslims. Serbs are associated with Christian orthodoxy."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.80750701,43.34379338 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1993_11_22",
+    "date":"April 6, 1992 - November 22 1993",
+    "date1":"Date:",
+    "sitename":"Mostar Serbian Orthodox monastery (Благовештење пресвете вогородице)",
+    "chsl_id":"CHSLBIH1459",
+    "description":"The Wall Street Journal reported that between April 6, 1992 and November 22, 1993, Croats destroyed the Zitomislic Christian Orthodox monastery in Mostar. The monastic buildings were dynamited and bulldozed, and the library’s 16th and 17th century manuscript collection was damaged. Serbs are traditionally associated with Christian orthodoxy."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.19629417,44.77247802 ]
+    },
+    "properties": {
+    "datestart":"1993_09_08",
+    "dateend":"1993_09_08",
+    "date":"September 8, 1993",
+    "date1":"Date:",
+    "sitename":"Banja Luka mosque",
+    "chsl_id":"CHSLBIH1451",
+    "description":"Reuters News reported that on September 8, 1993, Serb radicals blew up a mosque in Banja Luka. The mosque was one of the final two mosques in the city, the other 14 already having been destroyed. Banja Luka was a Serb nationalist stronghold."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.43156785,43.8664811 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1993_10_09",
+    "date":"April 6, 1992 - October 9, 1993",
+    "date1":"Date:",
+    "sitename":"Sarajevo Mosques ",
+    "chsl_id":"CHSLBIH1450",
+    "description":"The St. Petersburg Times reported that between April 6, 1992 and October 9, 1993, Serb forces damaged most of the 72 mosques in Sarajevo. Mosques in most areas controlled by Serbs have reportedly been dynamited or demolished."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8151444,43.3371964 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1993_11_16",
+    "date":"April 6, 1992 - November 16, 1993",
+    "date1":"Date:",
+    "sitename":"Stari Most",
+    "chsl_id":"CHSLBIH1284",
+    "description":"The Globe and Mail reported that on November 9, 1993, Croat forces destroyed the Stari Most in Mostar with tank fire. According to historians, the bridge symbolized unity between Croat and Muslim cultures."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.906755,44.976588 ]
+    },
+    "properties": {
+    "datestart":"1995_02_18",
+    "dateend":"1995_02_18",
+    "date":"February 18, 2015",
+    "date1":"Date:",
+    "sitename":"Podbrezje Catholic church",
+    "chsl_id":"CHSLBIH1442",
+    "description":"The New York Times reported that in 1993, Bosnian Muslims partly destroyed a Catholic church in Podbrezje. The population of Podbrezje is majority Croat. Fighting occurred in the town between Bosnian Muslims and Croats."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.43156785,43.8664811 ]
+    },
+    "properties": {
+    "datestart":"1995_04_02",
+    "dateend":"1995_04_03",
+    "date":"April 2, 1995 - April 3, 1995",
+    "date1":"Date:",
+    "sitename":"Sarajevo Roman Catholic church",
+    "chsl_id":"CHSLBIH1450",
+    "description":"The Orange County Register reported that on April 2, 1995, unspecified actors opened fire on a Roman Catholic church in Sarajevo. Peacekeeper supply routes into the city reportedly came under Serb gunfire the previous day. Serbs had not yet accepted an international peace plan."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.31345279,43.79707343 ]
+    },
+    "properties": {
+    "datestart":"1995_04_06",
+    "dateend":"1995_04_06",
+    "date":"April 6, 1995",
+    "date1":"Date:",
+    "sitename":"Hrasnica Mosque",
+    "chsl_id":"CHSLBIH1461",
+    "description":"Agence France-Presse reported that on April 6, 1995, Bosnian Serb forces fired a shell into a mosque courtyard in Hrasnica. The town center was also struck by shells. Fighting between Bosnian Serbs and Muslims continued as Serbs refused to accept a partition plan."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.178947,44.769935 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1993_11_16",
+    "date":"April 6, 1992 - November 16, 1993",
+    "date1":"Date:",
+    "sitename":"Talih Mosque",
+    "chsl_id":"CHSLBIH1607",
+    "description":"The Globe and Mail reported that between April 6, 1992 and November 16, 1993, Serb forces destroyed the Talih mosque in Banja Luka. Serb forces levelled all 16 of the predominantly-Serb city’s mosques and often bulldozed the sites of debris."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1841978,44.7587441 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1993_11_16",
+    "date":"April 6, 1992 - November 16, 1993",
+    "date1":"Date:",
+    "sitename":"Stupnicka Mosque",
+    "chsl_id":"CHSLBIH0275",
+    "description":"The Globe and Mail reported that between April 6, 1992 and November 16, 1993, Serb forces destroyed the Stupnicka mosque in Banja Luka. Serb forces levelled all 16 of the predominantly-Serb city’s mosques and often bulldozed the sites of debris."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.4037438,44.1509236 ]
+    },
+    "properties": {
+    "datestart":"1992_12_01",
+    "dateend":"1992_12_31",
+    "date":"December 1, 1992 - December 31, 1992",
+    "date1":"Date:",
+    "sitename":"Bjelovac Cemetery ",
+    "chsl_id":"CHSLBIH1711",
+    "description":"The Globe and Mail reported that in December 1992, Muslim forces opened fire on a Serbian cemetery in Bjelovac. They sought to overrun the majority-Serb population in the town."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.814708,43.3387767 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1992_12_18",
+    "date":"April 6, 1992 - December 18, 1992",
+    "date1":"Date:",
+    "sitename":"Mehmet Pasha mosque",
+    "chsl_id":"CHSLBIH0811",
+    "description":"The Independent reported that between April 6, 1992 and December 18, 1992, Serb forces partly tore off the roof of the Mehmed Pasha mosque in Mostar with gunfire. The mosque dates to the 17th century. \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8151444,43.3371964 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1992_12_18",
+    "date":"April 6, 1992 - December 18, 1992",
+    "date1":"Date:",
+    "sitename":"Turkish bridge towers",
+    "chsl_id":"CHSLBIH1284",
+    "description":"The Independent reported that between April 6, 1992 and December 18, 1992, Serb forces damaged the Turkish towers on the sides of the Stari Most in Mostar with artillery fire. Pieces of masonry were ripped off of the 17th and 18th century towers, relics of the Ottoman empire.\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8151444,43.3371964 ]
+    },
+    "properties": {
+    "datestart":"1992_04_06",
+    "dateend":"1992_12_18",
+    "date":"April 6, 1992 - December 18, 1992",
+    "date1":"Date:",
+    "sitename":"Mostar bridge",
+    "chsl_id":"CHSLBIH1284",
+    "description":"The Independent reported that between April 6, 1992 and December 18, 1992, Serb forces damaged the Stari Most in Mostar with artillery fire. The northern parapet was destroyed and the entire bridge was scarred with bullet holes. The Islamic-style bridge links Muslim and Croat communities in Mostar. \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.19629417,44.77247802 ]
+    },
+    "properties": {
+    "datestart":"1993_09_08",
+    "dateend":"1993_09_08",
+    "date":"September 8, 1993",
+    "date1":"Date:",
+    "sitename":"Banja Luka mosque",
+    "chsl_id":"CHSLBIH1451",
+    "description":"Reuters News reported that on September 8, 1993, Serb radicals blew up a mosque in Banja Luka. The mosque was one of the final two mosques in the city, the other 14 already having been destroyed. Banja Luka was a Serb nationalist stronghold."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.08798,44.28391 ]
+    },
+    "properties": {
+    "datestart":"1993_09_10",
+    "dateend":"1993_09_10",
+    "date":"September 10, 1993",
+    "date1":"Date:",
+    "sitename":"Arnaudija Mosque Banja Luka",
+    "chsl_id":"CHSLBIH1524",
+    "description":"Reuters News reported that on September 8, 1993, Serb radicals blew up a mosque in Banja Luka. The mosque was one of the final two mosques in the city, the other 14 already having been destroyed. Banja Luka was a Serb nationalist stronghold."
+    }
   }
 ]
 }
