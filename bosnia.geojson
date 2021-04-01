@@ -5605,22 +5605,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.19629417,44.77247802 ]
-    },
-    "properties": {
-    "datestart":"1993_09_08",
-    "dateend":"1993_09_08",
-    "date":"September 8, 1993",
-    "date1":"Date:",
-    "sitename":"Banja Luka mosque",
-    "chsl_id":"CHSLBIH1451",
-    "description":"Reuters News reported that on September 8, 1993, Serb radicals blew up a mosque in Banja Luka. The mosque was one of the final two mosques in the city, the other 14 already having been destroyed. Banja Luka was a Serb nationalist stronghold."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 18.43156785,43.8664811 ]
     },
     "properties": {
