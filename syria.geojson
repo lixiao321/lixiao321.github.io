@@ -1,5 +1,4 @@
-
-    {
+{
    "type": "FeatureCollection",
    "features": [
   {
@@ -9065,8 +9064,8 @@
        "coordinates":  [ 36.6180159,35.9266549 ]
     },
     "properties": {
-    "sitename":"",
-    "description":"",
+    "sitename":"Shrine of Prophet Ayoub's wife",
+    "description":"FARS News Agency reported that in 2013, ISIS detonated weapons on the Shrine of Prophet Ayoub's wife in Idlib. ",
     "date1":"Date: ",
     "date":"January 1, 2014",
     "date_start":"2014_01_01",
@@ -9081,29 +9080,13 @@
        "coordinates":  [ 36.3581913,33.5384633 ]
     },
     "properties": {
-    "sitename":"Shrine of Prophet Ayoub's wife",
-    "description":"FARS News Agency reported that in 2013, ISIS detonated weapons on the Shrine of Prophet Ayoub's wife in Idlib. ",
+    "sitename":"Arbin mosque",
+    "description":"Reuters reported that on 8 January 2014, forces loyal to President Bashar al-Assad damaged a mosque in an airstike in Arbin.",
     "date1":"Date: ",
     "date":"January 8, 2014",
     "date_start":"2014_01_08",
     "date_end":"2014_01_08",
     "chsl_id":"CHSLSYR2355"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 36.2407981,33.4588056 ]
-    },
-    "properties": {
-    "sitename":"Arbin mosque",
-    "description":"Reuters reported that on 8 January 2014, forces loyal to President Bashar al-Assad damaged a mosque in an airstike in Arbin.",
-    "date1":"Date: ",
-    "date":"January 9, 2013",
-    "date_start":"2013_01_09",
-    "date_end":"2014_01_09",
-    "chsl_id":"CHSLSYR2480"
     }
   },
   {
@@ -9126,32 +9109,32 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.54625,33.84413 ]
+       "coordinates":  [ 36.2407981,33.4588056 ]
     },
     "properties": {
     "sitename":"Holy Shrine of Lady Sakinah",
     "description":"The Statesman reported that in 2014, the Syrian army drove militants out of the Sayyeda Sakeena Shrine in Damascus. The namesake of the shrine, Sakeena, was the daughter of Hussein Ibn Ali, an important figure in Shi'a Islam. ",
     "date1":"Date: ",
-    "date":"January 15, 2014",
-    "date_start":"2014_01_15",
-    "date_end":"2014_01_15",
-    "chsl_id":"CHSLSYR2461"
+    "date":"January 9, 2013",
+    "date_start":"2013_01_09",
+    "date_end":"2014_01_09",
+    "chsl_id":"CHSLSYR2480"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.0785449,36.2064142 ]
+       "coordinates":  [ 36.54625,33.84413 ]
     },
     "properties": {
     "sitename":"Maaloula church ",
     "description":"Kashmir Monitor reported that in 2014, Al-Qaede linked militants vandalized, burned and robbed a church in Malula. ",
     "date1":"Date: ",
-    "date":"March 15, 2011 -  January 21, 2014",
-    "date_start":"2011_03_15",
-    "date_end":"2014_01_21",
-    "chsl_id":"CHSLSYR2358"
+    "date":"January 15, 2014",
+    "date_start":"2014_01_15",
+    "date_end":"2014_01_15",
+    "chsl_id":"CHSLSYR2461"
     }
   },
   {
@@ -9174,11 +9157,27 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.2925624,33.5556895 ]
+       "coordinates":  [ 37.0785449,36.2064142 ]
     },
     "properties": {
     "sitename":"Aleppo churches",
     "description":"Al Akhbar reported that during the Syrian conflict, radical militants attacked with explosives several churches and monasteries in Aleppo. ",
+    "date1":"Date: ",
+    "date":"March 15, 2011 -  January 21, 2014",
+    "date_start":"2011_03_15",
+    "date_end":"2014_01_21",
+    "chsl_id":"CHSLSYR2358"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2925624,33.5556895 ]
+    },
+    "properties": {
+    "sitename":"Barzeh mosque",
+    "description":"The Independent Online reported that during the Syrian conflict, unspecified actors badly damaged a mosque in Barzeh. ",
     "date1":"Date: ",
     "date":"March 1, 2013 -  January 26, 2014",
     "date_start":"2013_03_01",
@@ -9190,11 +9189,27 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.1629159,36.1998105 ]
+       "coordinates":  [ 37.156322,36.198747 ]
     },
     "properties": {
     "sitename":"Souq al-Madina",
     "description":"The Guardian reported that during the Syrian conflict, air force jets bombed the Souq al-Madina in Aleppo. The Souq al-Madina is one of the oldest covered marketplaces in the world.",
+    "date1":"Date: ",
+    "date":"March 15, 2011 -  January 27, 2014",
+    "date_start":"2011_03_15",
+    "date_end":"2014_01_27",
+    "chsl_id":"CHSLSYR2305"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1629159,36.1998105 ]
+    },
+    "properties": {
+    "sitename":"Aleppo Citadel",
+    "description":"The Guardian reported that during the Syrian conflict, air forces jets bombed the Citadel in Aleppo. The Aleppo Citadel is part of the UNESCO World Heritage Site of Ancient City of Aleppo and one of the oldest castles in the world.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  January 27, 2014",
     "date_start":"2011_03_15",
@@ -9209,8 +9224,8 @@
        "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
-    "sitename":"Aleppo Citadel",
-    "description":"The Guardian reported that during the Syrian conflict, air forces jets bombed the Citadel in Aleppo. The Aleppo Citadel is part of the UNESCO World Heritage Site of Ancient City of Aleppo and one of the oldest castles in the world.",
+    "sitename":"Crac des Chevaliers",
+    "description":"The Guardian reported that during the Syrian conflict, jets and artillery shelled the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  January 27, 2014",
     "date_start":"2011_03_15",
@@ -9225,8 +9240,8 @@
        "coordinates":  [ 36.1009302,32.6123399 ]
     },
     "properties": {
-    "sitename":"Crac des Chevaliers",
-    "description":"The Guardian reported that during the Syrian conflict, jets and artillery shelled the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
+    "sitename":"Omari Mosque",
+    "description":"The New York Post reported in April 2013, Syrian President Assad's forces shelled the Omari Mosque in Daraa. The mosque is more than 13 centuries old. ",
     "date1":"Date: ",
     "date":"April 1, 2013 - April 30, 2013",
     "date_start":"2013_04_01",
@@ -9241,8 +9256,8 @@
        "coordinates":  [ 37.2058512,36.2360855 ]
     },
     "properties": {
-    "sitename":"Omari Mosque",
-    "description":"The New York Post reported in April 2013, Syrian President Assad's forces shelled the Omari Mosque in Daraa. The mosque is more than 13 centuries old. ",
+    "sitename":"Uthman Bin Affan mosque",
+    "description":"Naples Daily News reported that on February 4, 2014, Syrian forces bombed on the Othman Bin Affan mosque in Aleppo. ",
     "date1":"Date: ",
     "date":"February 4, 2014",
     "date_start":"2014_02_04",
@@ -9257,8 +9272,8 @@
        "coordinates":  [ 36.2407981,33.4588056 ]
     },
     "properties": {
-    "sitename":"Uthman Bin Affan mosque",
-    "description":"Naples Daily News reported that on February 4, 2014, Syrian forces bombed on the Othman Bin Affan mosque in Aleppo. ",
+    "sitename":"Holy Shrine of Lady Sakinah",
+    "description":"The Philippines News Agency reported on February 5, 2014, extremist terrorists launched a missile attack on the Shrine of Lady Sakinah in Damascus. The namesake of the shrine, Sakeena, was the daughter of Hussein Ibn Ali, an important figure in Shi'a Islam. ",
     "date1":"Date: ",
     "date":"February 5, 2014",
     "date_start":"2014_02_05",
@@ -9273,8 +9288,8 @@
        "coordinates":  [ 36.71564755,34.73660195 ]
     },
     "properties": {
-    "sitename":"Holy Shrine of Lady Sakinah",
-    "description":"The Philippines News Agency reported on February 5, 2014, extremist terrorists launched a missile attack on the Shrine of Lady Sakinah in Damascus. The namesake of the shrine, Sakeena, was the daughter of Hussein Ibn Ali, an important figure in Shi'a Islam. ",
+    "sitename":"Khalid bin Walid Mosque",
+    "description":"Trend News Agency reported in 2013, the Syrian army destroyed the Khalid Ibn Walid Mosque in Homs. The Khalid Ibn Walid Mosque is named for a famous Muslim military commander from the 7th Century.",
     "date1":"Date: ",
     "date":"June 1, 2012 - August 31, 2012",
     "date_start":"2012_06_01",
@@ -9289,8 +9304,8 @@
        "coordinates":  [ 38.99803106,35.95979629 ]
     },
     "properties": {
-    "sitename":"Khalid bin Walid Mosque",
-    "description":"Trend News Agency reported in 2013, the Syrian army destroyed the Khalid Ibn Walid Mosque in Homs. The Khalid Ibn Walid Mosque is named for a famous Muslim military commander from the 7th Century.",
+    "sitename":"Al Raqqa mosaics",
+    "description":"The Independent Online reported in January 2014, ISIS blew up and destroyed Byzantine mosaics in Raqqa.",
     "date1":"Date: ",
     "date":"January 10, 2014",
     "date_start":"2014_01_10",
@@ -9305,8 +9320,8 @@
        "coordinates":  [ 38.1102628,36.305031 ]
     },
     "properties": {
-    "sitename":"Al Raqqa mosaics",
-    "description":"The Independent Online reported in January 2014, ISIS blew up and destroyed Byzantine mosaics in Raqqa.",
+    "sitename":"Shash Hamdan Cemetery",
+    "description":"The Independent Online reported that during the Syrian conflict, Islamic fundamentalists destroyed reliefs at the Shash Hamdan cemetery in Dżudajdat Mustaha. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  February 13, 2014",
     "date_start":"2011_03_15",
@@ -9321,8 +9336,8 @@
        "coordinates":  [ 36.8820047,35.6494152 ]
     },
     "properties": {
-    "sitename":"Shash Hamdan Cemetery",
-    "description":"The Independent Online reported that during the Syrian conflict, Islamic fundamentalists destroyed reliefs at the Shash Hamdan cemetery in Dżudajdat Mustaha. ",
+    "sitename":"Al-Qatora Statues",
+    "description":"The Independent Online reported that during the Syrian conflict, Islamic fundamentalists destroyed statues in the al-Qatora valley. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  February 13, 2014",
     "date_start":"2011_03_15",
@@ -9337,8 +9352,8 @@
        "coordinates":  [ 36.798,35.798 ]
     },
     "properties": {
-    "sitename":"Al-Qatora Statues",
-    "description":"The Independent Online reported that during the Syrian conflict, Islamic fundamentalists destroyed statues in the al-Qatora valley. ",
+    "sitename":"Ebla",
+    "description":"The Independent Online reported that during the Syrian conflict, looters looted a cave in Ebla. Ebla is an ancient city and important archaeological site. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  February 13, 2014",
     "date_start":"2011_03_15",
@@ -9353,8 +9368,8 @@
        "coordinates":  [ 32.8434289,32.8434289 ]
     },
     "properties": {
-    "sitename":"Ebla",
-    "description":"The Independent Online reported that during the Syrian conflict, looters looted a cave in Ebla. Ebla is an ancient city and important archaeological site. ",
+    "sitename":"Yadouda mosque",
+    "description":"The Hamilton Spectator reported that on February 14, 2014, a car bomb damaged a mosque in Yadouda. ",
     "date1":"Date: ",
     "date":"February 15, 2014",
     "date_start":"2014_02_15",
@@ -9369,8 +9384,8 @@
        "coordinates":  [ 36.54625,33.84413 ]
     },
     "properties": {
-    "sitename":"Yadouda mosque",
-    "description":"The Hamilton Spectator reported that on February 14, 2014, a car bomb damaged a mosque in Yadouda. ",
+    "sitename":"Maaloula archaeological site",
+    "description":"The Philippines News Agency reported that in 2014, al-Nusra Front fighters looted archaeological objects from the city of Maaloula. Maaloula is a predominately Christian city. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  February 15, 2014",
     "date_start":"2011_03_15",
@@ -9385,8 +9400,8 @@
        "coordinates":  [ 36.0121436,32.743301 ]
     },
     "properties": {
-    "sitename":"Maaloula archaeological site",
-    "description":"The Philippines News Agency reported that in 2014, al-Nusra Front fighters looted archaeological objects from the city of Maaloula. Maaloula is a predominately Christian city. ",
+    "sitename":"Tell al-Achari ",
+    "description":"The Philippines News Agency reported that in 2014, theives illegally exacatvated and placed explosives in Tal al-Ashari in Daraa.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  February 15, 2014",
     "date_start":"2011_03_15",
@@ -9401,8 +9416,8 @@
        "coordinates":  [ 41.2064087,37.0490315 ]
     },
     "properties": {
-    "sitename":"Churches",
-    "description":"M2 Presswire reported that during the Syrian conflict, the Assad regime bombed churches across Syria.",
+    "sitename":"Shrine of Mashuq Khaznawi",
+    "description":"Global Data Point reported on February 27, 2014, ISIL blew up a religious shrine in Tel Marouf. ",
     "date1":"Date: ",
     "date":"February 27, 2014",
     "date_start":"2014_02_27",
@@ -9417,8 +9432,8 @@
        "coordinates":  [ 37.9361359,36.5300786 ]
     },
     "properties": {
-    "sitename":"Shrine of Mashuq Khaznawi",
-    "description":"Global Data Point reported on February 27, 2014, ISIL blew up a religious shrine in Tel Marouf. ",
+    "sitename":"Suleyman Shah Tomb",
+    "description":"FARS News Agency reported that in 2014, ISIL detonated a religious tomb in Manbij. ",
     "date1":"Date: ",
     "date":"March 5, 2014",
     "date_start":"2014_03_05",
@@ -9433,8 +9448,8 @@
        "coordinates":  [ 38.99803106,35.95979629 ]
     },
     "properties": {
-    "sitename":"Suleyman Shah Tomb",
-    "description":"FARS News Agency reported that in 2014, ISIL detonated a religious tomb in Manbij. ",
+    "sitename":"Church of Saidat al-Bishara",
+    "description":"Associated Press Newswires reported in October 2013, ISIL damaged the Church of Saidat al-Bishara in Raqqa.",
     "date1":"Date: ",
     "date":"October 1, 2013 - October 31, 2013",
     "date_start":"2013_10_01",
@@ -9449,8 +9464,8 @@
        "coordinates":  [ 36.401333,35.420287 ]
     },
     "properties": {
-    "sitename":"Church of Saidat al-Bishara",
-    "description":"Associated Press Newswires reported in October 2013, ISIL damaged the Church of Saidat al-Bishara in Raqqa.",
+    "sitename":"Apamea",
+    "description":"The International New York Times reported that during the Syrian conflict, looters illegaly execavated and damaged the Apamea archaeological site in Qalaat al-Madiq. Apamea is an ancient city founded in 301 BC. ",
     "date1":"Date: ",
     "date":"March 15, 2011 - December 31, 2012",
     "date_start":"2011_03_15",
@@ -9465,8 +9480,8 @@
        "coordinates":  [ 40.729804,34.748913 ]
     },
     "properties": {
-    "sitename":"Apamea",
-    "description":"The International New York Times reported that during the Syrian conflict, looters illegaly execavated and damaged the Apamea archaeological site in Qalaat al-Madiq. Apamea is an ancient city founded in 301 BC. ",
+    "sitename":"Dura Europos",
+    "description":"The International New York Times reported that during the Syrian conflict, thieves looted the archaelogical site of Dura-Europos in Dura-Europos. Dura-Europos is an ancient Syrian city and important archaeological site. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 8, 2014",
     "date_start":"2011_03_15",
@@ -9481,8 +9496,8 @@
        "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
-    "sitename":"Dura Europos",
-    "description":"The International New York Times reported that during the Syrian conflict, thieves looted the archaelogical site of Dura-Europos in Dura-Europos. Dura-Europos is an ancient Syrian city and important archaeological site. ",
+    "sitename":"Crac des Chevaliers ",
+    "description":"The International New York Times reported that during the Syrian conflict, rebels and the Syrian Army damaged the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 8, 2014",
     "date_start":"2011_03_15",
@@ -9497,8 +9512,8 @@
        "coordinates":  [ 35.3350418,35.3350418 ]
     },
     "properties": {
-    "sitename":"Crac des Chevaliers ",
-    "description":"The International New York Times reported that during the Syrian conflict, rebels and the Syrian Army damaged the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
+    "sitename":"Deir Ezzor Mosque",
+    "description":"Reuters Pictures reported that during the Syrian conflict, unspecificed actors damaged a mosque in Deir al-Zor. ",
     "date1":"Date: ",
     "date":"March 7, 2014",
     "date_start":"2014_03_07",
@@ -9513,8 +9528,8 @@
        "coordinates":  [ 38.269134,34.553737 ]
     },
     "properties": {
-    "sitename":"Deir Ezzor Mosque",
-    "description":"Reuters Pictures reported that during the Syrian conflict, unspecificed actors damaged a mosque in Deir al-Zor. ",
+    "sitename":"Palmyra",
+    "description":"Voice of America reported that during the Syrian conflict, unspecified actors damaged Palmyra in Tadmur. Palmyra is an ancient city and UNESCO World Heritage Site. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9529,8 +9544,8 @@
        "coordinates":  [ 36.8441777,36.3340194 ]
     },
     "properties": {
-    "sitename":"Palmyra",
-    "description":"Voice of America reported that during the Syrian conflict, unspecified actors damaged Palmyra in Tadmur. Palmyra is an ancient city and UNESCO World Heritage Site. ",
+    "sitename":"Cathedral of St. Simeon Stylite",
+    "description":"Voice of America reported that during the Syrian conflict, unspecified actors damaged the Saint Simeon Church in Mountain Simeon. Saint Simeon Church is an ancient church and apart of the \"Ancient Villages of Northern Syria\" UNESCO World Heritage Site.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9545,8 +9560,8 @@
        "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
-    "sitename":"Cathedral of St. Simeon Stylite",
-    "description":"Voice of America reported that during the Syrian conflict, unspecified actors damaged the Saint Simeon Church in Mountain Simeon. Saint Simeon Church is an ancient church and apart of the \"Ancient Villages of Northern Syria\" UNESCO World Heritage Site.",
+    "sitename":"Crac des Cheveliers",
+    "description":"Xinhua News Agency reported that during the Syrian conflict, unspecificed actors damaged the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
     "date1":"Date: ",
     "date":"March 20, 2014",
     "date_start":"2014_03_20",
@@ -9561,8 +9576,8 @@
        "coordinates":  [ 37.1629159,36.1998105 ]
     },
     "properties": {
-    "sitename":"Crac des Cheveliers",
-    "description":"Xinhua News Agency reported that during the Syrian conflict, unspecificed actors damaged the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
+    "sitename":"Aleppo Citadel",
+    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged the Citadel in Aleppo. The Aleppo Citadel is part of the UNESCO World Heritage Site of Ancient City of Aleppo and one of the oldest castles in the world.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9577,8 +9592,8 @@
        "coordinates":  [ 36.294734,34.756959 ]
     },
     "properties": {
-    "sitename":"Aleppo Citadel",
-    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged the Citadel in Aleppo. The Aleppo Citadel is part of the UNESCO World Heritage Site of Ancient City of Aleppo and one of the oldest castles in the world.",
+    "sitename":"Crac des Chevaliers",
+    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9593,8 +9608,8 @@
        "coordinates":  [ 36.401333,35.420287 ]
     },
     "properties": {
-    "sitename":"Crac des Chevaliers",
-    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged the Krak de Chevaliers castle in Homs. The Krak de Chevaliers castle is a medival castle and UNESCO World Heritage Site.",
+    "sitename":"Apamea",
+    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged the Apamea archaeological site in Qalaat al-Madiq. Apamea is an ancient city founded in 301 BC. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9609,8 +9624,8 @@
        "coordinates":  [ 38.269134,34.553737 ]
     },
     "properties": {
-    "sitename":"Apamea",
-    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged the Apamea archaeological site in Qalaat al-Madiq. Apamea is an ancient city founded in 301 BC. ",
+    "sitename":"Palmyra",
+    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged Palmyra in Tadmur. Palmyra is an ancient city and UNESCO World Heritage Site. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9625,8 +9640,8 @@
        "coordinates":  [ 36.0585238,35.5961336 ]
     },
     "properties": {
-    "sitename":"Palmyra",
-    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged Palmyra in Tadmur. Palmyra is an ancient city and UNESCO World Heritage Site. ",
+    "sitename":"Salah al-Din's Castle",
+    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged Qal'at Salah El-Din in Al-Haffah. Also known as the castle of Saladin, Qal'at Salah El-Din is a medival castle and UNESCO World Heritage Site.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9641,8 +9656,8 @@
        "coordinates":  [ 38.99803106,35.95979629 ]
     },
     "properties": {
-    "sitename":"Salah al-Din's Castle",
-    "description":"M2 Presswire reported that during the Syrian conflict, unspecified actors damaged Qal'at Salah El-Din in Al-Haffah. Also known as the castle of Saladin, Qal'at Salah El-Din is a medival castle and UNESCO World Heritage Site.",
+    "sitename":"Al Raqqa archaeological warehouse",
+    "description":"Tempo reported that during the Syrian conflict, gunmen looted archaeological warehouses in Raqqa. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 12, 2014",
     "date_start":"2011_03_15",
@@ -9657,8 +9672,8 @@
        "coordinates":  [ 37.156885,36.199428 ]
     },
     "properties": {
-    "sitename":"Al Raqqa archaeological warehouse",
-    "description":"Tempo reported that during the Syrian conflict, gunmen looted archaeological warehouses in Raqqa. ",
+    "sitename":"Great Umayyad Mosque",
+    "description":"The Daily Telegraph reported that during the Syrian conflict, the Syrian regime destroyed the Great Umayyad Mosque in Aleppo. The Great Umayyad Mosque is one of the oldest mosques in Syria and located in the Ancient City of Aleppo World Heritage Sites.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 14, 2014",
     "date_start":"2011_03_15",
@@ -9673,8 +9688,8 @@
        "coordinates":  [ 38.269134,34.553737 ]
     },
     "properties": {
-    "sitename":"Great Umayyad Mosque",
-    "description":"The Daily Telegraph reported that during the Syrian conflict, the Syrian regime destroyed the Great Umayyad Mosque in Aleppo. The Great Umayyad Mosque is one of the oldest mosques in Syria and located in the Ancient City of Aleppo World Heritage Sites.",
+    "sitename":"Palmyra",
+    "description":"The Times Literary Supplement reported that during the Syrian conflict, terrorists had held looted archaeologial funerary objects from Palmyra. Palmyra is an ancient city and UNESCO World Heritage Site. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 14, 2014",
     "date_start":"2011_03_15",
@@ -9689,8 +9704,8 @@
        "coordinates":  [ 36.656092,33.974994 ]
     },
     "properties": {
-    "sitename":"Palmyra",
-    "description":"The Times Literary Supplement reported that during the Syrian conflict, terrorists had held looted archaeologial funerary objects from Palmyra. Palmyra is an ancient city and UNESCO World Heritage Site. ",
+    "sitename":"Greek Catholic Church of Our Lady",
+    "description":"The Independent Online reported that in 2014, Jabhat al-Nusra and the Islamic Front vandalized the Greak Catholic Church of Our Lady in Yabroud. ",
     "date1":"Date: ",
     "date":"March 4, 2012 - March 17, 2012",
     "date_start":"2012_03_04",
@@ -9705,8 +9720,8 @@
        "coordinates":  [ 36.54625,33.84413 ]
     },
     "properties": {
-    "sitename":"Greek Catholic Church of Our Lady",
-    "description":"The Independent Online reported that in 2014, Jabhat al-Nusra and the Islamic Front vandalized the Greak Catholic Church of Our Lady in Yabroud. ",
+    "sitename":"Maaloula church",
+    "description":"FARS News Agency reported that from 2011 to 2014, ISIS targeted churches in Maaloula. ",
     "date1":"Date: ",
     "date":"April 1, 2013 - March 27, 2014",
     "date_start":"2013_04_01",
@@ -9721,8 +9736,8 @@
        "coordinates":  [ 36.3409022,33.4443107 ]
     },
     "properties": {
-    "sitename":"Maaloula church",
-    "description":"FARS News Agency reported that from 2011 to 2014, ISIS targeted churches in Maaloula. ",
+    "sitename":"Sayyida Zaynab Mosque",
+    "description":"FARS News Agency reported that from 2011 to 2014, ISIS targeted the shrine of Hazrat Zaynab in Babbila. ",
     "date1":"Date: ",
     "date":"April 1, 2013 - March 27, 2014",
     "date_start":"2013_04_01",
@@ -9737,8 +9752,8 @@
        "coordinates":  [ 36.72,34.7293 ]
     },
     "properties": {
-    "sitename":"Sayyida Zaynab Mosque",
-    "description":"FARS News Agency reported that from 2011 to 2014, ISIS targeted the shrine of Hazrat Zaynab in Babbila. ",
+    "sitename":"Umm Al-Zenar Church",
+    "description":"The Irish Times reported that on May 7th, 2014, a Syrian commander torched the churches in Homs. Among the churches burned was the Um al-Zennar Syriac Orthodox cathedral.",
     "date1":"Date: ",
     "date":"May 7, 2014",
     "date_start":"2014_05_07",
@@ -9753,8 +9768,8 @@
        "coordinates":  [ 37.166667,36.216667 ]
     },
     "properties": {
-    "sitename":"Umm Al-Zenar Church",
-    "description":"The Irish Times reported that on May 7th, 2014, a Syrian commander torched the churches in Homs. Among the churches burned was the Um al-Zennar Syriac Orthodox cathedral.",
+    "sitename":"Haroun Dadeh Mosque",
+    "description":"The BBC Monitoring Middle East reported that on June 7, 2014, the Syrian army bombed multiple neighborhoods and sites in Aleppo. Among the sites damaged. The Haroun Dadeh Mosque was among the sites destroyed by the helicopter bombings",
     "date1":"Date: ",
     "date":"June 7, 2014",
     "date_start":"2014_06_07",
@@ -9769,8 +9784,8 @@
        "coordinates":  [ 37.144802,36.190058 ]
     },
     "properties": {
-    "sitename":"Haroun Dadeh Mosque",
-    "description":"The BBC Monitoring Middle East reported that on June 7, 2014, the Syrian army bombed multiple neighborhoods and sites in Aleppo. Among the sites damaged. The Haroun Dadeh Mosque was among the sites destroyed by the helicopter bombings",
+    "sitename":"Bader Mosque",
+    "description":"The BBC Monitoring Middle East reported that on June 7, 2014, the Syrian army bombed multiple neighborhoods and sites in Aleppo. Among the sites damaged. Damage near the Bader Mosque was also reported.",
     "date1":"Date: ",
     "date":"June 6, 2014",
     "date_start":"2014_06_06",
@@ -9785,8 +9800,8 @@
        "coordinates":  [ 335.9892374,35.9282242 ]
     },
     "properties": {
-    "sitename":"Bader Mosque",
-    "description":"The BBC Monitoring Middle East reported that on June 7, 2014, the Syrian army bombed multiple neighborhoods and sites in Aleppo. Among the sites damaged. Damage near the Bader Mosque was also reported.",
+    "sitename":"Armenian churches",
+    "description":"The ARMENPRESS News Wire reported that on March 23, 2014, extremist groups took over Kessa, pillaged Armenian houses, destroyed churches, and took Armenian families hostage. ",
     "date1":"Date: ",
     "date":"March 23, 2014",
     "date_start":"2014_03_23",
@@ -9801,8 +9816,8 @@
        "coordinates":  [ 38.99803106,35.95979629 ]
     },
     "properties": {
-    "sitename":"Armenian churches",
-    "description":"The ARMENPRESS News Wire reported that on March 23, 2014, extremist groups took over Kessa, pillaged Armenian houses, destroyed churches, and took Armenian families hostage. ",
+    "sitename":"churches",
+    "description":"The irish Times reported that between March 1 and 31, 2013, jihadist groups terrorized Christians around eastern Syria. In Al Raqqa, the jihadists destroyed churches and other Christian sites.",
     "date1":"Date: ",
     "date":"March 1, 2013 - March 31, 2013",
     "date_start":"2013_03_01",
@@ -9817,8 +9832,8 @@
        "coordinates":  [ 38.99803106,35.95979629 ]
     },
     "properties": {
-    "sitename":"churches",
-    "description":"The Irish Times reported that between March 1 and 31, 2013, jihadist groups terrorized Christians around eastern Syria. In Al Raqqa, the jihadists destroyed churches and other Christian sites.",
+    "sitename":"Al Raqqa churches",
+    "description":"",
     "date1":"Date: ",
     "date":"March 1, 2013 - March 31, 2013",
     "date_start":"2013_03_01",
@@ -9850,7 +9865,7 @@
     },
     "properties": {
     "sitename":"statue of the Virgin Mary",
-    "description":"Al Arabiya reported that between March 15, 2011 and June 20, 2014, workers repairing the home of a Chirstian citizen, they found a statue of the Virgin Mary smashed.",
+    "description":"Al Arabiya reported that between March 15, 2011 and June 20, 2014, workers repairing the home of a Chirstian citizen, they found a sttatue of the Virgin Mary smashed.",
     "date1":"Date: ",
     "date":"March 15, 2011 - June 20, 2014",
     "date_start":"2011_03_15",
@@ -9888,6 +9903,22 @@
     "date_start":"2013_04_01",
     "date_end":"2014_07_24",
     "chsl_id":"CHSLSYR2492"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.156322,36.198747 ]
+    },
+    "properties": {
+    "sitename":"Aleppo Souq",
+    "description":"The Spiegel Online International reported that, between January 1, 2012 and December 31, 2012, the Aleppo's ancient city, a UNESCO World Heritage Site, sufferd extensive damage from the war.",
+    "date1":"Date: ",
+    "date":"January 1, 2012 - December 31, 2012",
+    "date_start":"2012_01_01",
+    "date_end":"2012_12_31",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
@@ -10233,8 +10264,8 @@
        "coordinates":  [ 37.156885,36.199428 ]
     },
     "properties": {
-    "sitename":"sites in Syria",
-    "description":"The Northern Advocate reported that between March 15, 2011, and January 31, 2015, ISIS looted sites in Syria. British lawmaker Robert Jenrick claimed that antiquities looting was one of ISIS's main sources of funding. ",
+    "sitename":"Umayyad Mosque",
+    "description":"BBC reported that on January 28, 2015, jihadists blew up part of the wall of the Umayyad mosque in Aleppo. The city of Aleppo was registered as a UNESCO World Heritage site in 1986. ",
     "date1":"Date: ",
     "date":"January 28, 2015",
     "date_start":"2015_01_28",
@@ -10409,8 +10440,8 @@
        "coordinates":  [ 36.25965,33.5056 ]
     },
     "properties": {
-    "sitename":"museums",
-    "description":"Mail Online reported that between June 1, 2014 and February 17, 2015, ISIS looted museums in Syria. Most of the museums were located in and around Aleppo. The stolen artifacts, including earrings, rings, small statues, and heads, are often transported to neighboring countries so they can then be sold abroad. ",
+    "sitename":"al-Zahraa mosque",
+    "description":"Kuwait News Agency and BBC reported that on February 13, 2015, a car exploded near the al-Zahraa mosque in Damascus. At least ten people were killed. ",
     "date1":"Date: ",
     "date":"February 13, 2015",
     "date_start":"2015_02_13",
@@ -10521,8 +10552,8 @@
        "coordinates":  [ 37.5683,36.4358 ]
     },
     "properties": {
-    "sitename":"churches near the Turkish border",
-    "description":"Cihan News Agency reported that between February 23 and March 5, 2015, ISIL militants burned down four churches in villages near the Turkish border. As many as twelve people were also killed in the attacks. ",
+    "sitename":"Bashkoy mosque",
+    "description":"Reuters reported that on March 3, 2015, a mosque in Bashkoy was badly damaged during fighting between forces loyal to Assad and rebels. It is unknown which group caused the damage. ",
     "date1":"Date: ",
     "date":"March 3, 2015",
     "date_start":"2015_03_03",
@@ -10569,8 +10600,8 @@
        "coordinates":  [ 41.05906603,36.66805232 ]
     },
     "properties": {
-    "sitename":"churches in northern Syria ",
-    "description":"The Times reported that between February 23 and March 9, 2015, Isis militants defaced churches in northern Syria. Homes were also destroyed and men, women, and children were kidnapped. ",
+    "sitename":"Tell Brak",
+    "description":"The Associated Press reported that between June 1, 2014 and March 6, 2015, the Islamic State looted the site of Tell Brak in Hassakeh province. Tell Brak is known for its prehistoric settlement mounds. ",
     "date1":"Date: ",
     "date":"June 1, 2014 - March 6, 2015",
     "date_start":"2014_06_01",
@@ -10662,11 +10693,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.641968,35.933091 ]
+       "coordinates":  [ 39.0167106,35.933091 ]
     },
     "properties": {
-    "sitename":"statue of Ibrahim Hanano ",
-    "description":"SANA reported that between March 25 and April 1, 2015, terrorists destroyed a statue of Ibrahim Hanano in Idlib. Hanano was a hero of Syria's independence and the struggle against French occupation. ",
+    "sitename":"Idlib Archaeological Museum",
+    "description":"The Art Media Agency articulated concern for looting of the Archaelogical Museum in Idleb after a series of aerial strikes around the city. Evidently, the wall of the museum was damaged, While the destruction of the property is concerning, the greater threat is the possibility of looting after the building has been destroyed.",
     "date1":"Date: ",
     "date":"April 1, 2015",
     "date_start":"2015_04_01",
@@ -10678,7 +10709,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.6180159,35.9266549 ]
+       "coordinates":  [ 36.641968,35.9266549 ]
     },
     "properties": {
     "sitename":"Idlib mosque",
@@ -11385,8 +11416,8 @@
        "coordinates":  [ 36.4621638,32.5168709 ]
     },
     "properties": {
-    "sitename":"St. Gevorg Armenian church",
-    "description":"Gandzasar newspaper correspondant Hovik Shehirian reported that on January 22, 2016, St. Gevorg Armenian church was partially destroyed . Armed groups were said to have downed the cross of the church and burnt the hall. The church is still standing despite looting and being set ablaze.",
+    "sitename":"Bosra",
+    "description":"The Syrian Directorate of Antiquities and Museums reported on December 22, 2015, Bosra was damaged. The ancient city of Basra is a Syrian World Heritage Site. Severe damage was inflicted to the western courtyard adjacent to Bosra’s 2nd century Roman theatre and to parts of the Ayyubid citadel which surrounds it through shelling and military activity.",
     "date1":"Date: ",
     "date":"December 22, 2015",
     "date_start":"2015_12_22",
@@ -11472,6 +11503,22 @@
     "date_start":"2011_03_15",
     "date_end":"2016_02_13",
     "chsl_id":"CHSLSYR2339"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.156322,36.198747 ]
+    },
+    "properties": {
+    "sitename":"Aleppo Souq",
+    "description":"NPR reported that between March 3, 2015 and February 28, 2016, fighting between forces loyal to assad and Syrian rebels reduced much of the Aleppo Souk to nothing.  The Aleppo Souk is part of the Old City of Aleppo and a UNESCO World Heritage Site.",
+    "date1":"Date: ",
+    "date":"March 15, 2011 - February 28, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_02_28",
+    "chsl_id":"CHSLSYR2305"
     }
   },
   {
