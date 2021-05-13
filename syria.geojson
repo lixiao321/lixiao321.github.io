@@ -12629,7 +12629,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 38.25719406,34.56285643 ]
     },
     "properties": {
     "sitename":"Qalaat Fakhr ad-Din al-Maani",
@@ -12645,7 +12645,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 36.543669,33.845317 ]
     },
     "properties": {
     "sitename":"Church of Martyred Saints Sergius and Bacchus",
