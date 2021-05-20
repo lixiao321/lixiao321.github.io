@@ -1,0 +1,702 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.4640407,12.1495878 ]
+    },
+    "properties": {
+    "sitename":"Sangha on the Bandiagara Escarpment",
+    "description":"The Independent reported that between January 1, 2001, and March 17, 2001, men of the Dogon tribe plundered artifacts from the Bandiagara Escarpment in Mali’s Dogon country. The Bandiagara Escarpment contains the dwellings and graves of the Tellem tribe. \n",
+    "date1":"Date:",
+    "date":"January 1, 2001 - March 17, 2001",
+    "startdate":"2001_01_01",
+    "enddate":"2001_03_17",
+    "CHSLID":"CHSLMLI0070",
+    "FIELD10":"3 coordinates"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1355996,12.6125547 ]
+    },
+    "properties": {
+    "sitename":"Presidential palace",
+    "description":"The Associated Press reported that on March 22, 2012, renegade soldiers looted the presidential palace in Bamako after declaring a coup. The presidential palace was the former president’s residence in Mali’s capital. The soldiers looted the palace out of dissatisfaction with the government’s handling of the Tuareg rebellion.\n\n",
+    "date1":"Date:",
+    "date":"March 22, 2012",
+    "startdate":"2012_03_22",
+    "enddate":"2012_03_22",
+    "CHSLID":"CHSLMLI0622",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0059966,16.7683592 ]
+    },
+    "properties": {
+    "sitename":"Ahmed Baba Documentation and Research Center",
+    "description":"The New York Times, Agence France Presse, and M2 Presswire reported that between April 11 and 12, 2012, Ansar Dine militants supported by al-Qaeda seized control of and pillaged the Ahmed Baba Institute in Timbuktu. The Ahmed Baba Institute houses ancient documents classified by UNESCO as cultural patrimony.\n",
+    "date1":"Date:",
+    "date":"April 11, 2012 - April 12, 2012",
+    "startdate":"2012_04_11",
+    "enddate":"2012_04_12",
+    "CHSLID":"CHSLMLI0311",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0081584,16.770759 ]
+    },
+    "properties": {
+    "sitename":"Statues of Alfarouk",
+    "description":"The Swiss Telegraphic Agency reported that between January 16, 2012, and April 29, 2012, jihadists destroyed the statues of Alfarouk in Timbuktu. These statues celebrate the mythical defender of Timbuktu and, according to residents, symbolize the resilience of the ancient city.\n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - April 29, 2012",
+    "startdate":"2012_01_16",
+    "enddate":"2012_04_29",
+    "CHSLID":"CHSLMLI0028",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.00175,16.4656 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of St. Sidi Mahmoud Ben Amar",
+    "description":"Reuters News, Agence France Presse, Swiss Telegraphic Agency, L’Expression and Al Arabiya reported that on May 5, 2012, al-Qaeda supported Ansar Dine militants set fire to the mausoleum of St. Sidi Mahmoud Ben Amar in Timbuktu. The tomb honors a sacred Sufi scholar from 15th-century Timbuktu.\n",
+    "date1":"Date:",
+    "date":"May 4, 2012 - May 5, 2012",
+    "startdate":"2012_05_04",
+    "enddate":"2012_05_05",
+    "CHSLID":"CHSLMLI0637",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Monument",
+    "description":"Agence France Presse reported that on May 23, 2012, Ansar Dine and AQIM militants destroyed a monument dedicated to victims of Moussa Traore’s dictatorship in Timbuktu. The monument was erected in cities across Mali in honor of those who died in the 1991 protests against Traore.",
+    "date1":"Date:",
+    "date":"May 23, 2012",
+    "startdate":"2012_05_23",
+    "enddate":"2012_05_23",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.00175,16.4656 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of St. Sidi Mahmoud Ben Amar",
+    "description":"Agence France Presse reported that on June 30, 2012, Ansar Dine militants destroyed the Mausoleum of St. Sidi Mahmoud in Timbuktu. The Mausoleum of St. Sidi Mahmoud is one of several UNESCO-designated Sufi shrines in the city. Ansar Dine, a militant Islamic group seeking to impose Sharia law, opposes Sufi shrines.\n\n",
+    "date1":"Date:",
+    "date":"June 30, 2012",
+    "startdate":"2012_06_30",
+    "enddate":"2012_06_30",
+    "CHSLID":"CHSLMLI0637",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of St. Sidi Moctar",
+    "description":"Agence France Presse reported that on June 30, 2012, Ansar Dine militants destroyed the Mausoleum of St. Sidi Moctar in Timbuktu. The Mausoleum of St. Sidi Moctar is one of several UNESCO-designated Sufi shrines in the city. Ansar Dine, a militant Islamic group seeking to impose Sharia law, opposes Sufi shrines.\n\n",
+    "date1":"Date:",
+    "date":"June 30, 2012",
+    "startdate":"2012_06_30",
+    "enddate":"2012_06_30",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Abaradjou cemetery",
+    "description":"Agence France Presse reported that on June 30, 2012, Ansar Dine militants destroyed the cemetery of the Abaradjou district in Timbuktu. The destruction occurred after Ansar Dine, a militant Islamic group seeking to impose Sharia law, occupied the city. \n",
+    "date1":"Date:",
+    "date":"June 30, 2012",
+    "startdate":"2012_06_30",
+    "enddate":"2012_06_30",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0429133,16.7717797 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Alpha Moya",
+    "description":"Agence France Presse reported that on June 30, 2012, Ansar Dine militants destroyed the Mausoleum of Alpha Moya in Timbuktu. The Mausoleum of Alpha Moya is a sacred tomb dedicated to one of Timbuktu’s 333 Sufi saints. Ansar Dine, a militant Islamic group seeking to impose Sharia law, opposes Sufi shrines.\n",
+    "date1":"Date:",
+    "date":"June 30, 2012",
+    "startdate":"2012_06_30",
+    "enddate":"2012_06_30",
+    "CHSLID":"CHSLMLI0624",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0123326,16.7715422 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Sheikh el-Kebir",
+    "description":"Agence France Presse reported that on July 1, 2012, Ansar Dine militants attacked the mausoleum of Sheikh el-Kebir with hoes and chisels in Timbuktu. This mausoleum is one of the sixteen sacred tombs in the UNESCO-designated city.\n",
+    "date1":"Date:",
+    "date":"July 1, 2012",
+    "startdate":"2012_07_01",
+    "enddate":"2012_07_01",
+    "CHSLID":"CHSLMLI0625",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0131682,16.7698356 ]
+    },
+    "properties": {
+    "sitename":"Sidi Yahya Mosque",
+    "description":"Al Arabiya and Deutsche Welle reported that on July 1, 2012, Ansar Dine militants broke down the door of the Sidi Yahya Mosque in Timbuktu. The door of the Sidi Yahya Mosque is sacred, having been sealed closed since its creation in the 15th century.\n",
+    "date1":"Date:",
+    "date":"July 1, 2012",
+    "startdate":"2012_07_01",
+    "enddate":"2012_07_01",
+    "CHSLID":"CHSLMLI0623",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0123326,16.7715422 ]
+    },
+    "properties": {
+    "sitename":"Tomb of Baba Babadje",
+    "description":"The Associated Press reported that on July 10, 2012, Ansar Dine militants destroyed the Tomb of Baba Badadje. The tomb, dedicated to a revered scholar, is located in the cemetery of the Djingareyber Mosque. Ansar Dine, a militant Islamic group, seeks to impose Sharia law. \n",
+    "date1":"Date:",
+    "date":"July 10, 2012",
+    "startdate":"2012_07_10",
+    "enddate":"2012_07_10",
+    "CHSLID":"CHSLMLI0625",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0123326,16.7715422 ]
+    },
+    "properties": {
+    "sitename":"Tomb of Mahamane Foulane",
+    "description":"The Associated Press reported that on July 10, 2012, Ansar Dine militants razed the Tomb of Mahamane Foulane in Timbuktu. Dedicated to a Timbuktu erudite, this tomb is found in the cemetery of the Djingareyber Mosque. Ansar Dine, a militant Islamic group, seeks to impose Sharia law. \n",
+    "date1":"Date:",
+    "date":"July 10, 2012",
+    "startdate":"2012_07_10",
+    "enddate":"2012_07_10",
+    "CHSLID":"CHSLMLI0625",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1559391,16.2645494 ]
+    },
+    "properties": {
+    "sitename":"Gao church",
+    "description":"Reuters News reported that on September 11, 2012, members of the Mali Islamic militant group MUJWA looted an unspecified church in Gao. The looting occurred after MUJWA occupied and established control in the region.\n",
+    "date1":"Date:",
+    "date":"September 6, 2012",
+    "startdate":"2012_09_06",
+    "enddate":"2012_09_06",
+    "CHSLID":"CHSLMLI0626",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0123326,16.7715422 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Sheik el-Kebir",
+    "description":"Agence France Presse reported that on September 15, 2012, members of the Islamic militant group MUJWA destroyed the Mausoleum of Sheik El Kebir in Gao. The Kunta tribe of Mali venerates this shrine.\n",
+    "date1":"Date:",
+    "date":"September 15, 2012",
+    "startdate":"2012_09_15",
+    "enddate":"2012_09_15",
+    "CHSLID":"CHSLMLI0625",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Alfa Mobo",
+    "description":"Agence France Presse and the Times of Oman reported that on September 29, 2012, Ansar Dine militants destroyed the mausoleum of Alfa Mobo in Goundam. Witnesses observed that the militants smashed the mausoleum to the level of the tomb. Ansar Dine, a militant Islamic group, seeks to impose Sharia law. \n",
+    "date1":"Date:",
+    "date":"September 29, 2012",
+    "startdate":"2012_09_29",
+    "enddate":"2012_09_29",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Tomb of Almirou Mahamane Assidiki",
+    "description":"Reuters News and Cape Times reported that on September 29, 2012, Islamists destroyed the Tomb of Almirou Mahamane Assidiki in Goundam. The mausoleum is dedicated to a local Sufi saint.\n",
+    "date1":"Date:",
+    "date":"September 29, 2012",
+    "startdate":"2012_09_29",
+    "enddate":"2012_09_29",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9904056,16.7091332 ]
+    },
+    "properties": {
+    "sitename":"Three mausoleums of Kabara",
+    "description":"Agence France Presse and CNN Wire reported that on October 18, 2012, Islamists destroyed and burned three mausolea of Kabara in Timbuktu. These tombs are classified as UNESCO World Heritage Sites.\n",
+    "date1":"Date:",
+    "date":"October 18, 2012",
+    "startdate":"2012_10_18",
+    "enddate":"2012_10_18",
+    "CHSLID":"CHSLMLI0627",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Tomb of Cheick Nouh",
+    "description":"Reuters News reported that on October 18, 2012, Ansar Dine militants bulldozed the Tomb of Cheick Nouh in Timbuktu. The tomb is dedicated to a local Sufi saint. Ansar Dine, a militant Islamic group seeking to impose Sharia law, opposes Sufi shrines.\n",
+    "date1":"Date:",
+    "date":"October 18, 2012",
+    "startdate":"2012_10_18",
+    "enddate":"2012_10_18",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.98309,16.7084 ]
+    },
+    "properties": {
+    "sitename":"Tomb of Cheick Nouh",
+    "description":"Reuters News reported that on October 18, 2012, Ansar Dine militants bulldozed the Tomb of Cheick Nouh in Timbuktu. The tomb is dedicated to a local Sufi saint. Ansar Dine, a militant Islamic group seeking to impose Sharia law, opposes Sufi shrines.\n",
+    "date1":"Date:",
+    "date":"October 18, 2012",
+    "startdate":"2012_10_18",
+    "enddate":"2012_10_18",
+    "CHSLID":"CHSLMLI0639",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Tomb of Cheick Ousmane el Kabir",
+    "description":"Reuters News reported that on October 18, 2012, Ansar Dine militants bulldozed the Tomb of Cheick Ousmane el Kabir in Timbuktu. The tomb is dedicated to a local Sufi saint. Ansar Dine, a militant Islamic group seeking to impose Sharia law, opposes Sufi shrines.\n",
+    "date1":"Date:",
+    "date":"October 18, 2012",
+    "startdate":"2012_10_18",
+    "enddate":"2012_10_18",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Tomb of Cheick Mohamed Foulani Macina",
+    "description":"Reuters News reported that on October 18, 2012, Ansar Dine militants bulldozed the Tomb of Cheick Mohamed Foulani Macina in Timbuktu. The tomb is dedicated to a local Sufi saint. Ansar Dine, a militant Islamic group seeking to impose Sharia law, opposes Sufi shrines.",
+    "date1":"Date:",
+    "date":"October 18, 2012",
+    "startdate":"2012_10_18",
+    "enddate":"2012_10_18",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0081584,16.770759 ]
+    },
+    "properties": {
+    "sitename":"Independence monument in Timbuktu",
+    "description":"Agence France Presse reported that on October 27, 2012, Islamists destroyed the Independence Monument in Timbuktu. They removed the head of a horse on the monument and proceeded to bulldoze what remained of it.\n",
+    "date1":"Date:",
+    "date":"October 27, 2012",
+    "startdate":"2012_10_27",
+    "enddate":"2012_10_27",
+    "CHSLID":"CHSLMLI0028",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1559391,16.2645494 ]
+    },
+    "properties": {
+    "sitename":"Protestant churches and temples in Gao",
+    "description":"All Africa reported that on November 27, 2012, Islamists destroyed Protestant churches and temples in Gao. They looted the churches, removing crosses. \n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - November 27, 2012",
+    "startdate":"2012_01_16",
+    "enddate":"2012_11_27",
+    "CHSLID":"CHSLMLI0626",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Unspecified Timbuktu mausolea (in old Medina quarter)",
+    "description":"Reuters News, Agence France Presse, and dpa International reported that on December 23, 2012, Islamists destroyed unspecified mausolea in the Medina quarter of Timbuktu. The Islamists destroyed any mausolea they could find, including those that they had already damaged.\n",
+    "date1":"Date:",
+    "date":"October 23, 2012",
+    "startdate":"2012_12_23",
+    "enddate":"2012_12_23",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of the Al Hassan and Al Houseyni twins",
+    "description":"All Africa reported that on December 25, 2012, unspecified forces destroyed the mausolea of the Al Hassan and Al Houseyni twins in Timbuktu. In response to this destruction, the UN World Heritage Committee resolved to create an emergency fund for Mali’s damaged cultural property. \n",
+    "date1":"Date:",
+    "date":"October 23, 2012",
+    "startdate":"2012_12_23",
+    "enddate":"2012_12_23",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.0359147,14.6877216 ]
+    },
+    "properties": {
+    "sitename":"Unspecified church in Diabaly",
+    "description":"Irin Africa Service reported that between January 16 and 23, 2013, Islamists looted an unspecified church in Diabaly. A witness reported that Islamists decapitated a statue of the Virgin Mary, destroyed religious artifacts, and scrawled Quranic verses on the walls\n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - January 23, 2013",
+    "startdate":"2012_01_16",
+    "enddate":"2013_01_23",
+    "CHSLID":"CHSLMLI0628",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Gadhafi Palace in Timbuktu",
+    "description":"La Repubblica reported that between January 16 and 25, 2013, the French air force destroyed the Gadhafi Palace in Timbuktu. The building was damaged during a French bombing raid against Islamist militants.\n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - January 25, 2013",
+    "startdate":"2012_01_16",
+    "enddate":"2013_01_25",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9003826,14.944971 ]
+    },
+    "properties": {
+    "sitename":"Unnamed mosque in Konna",
+    "description":"Agence France Presse reported that between January 16, 2012, and January 27, 2013, unspecified forces bombed an unnamed mosque in the central Mali town of Konna. The destruction of this mosque occurred in the French air raid against Islamists, who had seized control of Konna prior to the offensive.\n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - January 27, 2013",
+    "startdate":"2012_01_16",
+    "enddate":"2013_01_27",
+    "CHSLID":"CHSLMLI0629",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0057744,16.7767109 ]
+    },
+    "properties": {
+    "sitename":"Ahmed Baba Documentation and Research Center",
+    "description":"Agence France Presse and Canwest News Service reported that on January 28, 2013, Islamists burned the Ahmed Baba Documentation and Research Center in Timbuktu. The center houses at least 60,000 manuscripts that are integral to the heritage of the ancient city.\n",
+    "date1":"Date:",
+    "date":"January 28, 2013",
+    "startdate":"2013_01_28",
+    "enddate":"2013_01_28",
+    "CHSLID":"CHSLMLI0256",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0123326,16.7715422 ]
+    },
+    "properties": {
+    "sitename":"Djingareyber Mosque",
+    "description":"M2 Presswire and The Canadian Press reported that between January 16, 2012, and June 7, 2013, unspecified forces destroyed parts of the Djingareyber Mosque in Timbuktu. The mosque is one of three madrassas comprising the University of Timbuktu. \n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - June 7, 2013",
+    "startdate":"2012_01_16",
+    "enddate":"2013_06_07",
+    "CHSLID":"CHSLMLI0625",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0057744,16.7767109 ]
+    },
+    "properties": {
+    "sitename":"Manuscripts in Abmed Baba Research Center",
+    "description":"M2 Presswire and the Canadian Press reported that between January 16, 2012, and June 7, 2013, unspecified forces destroyed an estimated 4,203 manuscripts at the Ahmed Baba Documentation and Research Center in Timbuktu. 300,000 manuscripts were withdrawn from the center and sent to Bamako for preservation.\n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - June 7, 2013",
+    "startdate":"2012_01_16",
+    "enddate":"2013_06_07",
+    "CHSLID":"CHSLMLI0256",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0123326,16.7715422 ]
+    },
+    "properties": {
+    "sitename":"Djingareyber Mosque",
+    "description":"Xinhua French News Service reported that on September 28, 2013, an unspecified suicide bombing damaged the Djingareyber Mosque and killed two civilians in Timbuktu. Several military forces were also injured, and nearby homes were destroyed.\n",
+    "date1":"Date:",
+    "date":"September 28, 2013",
+    "startdate":"2013_09_28",
+    "enddate":"2013_09_28",
+    "CHSLID":"CHSLMLI0625",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.018694,16.291944 ]
+    },
+    "properties": {
+    "sitename":"Saneye archaeological site",
+    "description":" Agencia EFE reported that between January 16, 2014, and February 13, 2014, extremists sacked 90% of the archaeological site of Saneye in Gao. The site dates to the 11th century.\n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - February 13, 2014",
+    "startdate":"2012_01_16",
+    "enddate":"2014_02_13",
+    "CHSLID":"CHSLMLI0632",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0442563,16.2826948 ]
+    },
+    "properties": {
+    "sitename":"Museum of the Sahel",
+    "description":"Agencia EFE reported that between January 16, 2014, and February 13, 2014, extremists occupied the museum of the Sahel in Gao. The extremists damaged museum equipment and burned traditional dance costumes and instruments.\n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - February 13, 2014",
+    "startdate":"2012_01_16",
+    "enddate":"2014_02_13",
+    "CHSLID":"CHSLMLI0072",
+    "FIELD10":"3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.095833,14.331111 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Cheick Amadou Barry",
+    "description":"The Associated Press and AP Weltnachrichten reported that between May 3 and 4, 2015, jihadists destroyed the Mausoleum of Cheick Amadou Barry in central Mali. In 2009, the site was nominated to receive designation as a UNESCO World Heritage Site. \n",
+    "date1":"Date:",
+    "date":"May 3, 2015 - May 4, 2015",
+    "startdate":"2015_05_03",
+    "enddate":"2015_05_04",
+    "CHSLID":"CHSLMLI0631",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0126376,16.7712936 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Sheikh Mohamed Mahmoud Al Arawani",
+    "description":"Diplomat Magazine reported that between January 16, 2012, and September 1, 2015, Ahmad Al Faqi Al Mahdi intentionally directed attacks towards the Mausoleum of Sheikh Mohamed Mahmoud Al Arawani in Timbuktu. Al Mahdi was a leading member of Ansar Dine. The Pre-Trial Chamber of the International Criminal Court had reasonable grounds to believe that he was criminally responsible for this act. \n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - September 1, 2015",
+    "startdate":"2012_01_16",
+    "enddate":"2015_09_01",
+    "CHSLID":"CHSLMLI0634",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0126376,16.7712936 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Cheick Mouhamad El Micky",
+    "description":"Diplomat Magazine reported that between January 16, 2012, and September 1, 2015, Ahmad Al Faqi Al Mahdi intentionally directed attacks towards the Mausoleum of Cheick Mouhamad El Micky in Timbuktu. Al Mahdi was a leading member of Ansar Dine. The Pre-Trial Chamber of the International Criminal Court had reasonable grounds to believe that he was criminally responsible for this act. \n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - September 1, 2015",
+    "startdate":"2012_01_16",
+    "enddate":"2015_09_01",
+    "CHSLID":"CHSLMLI0633",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0254891,16.7714239 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Cheick Abdoul Kassim Attouaty",
+    "description":"Diplomat Magazine reported that between January 16, 2012, and September 1, 2015, Ahmad Al Faqi Al Mahdi intentionally directed attacks towards the Mausoleum of Cheick Abdoul Kassim Attouaty in Timbuktu. Al Mahdi was a leading member of Ansar Dine. The Pre-Trial Chamber of the International Criminal Court had reasonable grounds to believe that he was criminally responsible for this act. \n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - September 1, 2015",
+    "startdate":"2012_01_16",
+    "enddate":"2015_09_01",
+    "CHSLID":"CHSLMLI0630",
+    "FIELD10":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0123326,16.7715422 ]
+    },
+    "properties": {
+    "sitename":"Mausoleum of Bahaber Babadie",
+    "description":" Diplomat Magazine reported that between January 16, 2012, and September 1, 2015, Ahmad Al Faqi Al Mahdi intentionally directed attacks towards the Mausoleum of Bahaber Babadie in Timbuktu. Al Mahdi was a leading member of Ansar Dine. The Pre-Trial Chamber of the International Criminal Court had reasonable grounds to believe that he was criminally responsible for this act. \n",
+    "date1":"Date:",
+    "date":"January 16, 2012 - September 1, 2015",
+    "startdate":"2012_01_16",
+    "enddate":"2015_09_01",
+    "CHSLID":"CHSLMLI0625",
+    "FIELD10":""
+    }
+  }
+]
+}
