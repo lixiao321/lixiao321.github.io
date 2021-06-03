@@ -201,7 +201,7 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid mosque and mausoleum",
-    "description":"BBC Monitoring reported that on April 19, 2011, saboteurs seeking to use the loudspeakers to spread a call for sedition attacked the Khalid bin al-Walid mosque in Homs. They broke the window of the ablution room, the door of the minaret, and the main door to the mosque nave. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
+    "description":"BBC Monitoring reported that on April 19, 2011, saboteurs seeking to use the loudspeakers to spread a call for sedition attacked the Khalid ibn al-Walid Mosque in Homs. They broke the window of the ablution room, the door of the minaret, and the main door to the mosque nave. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
     "date":"April 19, 2011",
     "date_start":"2011_04_19",
@@ -424,7 +424,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"TODAY (Singapore) reported that on May 13, 2011, Syrian security forces occupied mosques in Homs to prevent demonstrations. The security forces also opened fire on protesters, killing two.",
     "date1":"Date: ",
     "date":"May 13, 2011",
@@ -504,7 +504,7 @@
        "coordinates":  [ 36.7116736,34.9265188 ]
     },
     "properties": {
-    "sitename":"Rastan mosque",
+    "sitename":"Al Rastan mosque",
     "description":"Al Arabiya reported on June 2, 2011, that Syrian troops opened fire on the city of Rastan, bombing a mosque. Rastan and the surrounding cities had their electricity, phone lines, and water supply cut off due to anti-Assad protests.",
     "date1":"Date: ",
     "date":"June 2, 2011",
@@ -633,7 +633,7 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid Mosque and Mausoleum",
-    "description":"Agency Tunis Afrique Press reported that on July 19, 2011, the Syrian Military opened fire on Khalid bin Al-Walid mosque, killing up to 10 people in Homs. The shooting erupted shortly after noon as families held funeral processions for 10 people killed a day before during a security sweep. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
+    "description":"Agency Tunis Afrique Press reported that on July 19, 2011, the Syrian Military opened fire on Khalid ibn Al-Walid mosque, killing up to 10 people in Homs. The shooting erupted shortly after noon as families held funeral processions for 10 people killed a day before during a security sweep. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
     "date":"July 19, 2011",
     "date_start":"2011_07_19",
@@ -665,7 +665,7 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid Mosque and Mausoleum",
-    "description":"The New York Times reported that between June 1 and 7, 2011 armed terrorists vandalized the Khalid bin Al-Walid mosque, and attacked citizens in Homs.  Armed terrorist groups came from the area of Bab al-Khaldiya and set fire to cars, broke into stores and attacked citizens for not participating in the protests, they entered the mosque of Khalid Ibn al-Walid and vandalized it. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
+    "description":"The New York Times reported that between June 1 and 7, 2011 armed terrorists vandalized the Khalid ibn Al-Walid mosque, and attacked citizens in Homs.  Armed terrorist groups came from the area of Bab al-Khaldiya and set fire to cars, broke into stores and attacked citizens for not participating in the protests, they entered the mosque of Khalid Ibn al-Walid and vandalized it. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
     "date":"June 1, 2011 - June 7, 2011",
     "date_start":"2011_06_01",
@@ -729,7 +729,7 @@
     },
     "properties": {
     "sitename":"Hama mosque",
-    "description":"The BBC reported that on July 31, 2011 the Syrian Military seized the Bilal al-Habashi mosque in Hama.  The mosque was targeted shortly before scheduled prayer and Iftar. ",
+    "description":"The BBC reported that on July 31, 2011, the Syrian Military damaged a mosque in Hama. The mosque was targeted shortly before scheduled prayer and Iftar. ",
     "date1":"Date: ",
     "date":"July 31, 2011",
     "date_start":"2011_07_31",
@@ -809,7 +809,7 @@
     },
     "properties": {
     "sitename":"Homs mosque",
-    "description":"Euronews reported that on August 12, 2011 the syrian military shelled a mosque in Homs.",
+    "description":"Euronews reported that on August 12, 2011 the Syrian military shelled a mosque in Homs.",
     "date1":"Date: ",
     "date":"August 12, 2011",
     "date_start":"2011_08_12",
@@ -841,7 +841,7 @@
     },
     "properties": {
     "sitename":"Othman Bin Affan Mosque",
-    "description":"Asharq Al-Awsat reported on August 13, 2011, that the Assad Regime had shelled the Uthman bin Affan Mosque in Deir Ezzor.   The minaret of the Othman Bin Affan Mosque was shelled.",
+    "description":"Asharq Al-Awsat reported on August 10, 2011, that the Assad Regime had shelled the Uthman bin Affan Mosque in Deir Ezzor.   The minaret of the Othman Bin Affan Mosque was shelled.",
     "date1":"Date: ",
     "date":"August 10, 2011",
     "date_start":"2011_08_10",
@@ -857,7 +857,7 @@
     },
     "properties": {
     "sitename":"Grand Mosque",
-    "description":"BBC reported that on August 16, 2011 the Syrian Military fired indiscriminately, near the Grand Mosque in Abu Kamal. Sources told Al-Jazeera that Abu Kamal, a city on the border with Iraq, is currently witnessing indiscriminate gunfire, and that the security forces prevented people from performing prayers in the Grand Mosque in the city.",
+    "description":"BBC reported that on August 13, 2011 the Syrian Military fired indiscriminately, near the Grand Mosque in Abu Kamal. Sources told Al-Jazeera that Abu Kamal, a city on the border with Iraq, is currently witnessing indiscriminate gunfire, and that the security forces prevented people from performing prayers in the Grand Mosque in the city.",
     "date1":"Date: ",
     "date":"August 13, 2011",
     "date_start":"2011_08_13",
@@ -952,24 +952,8 @@
        "coordinates":  [ 36.6106669,35.1366085 ]
     },
     "properties": {
-    "sitename":"Deir al-Zor mosque",
+    "sitename":"Deir Ezzor Mosque",
     "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was graffitied multiple mosques in Dier Ezzor.  The graffiti reads \"there is no god but Bashar,\" referencing Syrian President Bashar Al-Assad.",
-    "date1":"Date: ",
-    "date":"August 1, 2011 - August 16, 2011",
-    "date_start":"2011_08_01",
-    "date_end":"2011_08_16",
-    "chsl_id":"CHSLSYR2348"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 36.6106669,35.1366085 ]
-    },
-    "properties": {
-    "sitename":"Deir al-Zor mosque",
-    "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was graffitied multiple mosques in Deir Ezzor.  The graffiti reads \"there is no god but Bashar,\" referencing Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
     "date":"August 1, 2011 - August 16, 2011",
     "date_start":"2011_08_01",
@@ -1096,7 +1080,7 @@
        "coordinates":  [ 36.7116736,34.9265188 ]
     },
     "properties": {
-    "sitename":"Rastan mosque",
+    "sitename":"Al Rastan mosque",
     "description":"The Daily Telegraph reported that on August 26 or August 27, 2011, the Syrian Army stormed mosques and shelled minarets in Sarameen, Rastan,  Harasta, and Qara in attacks designed to crush protests and contain any defections in the army. ",
     "date1":"Date: ",
     "date":"August 26, 2011 - August 27, 2011",
@@ -1129,7 +1113,7 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid Mosque and Mausoleum",
-    "description":"Trend News Agency reported that on August 31, 2011 Syrian security forces swept through Homs and fired at the Khalid bin Walid mosque. Six people have been killed in the attacks. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
+    "description":"Trend News Agency reported that on August 31, 2011 Syrian security forces swept through Homs and fired at the Khalid ibn Walid mosque. Six people have been killed in the attacks. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
     "date":"August 31, 2011",
     "date_start":"2011_08_31",
@@ -1192,7 +1176,7 @@
        "coordinates":  [ 36.7116736,34.9265188 ]
     },
     "properties": {
-    "sitename":"Rastan mosque",
+    "sitename":"Al Rastan mosque",
     "description":"El Economista reported that on Wednesday September 28, 2011 security forces used anti-aircraft guns, tanks, and armored personnel carriers to attack two mosques in Rastan. Homes and clinics were also damaged in the attack.",
     "date1":"Date: ",
     "date":"September 28, 2011",
@@ -1272,7 +1256,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"BBC Monitoring Middle East reported that on October 28, mosques were besieged and fire was opened in Homs. One person was killed, five were wounded, and 17 were arrested in the violence.",
     "date1":"Date: ",
     "date":"October 28, 2011",
@@ -1288,7 +1272,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"BBC Monitoring Middle East reported that on November 14, 2011 many mosques have been destroyed in many Syrian cities, the latest being in the city of Hims.",
     "date1":"Date: ",
     "date":"November 14, 2011",
@@ -1305,7 +1289,7 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid Mosque and Mausoleum",
-    "description":"BBC Monitoring Middle East reported that on December 5, 2011 Shabiha pro-government gunmen allegedly shelled the Khaled Bin al-Walid Mosque in Homs. According to the Syrian Observatory for Human Rights, about 50 people were killed. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
+    "description":"BBC Monitoring Middle East reported that on December 5, 2011 Shabiha pro-government gunmen allegedly shelled the Khaled ibn al-Walid Mosque in Homs. According to the Syrian Observatory for Human Rights, about 50 people were killed. The mosque is a pilgrimage site dedicated to Khalid ibn al-Walid, an Arab military commander who led the muslim conquest of Syria in the 7th century.",
     "date1":"Date: ",
     "date":"December 5, 2011",
     "date_start":"2011_12_05",
@@ -1480,8 +1464,8 @@
        "coordinates":  [ 36.7116736,34.9265188 ]
     },
     "properties": {
-    "sitename":"Rastan mosque",
-    "description":"BBC Monitoring Newsfile reported that on February 6, 2012, terrorist armed groups burned a mosque in Ar-Rastan. An unspecified number of people died in the attack.",
+    "sitename":"Al Rastan mosque",
+    "description":"BBC Monitoring Newsfile reported that on February 6, 2012, terrorist armed groups burned a mosque in Al Rastan. An unspecified number of people died in the attack.",
     "date1":"Date: ",
     "date":"February 6, 2012",
     "date_start":"2012_02_06",
@@ -1529,7 +1513,7 @@
     },
     "properties": {
     "sitename":"Homs mosques",
-    "description":"Thai News Service reported that around February 10, 2012 Syrian security forces bombed mosques in Homs.",
+    "description":"Thai News Service reported that before February 10, 2012, Syrian security forces bombed mosques in Homs.",
     "date1":"Date: ",
     "date":"March 1, 2011 - February 10, 2012",
     "date_start":"2011_03_01",
@@ -1912,8 +1896,8 @@
        "coordinates":  [ 37.1623527,36.1998148 ]
     },
     "properties": {
-    "sitename":"Aleppo Citadel",
-    "description":"Agence France-Presse  reported that between August 7 and 10, 2012, the Syrian Military bombarded the historic Aleppo Citadel in Aleppo with mortar fire. The Aleppo Citadel is a large medieval fortified palace in the center of the old city.",
+    "sitename":"Great Mosque of Aleppo",
+    "description":"Agence France-Presse reported that between August 7 and 10, 2012, the Syrian military bombarded the historic Aleppo Citadel with mortar fire, damaging the Great Mosque of Aleppo. The Aleppo Citadel is a large Medieval fortified palace in the center of the old city.",
     "date1":"Date: ",
     "date":"August 7, 2012 - August 10, 2012",
     "date_start":"2012_08_07",
@@ -1973,32 +1957,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.1629393,36.1992958 ]
+       "coordinates":  [ 37.1623527,36.1998148 ]
     },
     "properties": {
-    "sitename":"Old City Aleppo",
-    "description":"Reuters News reported that between August 24 and 26 2012, The Syrian military bombed a mosque in the old city of Aleppo. A jet dropped a bomb a couple metres from the main minaret of the 14th Century Mamluk mosque, which damaged the prayer hall.",
+    "sitename":"Great Mosque of Aleppo",
+    "description":"Reuters News reported that between August 24 and 26, 2012, The Syrian military bombed a mosque in the old city of Aleppo. A jet dropped a bomb a couple metres from the main minaret of the 14th Century Mamluk mosque, which damaged the prayer hall.",
     "date1":"Date: ",
     "date":"August 24, 2012 - August 26, 2012",
     "date_start":"2012_08_24",
     "date_end":"2012_08_26",
-    "chsl_id":"CHSLSYR2339"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 37.1629393,36.1992958 ]
-    },
-    "properties": {
-    "sitename":"Old City Aleppo",
-    "description":"Reuters News reported that between August 24 and 26, 2012 Syrian Military Jets bombed the Old City damaging mosques in Aleppo.  Another mosque down the road was hit by a bomb, causing a bus to flip over, and the cemetery to crack open, causing large damage to the marble tombstones.",
-    "date1":"Date: ",
-    "date":"August 24, 2012 - August 26, 2012",
-    "date_start":"2012_08_24",
-    "date_end":"2012_08_26",
-    "chsl_id":"CHSLSYR2339"
+    "chsl_id":"CHSLSYR0890"
     }
   },
   {
@@ -2127,22 +2095,6 @@
     "date_start":"2011_03_15",
     "date_end":"2012_09_08",
     "chsl_id":"CHSLSYR2344"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 37.1508268,36.2091821 ]
-    },
-    "properties": {
-    "sitename":"Mar Mikhail Church",
-    "description":"Xinhua News Agency reported that on September 8, 2012, armed terrorist groups fired mortar shells at the Mar Mikhail church in Aleppo.",
-    "date1":"Date: ",
-    "date":"September 8, 2012",
-    "date_start":"2012_09_08",
-    "date_end":"2012_09_08",
-    "chsl_id":"CHSLSYR0897"
     }
   },
   {
@@ -2341,7 +2293,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.6995436,34.7280967 ]
+       "coordinates":  [ 36.28090221,33.49116155 ]
     },
     "properties": {
     "sitename":"Omar Bin Al-Khattab Mosque",
@@ -2350,7 +2302,7 @@
     "date":"October 16, 2012",
     "date_start":"2012_10_16",
     "date_end":"2012_10_16",
-    "chsl_id":"CHSLSYR0807"
+    "chsl_id":"CHSLSYR2424"
     }
   },
   {
@@ -3129,7 +3081,7 @@
     },
     "properties": {
     "sitename":"Al Gassaniyah Catholic church",
-    "description":"Agence France-Presse  reported that between March 15, 2011 and March 31, 2013, rockets damaged churches in Gassaniyeh. At the entrance to the town, a large statue of Saint George slaying the dragon has been half destroyed by a rocket, and an altar dedicated to the Virgin Mary bears the marks of fighting. The roof of one of the three churches in the area, belonging to the Evangelical community, has been pierced by a rocket and the floors of buildings in the town have been reduced to rubble by successive air raids.",
+    "description":"Agence France-Presse reported that between March 15, 2011 and March 31, 2013, rockets damaged churches in Gassaniyeh. At the entrance to the town, a large statue of Saint George slaying the dragon has been half destroyed by a rocket, and an altar dedicated to the Virgin Mary bears the marks of fighting. The roof of one of the three churches in the area, belonging to the Evangelical community, has been pierced by a rocket and the floors of buildings in the town have been reduced to rubble by successive air raids.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 31, 2013",
     "date_start":"2011_03_15",
@@ -3189,7 +3141,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
+       "coordinates":  [ 38.2735359,34.5474026 ]
     },
     "properties": {
     "sitename":"Temple of Bel",
@@ -3198,7 +3150,7 @@
     "date":"February 3, 2013 -  April 3, 2013",
     "date_start":"2013_02_03",
     "date_end":"2013_04_03",
-    "chsl_id":"CHSLSYR2299"
+    "chsl_id":"CHSLSYR2531"
     }
   },
   {
@@ -3557,16 +3509,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.2699358,34.5532898 ]
+       "coordinates":  [ 38.2735359,34.5474026 ]
     },
     "properties": {
-    "sitename":"Temple of Baal Shamin",
+    "sitename":"Temple of Bel",
     "description":"Agencia EFE reported on August 31, 2015 that the Islamic State destroyed several parts of the Temple of Bel in the ancient city of Palmyra, Syria. This was the second attack on an ancient temple in Palmyra within the week.  The Temple of Bel was a Mesopotamian temple dedicated to the god Bel.",
     "date1":"Date: ",
     "date":"August 31, 2015",
     "date_start":"2015_08_31",
     "date_end":"2015_08_31",
-    "chsl_id":"CHSLSYR0697"
+    "chsl_id":"CHSLSYR2531"
     }
   },
   {
@@ -3733,16 +3685,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.7366779,35.1290139 ]
+       "coordinates":  [ 36.71564755,34.73660195 ]
     },
     "properties": {
     "sitename":"Khalid ibn al-Walid Mosque",
-    "description":"Design MENA reported that during the Syrian conflict, the Khalid Ibn al-Walid Mosque in the city of Homs was badly damaged. The mosque is named after a military commander who served under the Prophet Muhammad. Homs is known as the “capital of the revolution”, as it led an uprising against President Assad’s regime, and the city was victim to mortars, rockets, and barrel bombs.",
+    "description":"Design MENA reported that nefore May 12, 2016, the Khalid Ibn al-Walid Mosque in the city of Homs was badly damaged. The mosque is named after a military commander who served under the Prophet Muhammad. Homs is known as the “capital of the revolution”, as it led an uprising against President Assad’s regime, and the city was victim to mortars, rockets, and barrel bombs.",
     "date1":"Date: ",
     "date":"January 1, 2011 - May 12, 2016",
     "date_start":"2011_01_01",
     "date_end":"2016_05_12",
-    "chsl_id":"CHSLSYR1279"
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -3813,22 +3765,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
-    },
-    "properties": {
-    "sitename":"Palmyra",
-    "description":"Sputnik News Service reported that on May 12, the Syrian army captured Daesh jihadist group commander Ahmad Mursid al-Iraqi during a raid in Palmyra. Other terrorists were also killed during the raid. The ancient city of Palmyra is a UNESCO World Heritage Site. ",
-    "date1":"Date: ",
-    "date":"May 17, 2016",
-    "date_start":"2016_05_17",
-    "date_end":"2016_05_17",
-    "chsl_id":"CHSLSYR2299"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 36.8441777,36.3340194 ]
     },
     "properties": {
@@ -3861,22 +3797,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
-    },
-    "properties": {
-    "sitename":"Palmyra",
-    "description":" Iran Daily reported that on April 1, a mass grave containing 42 bodies was discovered in the northeastern region of Palmyra. Daesh terrorists were attributed to the violence.",
-    "date1":"Date: ",
-    "date":"January 1, 2011 - April 1, 2016",
-    "date_start":"2011_01_01",
-    "date_end":"2016_04_01",
-    "chsl_id":"CHSLSYR2299"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 37.104241,36.174768 ]
     },
     "properties": {
@@ -3887,22 +3807,6 @@
     "date_start":"2016_05_22",
     "date_end":"2016_05_22",
     "chsl_id":"CHSLSYR1469"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 37.7177499,36.3995415 ]
-    },
-    "properties": {
-    "sitename":"Omar Bin Al Khattab Mosque",
-    "description":"The Guardian reported that on October 1, 2015, Russian defense military forces bombed the Omar Bin Al Khattab mosque in Jisr al-Shughour, Idlib, destroying minarets and killing at least two. On October 30, the Russians denied having hit the mosque, and instead argued that they hit the Al Farooq mosque, but aerial footage shown by the Atlantic Council showed otherwise. Russians also denied targeting other cities, civilians, and mosques, but the Atlantic Council’s aerial photographs showed Russian targets have been outside of ISIS controlled territory. ",
-    "date1":"Date: ",
-    "date":"October 1, 2015",
-    "date_start":"2015_10_01",
-    "date_end":"2015_10_01",
-    "chsl_id":"CHSLSYR1460"
     }
   },
   {
@@ -3931,9 +3835,9 @@
     "sitename":"Palmyra",
     "description":"The Guardian reported that sometime during the week before May 27, 2016, a mass grave of 42 bodies was discovered in the ancient city of Palmyra. The grave consisted of 24 civilian victims, including children, and officers, soldiers, members of pro-regime committees and relatives. During ISIS’s entire occupation of Palmyra, over 280 people were killed. ",
     "date1":"Date: ",
-    "date":"January 1, 2011 - May 27, 2016",
-    "date_start":"2011_01_01",
-    "date_end":"2016_05_27",
+    "date":"March 15, 2011 - April 1, 2016",
+    "date_start":"2011_03_15",
+    "date_end":"2016_04_01",
     "chsl_id":"CHSLSYR2299"
     }
   },
@@ -4037,22 +3941,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
-    },
-    "properties": {
-    "sitename":"Palmyra",
-    "description":"The Statesman, News Wing, and Mirror report that on July 8, 2016, videos were released showing Islamic State militants destroying statues and running over mummies with a lorry in Palmyra. ",
-    "date1":"Date: ",
-    "date":"July 8, 2016",
-    "date_start":"2016_07_08",
-    "date_end":"2016_07_08",
-    "chsl_id":"CHSLSYR2299"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 37.1585378,36.2037276 ]
     },
     "properties": {
@@ -4149,7 +4037,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.7366779,35.1290139 ]
+       "coordinates":  [ 36.71564755,34.73660195 ]
     },
     "properties": {
     "sitename":"Khalid ibn al-Walid Mosque",
@@ -4158,23 +4046,7 @@
     "date":"March 15, 2011 -  September 14, 2016",
     "date_start":"2011_03_15",
     "date_end":"2016_09_14",
-    "chsl_id":"CHSLSYR1279"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 38.2699358,34.5532898 ]
-    },
-    "properties": {
-    "sitename":"Temple of Baal Shamin",
-    "description":"Deutsche Presse-Agentur reports that in 2015, the Islamic state destroyed the temple Bel in Palmyra. The temple is dedicated to a Mesopotamian god.",
-    "date1":"Date: ",
-    "date":"March 15, 2011 -  September 15, 2016",
-    "date_start":"2011_03_15",
-    "date_end":"2016_09_15",
-    "chsl_id":"CHSLSYR0697"
+    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -4351,22 +4223,6 @@
     "date_start":"2015_08_24",
     "date_end":"2015_08_24",
     "chsl_id":"CHSLSYR0697"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 38.2709771,34.5498237 ]
-    },
-    "properties": {
-    "sitename":"Triumphal Arch of Palmyra",
-    "description":"Sputnik News Service reported that on October 5, 2015, Islamic State militants blew up the 2000 year old Monumental Arch of Palmyra, in Palmyra, Syria. The Monumental Arch of Palmyra, also called the Arch of Triumph, was erected during the period of Roman emporer Septimius Severus. ",
-    "date1":"Date: ",
-    "date":"October 5, 2015",
-    "date_start":"2015_10_05",
-    "date_end":"2015_10_05",
-    "chsl_id":"CHSLSYR1054"
     }
   },
   {
@@ -4617,7 +4473,7 @@
     },
     "properties": {
     "sitename":"Homs Museum",
-    "description":"Saturday Star reported that between March 15 and May 11, 2014, fighting damaged the outside of the Homs Museum.",
+    "description":"Saturday Star reported that between March 15, 2011, and May 11, 2013, fighting damaged the outside of the Homs Museum.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  May 11, 2013",
     "date_start":"2011_03_15",
@@ -5081,7 +4937,7 @@
     },
     "properties": {
     "sitename":"Khalid Ibn al-Walid Mosque and Mausoleum",
-    "description":"Asharq Al-Awsat reported that in late June of 2013, Hezbollah fighters tried to storm the Khalid bin Al-Walid Mosque in the Al-Khalidiyah district of Homs. The Khalid ibn al-Walid mosque is a 13th century mosque named for the Arab Muslim commander who served the prophet Muhammad.",
+    "description":"Asharq Al-Awsat reported that in late June of 2013, Hezbollah fighters tried to storm the Khalid ibn Al-Walid Mosque in the Al-Khalidiyah district of Homs. The Khalid ibn al-Walid mosque is a 13th century mosque named for the Arab Muslim commander who served the prophet Muhammad.",
     "date1":"Date: ",
     "date":"June 29, 2013",
     "date_start":"2013_06_29",
@@ -5465,7 +5321,7 @@
     },
     "properties": {
     "sitename":"Homs mosques",
-    "description":"The Sun reported that before July 29, 2013, mosques in Homs were destroyed by bombs, shells, and bullets. Homs is a city in western Syria and is the central link between the interior cities and the Mediterranean coast.",
+    "description":"The Sun reported that before July 30, 2013, mosques in Homs were destroyed by bombs, shells, and bullets. Homs is a city in western Syria and is the central link between the interior cities and the Mediterranean coast.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  July 30, 2013",
     "date_start":"2011_03_15",
@@ -5545,7 +5401,7 @@
     },
     "properties": {
     "sitename":"St. Elias Church",
-    "description":"Agence France Presse reported that in early August 2013, Hezbollah ransacked the Mar Elias Church in the Christian community east of Qasayr, leaving the dome full of holes, breaking the marble altar, and burning a tableau representing St Elias. Qasayr is a city in western Syria located south of Homs.",
+    "description":"Agence France Presse reported that in between June 1 and 5, 2013, Hezbollah ransacked the Mar Elias Church in the Christian community east of Qasayr, leaving the dome full of holes, breaking the marble altar, and burning a tableau representing St Elias. Qasayr is a city in western Syria located south of Homs.",
     "date1":"Date: ",
     "date":"June 1, 2013 - June 5, 2013",
     "date_start":"2013_06_01",
@@ -6133,7 +5989,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.3975784,34.7299785 ]
+       "coordinates":  [ 36.71150901,34.73188882 ]
     },
     "properties": {
     "sitename":"Homs Museum",
@@ -6142,7 +5998,7 @@
     "date":"March 15, 2011 -  February 27, 2013",
     "date_start":"2011_03_15",
     "date_end":"2013_02_27",
-    "chsl_id":"CHSLSYR2342"
+    "chsl_id":"CHSLSYR2404"
     }
   },
   {
@@ -6383,22 +6239,6 @@
     "date_start":"2013_01_15",
     "date_end":"2013_01_31",
     "chsl_id":"CHSLSYR0679"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 36.605833,35.699167 ]
-    },
-    "properties": {
-    "sitename":"Dead Cities",
-    "description":"NPR: Morning Edition reported that before March 9, 2013, the Dead Cities were damaged as displaced Syrians sought shelter. The Dead Cities, a group of 700 settlements in northwest Syria dating back to the first century, are a UNESCO World Heritage Site.",
-    "date1":"Date: ",
-    "date":"March 15, 2011 -  March 8, 2013",
-    "date_start":"2011_03_15",
-    "date_end":"2013_03_08",
-    "chsl_id":"CHSLSYR2383"
     }
   },
   {
@@ -6649,7 +6489,7 @@
     },
     "properties": {
     "sitename":"St. Elian al-Homsi Church",
-    "description":"Agence France Presse reported that before March 23, 2012, government forces had destroyed St. Elian al-Hosmi church. The 1,500 year old mosque was a major Orthodox pilgrimage site.",
+    "description":"Agence France Presse reported that before March 23, 2012, government forces had destroyed St. Elian al-Hosmi church. The 1,500 year old church was a major Orthodox pilgrimage site.",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 23, 2012",
     "date_start":"2011_03_15",
@@ -6872,7 +6712,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs church",
+    "sitename":"Homs churches",
     "description":"Agence France Presse reported that between March 13 and 27, 2012, churches were destroyed by government forces in Homs.",
     "date1":"Date: ",
     "date":"March 13, 2012 - March 27, 2012",
@@ -6888,7 +6728,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"Agence France Presse reported that between March 13 and 27, 2012, mosques were destroyed by government forces in Homs.",
     "date1":"Date: ",
     "date":"March 13, 2012 - March 27, 2012",
@@ -6975,22 +6815,6 @@
     "date_start":"2012_07_05",
     "date_end":"2012_07_05",
     "chsl_id":"CHSLSYR2326"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 36.578829,34.506907 ]
-    },
-    "properties": {
-    "sitename":"St. Elias Church",
-    "description":"BBC Monitoring Middle East reported that on June 14, 2012, St. Elias Church was destroyed by terrorist forces. The church was built in 1873, replacing an older Maronite church.",
-    "date1":"Date: ",
-    "date":"June 14, 2012",
-    "date_start":"2012_06_14",
-    "date_end":"2012_06_14",
-    "chsl_id":"CHSLSYR2325"
     }
   },
   {
@@ -7221,7 +7045,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.3946689,36.6048181 ]
+       "coordinates":  [ 37.0373368,36.5862588 ]
     },
     "properties": {
     "sitename":"Azaz mosque",
@@ -7230,7 +7054,7 @@
     "date":"June 25, 2012 - July  25, 2012",
     "date_start":"2012_06_25",
     "date_end":"2012_07_25",
-    "chsl_id":"CHSLSYR1281"
+    "chsl_id":"CHSLSYR2359"
     }
   },
   {
@@ -7253,7 +7077,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.7149933,34.7296886 ]
+       "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
     "sitename":"Homs mosque",
@@ -7262,7 +7086,7 @@
     "date":"March 15, 2011 - May 2, 2012",
     "date_start":"2011_03_15",
     "date_end":"2012_05_02",
-    "chsl_id":"CHSLSYR0936"
+    "chsl_id":"CHSLSYR2342"
     }
   },
   {
@@ -7320,7 +7144,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"The BBC Monitoring the Middle East reported that between January 15 and March 15, 2012, terrorist groups destroyed mosques in Homs.",
     "date1":"Date: ",
     "date":"January 15, 2012 -  March 15, 2012",
@@ -7336,7 +7160,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"Agence France Presse reported that between March 13 and 28, 2012, government forces destroyed mosques in Homs.",
     "date1":"Date: ",
     "date":"March 13, 2012 - March 28, 2012",
@@ -7368,7 +7192,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"The Washington Post reported that between February 1 and March 10, 2012, government forces had damaged mosques in Homs.",
     "date1":"Date: ",
     "date":"February 1, 2012 - March 10, 2012",
@@ -7384,7 +7208,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs church",
+    "sitename":"Homs churches",
     "description":"The BBC Monitoring Newsfile reported that on June 19, 2012, a number of churches in Homs have been blown up by gunmen.",
     "date1":"Date: ",
     "date":"June 19, 2012",
@@ -7625,7 +7449,7 @@
     },
     "properties": {
     "sitename":"Armenian Catholic Church of the Martyrs",
-    "description":"The Associated Press Newswires reported that on September 26, 2013, ISIS destroyed the Armenian Catholic Church of the Martyra in Ar Raqqa. They destroyed the cross atop its clock tower and replaced it with the ISIL flag. Thus church was built in 1970 and served approximately 500 families prior to the war. ",
+    "description":"The Associated Press Newswires reported that on September 26, 2013, ISIS destroyed the Armenian Catholic Church of the Martyra in Al Raqqa. They destroyed the cross atop its clock tower and replaced it with the ISIL flag. Thus church was built in 1970 and served approximately 500 families prior to the war. ",
     "date1":"Date: ",
     "date":"September 26, 2013",
     "date_start":"2013_09_26",
@@ -7653,11 +7477,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.69404278,35.73723157 ]
+       "coordinates":  [ 39.00971283,35.95002957 ]
     },
     "properties": {
-    "sitename":"statue of Harun al-Rashid",
-    "description":"The Associated Press Newswires reported that between September 27 and October 3, 2013, ISIS tore down the statue of Harun al-Rashid in Ar Raqqa. Rashid was an Abbasid ruler who lived in the eighth century.",
+    "sitename":"Statue of Harun al-Rashid",
+    "description":"The Associated Press Newswires reported that between September 27 and October 3, 2013, ISIS tore down the statue of Harun al-Rashid in Al Raqqa. Rashid was an Abbasid ruler who lived in the eighth century.",
     "date1":"Date: ",
     "date":"September 27, 2013 - October 3, 2013",
     "date_start":"2013_09_27",
@@ -7688,8 +7512,8 @@
        "coordinates":  [ 37.156322,36.198747 ]
     },
     "properties": {
-    "sitename":"Souk Al Madina, Aleppo",
-    "description":"FARS News Network reported that between September 1 and November 5, 2013, the Syrian government badly burned and partially destroyed Souq Al-Madina in Aleppo. This medieval souq is the largest covered historic market in the world.",
+    "sitename":"Aleppo Souq",
+    "description":"FARS News Network reported that between September 1, 2102, and November 5, 2013, the Syrian government badly burned and partially destroyed Souq Al-Madina in Aleppo. This medieval souq is the largest covered historic market in the world.",
     "date1":"Date: ",
     "date":"September 1, 2012 - November 5, 2013",
     "date_start":"2012_09_01",
@@ -7768,8 +7592,8 @@
        "coordinates":  [ 38.99803106,35.95979629 ]
     },
     "properties": {
-    "sitename":"Ar Raqqa statue",
-    "description":"The Associated Press Newswires reported that on November 5, 2013, ISIS smashed a statue on a clock tower in Ar Raqqa.",
+    "sitename":"Al Raqqa statue",
+    "description":"The Associated Press Newswires reported that on November 5, 2013, ISIS smashed a statue on a clock tower in Al Raqqa.",
     "date1":"Date: ",
     "date":"November 5, 2013",
     "date_start":"2013_11_05",
@@ -8325,22 +8149,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.4266357,34.7755785 ]
-    },
-    "properties": {
-    "sitename":"Bilal Al-Habashi Mosque",
-    "description":"FARS News Agency and Mehr News Agency reported that on May 2 and 3, 2016, the al-Nusra Front stormed government forces near the Bilal al-Habashi Mosque in the Southern districts of Daraa.",
-    "date1":"Date: ",
-    "date":"May 2, 2016 - May 3, 2016",
-    "date_start":"2016_05_02",
-    "date_end":"2016_05_03",
-    "chsl_id":"CHSLSYR0953"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 36.0295811,32.6228344 ]
     },
     "properties": {
@@ -8377,7 +8185,7 @@
     },
     "properties": {
     "sitename":"Al Sokkariyeh mosque",
-    "description":"The Peninsula reported that between April 21 and May 4, 2016, a mosque in al-Sokkari was targeted by a regime warplane. The Assad regime, assisted by Russian air support, repeatedly opposition held regions of Aleppo.",
+    "description":"The Peninsula reported that between April 21 and May 4, 2016, a mosque in al-Sokkari was targeted by a regime warplane. The Assad regime, assisted by Russian air support, repeatedly bombarded opposition-held regions of Aleppo.",
     "date1":"Date: ",
     "date":"April 21, 2016 - May 4, 2016",
     "date_start":"2016_04_21",
@@ -8431,22 +8239,6 @@
     "date_start":"2016_05_11",
     "date_end":"2016_05_12",
     "chsl_id":"CHSLSYR2358"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 36.7366779,35.1290139 ]
-    },
-    "properties": {
-    "sitename":"Khalid ibn al-Walid Mosque",
-    "description":"DESMENA reported that before May 12, 2016, the Khalid Ibn al-Walid Mosque in the city of Homs was badly damaged. The mosque is named after a military commander who served under the Prophet Muhammad. Homs is known as the “capital of the revolution”, as it led an uprising against President Assad’s regime, and the city was victim to mortars, rockets, and barrel bombs.",
-    "date1":"Date: ",
-    "date":"March 15, 2011 - May 12, 2016",
-    "date_start":"2011_03_15",
-    "date_end":"2016_05_12",
-    "chsl_id":"CHSLSYR1279"
     }
   },
   {
@@ -8569,7 +8361,7 @@
     },
     "properties": {
     "sitename":"Palmyra",
-    "description":"TASS World Service reported that between January 1, 2012, and May 16, 2016, archaeologists looted Syrian ancient treasures, including Palmyra.",
+    "description":"TASS World Service reported that between January 1, 2012, and May 16, 2016, people looted Syrian archaeological treasures from the ancient city of Palmyra.",
     "date1":"Date: ",
     "date":"January 11, 2012 - May 16, 2016",
     "date_start":"2012_01_11",
@@ -8645,22 +8437,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
-    },
-    "properties": {
-    "sitename":"Palmyra",
-    "description":"Iran Daily reported that on April 1, 2016, a mass grave containing 42 bodies was discovered in the northeastern region of Palmyra. The ancient city of Palmyra is a UNESCO World Heritage Site that was inhabited since the early second millennium BC.  ",
-    "date1":"Date: ",
-    "date":"January 1, 2011 - May 22, 2016",
-    "date_start":"2011_01_01",
-    "date_end":"2016_04_01",
-    "chsl_id":"CHSLSYR2299"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 36.3409022,33.4443107 ]
     },
     "properties": {
@@ -8677,7 +8453,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.7177499,36.3995415 ]
+       "coordinates":  [ 36.2862173,35.8150697 ]
     },
     "properties": {
     "sitename":"Omar bin al-Khattab Mosque",
@@ -8686,7 +8462,7 @@
     "date":"October 1, 2015",
     "date_start":"2015_10_01",
     "date_end":"2015_10_01",
-    "chsl_id":"CHSLSYR1460"
+    "chsl_id":"CHSLSYR2345"
     }
   },
   {
@@ -8709,22 +8485,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
-    },
-    "properties": {
-    "sitename":"Palmyra",
-    "description":"The Guardian reported that sometime during the week before May 27, 2016, a mass grave of 42 bodies was discovered in the ancient city of Palmyra. The grave consisted of 24 civilian victims, including children, and officers, soldiers, members of pro-regime committees and relatives. During ISIS’s entire occupation of Palmyra, over 280 people were killed. ",
-    "date1":"Date: ",
-    "date":"March 15, 2011 - May 27, 2016",
-    "date_start":"2011_03_15",
-    "date_end":"2016_05_27",
-    "chsl_id":"CHSLSYR2299"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 37.156885,36.199428 ]
     },
     "properties": {
@@ -8735,22 +8495,6 @@
     "date_start":"2011_03_15",
     "date_end":"2016_05_27",
     "chsl_id":"CHSLSYR2307"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
-    },
-    "properties": {
-    "sitename":"Palmyra",
-    "description":"Foreignaffairs.co.nz reported that before May 27, 2016, a mass grave was uncovered near the ancient city of Palmyra. Palmyra is a UNESCO World Heritage site that was taken by IS militants until the end of 2016, when Syria regained control of it, and remnants of the “gas field” were captured from the site. 65 bodies were found in the grave. ",
-    "date1":"Date: ",
-    "date":"March 15, 2011 - May 27, 2016",
-    "date_start":"2011_03_15",
-    "date_end":"2016_05_27",
-    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -8777,7 +8521,7 @@
     },
     "properties": {
     "sitename":"Mosque of the Prophet Shuaib",
-    "description":"FARS News Agency reported that on May 28, 2016, a bomb-laden car exploded near the Shuaib Mosque in the al-Dhabit district of Idlib. Over 30 were killed in the blast, including field commanders and guards of the al-Qaeda affiliated al-Nursa Front and some civilians. No party has claimed responsibility for the attack, but ISIL is known for carrying out bombings in the area. Idlib was reported to be a strategic location to dispatch terrorists and military equipment from Idlib to Aleppo. ",
+    "description":"FARS News Agency reported that on May 28 or 29, 2016, a bomb-laden car exploded near the Shuaib Mosque in the al-Dhabit district of Idlib. Over 30 were killed in the blast, including field commanders and guards of the al-Qaeda affiliated al-Nursa Front and some civilians. No party has claimed responsibility for the attack, but ISIL is known for carrying out bombings in the area. Idlib was reported to be a strategic location to dispatch terrorists and military equipment from Idlib to Aleppo. ",
     "date1":"Date: ",
     "date":"May 28, 2016 - May 29, 2016",
     "date_start":"2016_05_28",
@@ -10633,7 +10377,7 @@
     },
     "properties": {
     "sitename":"Dur-Katlimmu",
-    "description":"The Irish Times reported that between March 15, 2011, and March 20, 2015, looters pillaged the ancient Assyrian site of Dur-Katlimmu in Idlib province. ",
+    "description":"The Irish Times reported that between March 15, 2011, and March 20, 2015, looters pillaged the ancient Assyrian site of Dur-Katlimmu in Al-Hasakah province. ",
     "date1":"Date: ",
     "date":"March 15, 2011 -  March 20, 2015",
     "date_start":"2011_03_15",
@@ -10661,7 +10405,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 39.0167106,35.933091 ]
+       "coordinates":  [ 36.641968,35.933091 ]
     },
     "properties": {
     "sitename":"Idlib Archaeological Museum",
@@ -10885,38 +10629,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.2250107,34.2358738 ]
-    },
-    "properties": {
-    "sitename":"Monastery of St. Elian",
-    "description":"Agence French Press reported that on August 20, 2015, the Islamic State destroyed the Mar Elian Monastery in central Syria with bulldozers after moving the Christian population to Al Raqqa, Syria. The town of Qarytayn, where the monastery was located, was taken by the IS earlier that month. ",
-    "date1":"Date: ",
-    "date":"August 20, 2015",
-    "date_start":"2015_08_20",
-    "date_end":"2015_08_20",
-    "chsl_id":"CHSLSYR1152"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 38.2699358,34.5532898 ]
-    },
-    "properties": {
-    "sitename":"Temple of Baal Shamin",
-    "description":"EFE News Service reported on August 31, 2015, that the Islamic State destroyed several parts of the Temple of Bel in the ancient city of Palmyra, Syria. This was the second attack on an ancient temple in Palmyra within the week. ",
-    "date1":"Date: ",
-    "date":"August 31, 2015",
-    "date_start":"2015_08_31",
-    "date_end":"2015_08_31",
-    "chsl_id":"CHSLSYR0697"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 38.269134,34.553737 ]
     },
     "properties": {
@@ -10933,22 +10645,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.2709771,34.5498237 ]
-    },
-    "properties": {
-    "sitename":"Triumphal Arch of Palmyra",
-    "description":"Middle East Financial Network reported that on October 5, 2015, the Islamic state blew up the Arch of Triumph in the ancient Syrian city of Palmyra. Other notable monuments at the site have been destroyed in conflict earlier this year, including the Temple of Bel. ",
-    "date1":"Date: ",
-    "date":"October 5, 2015",
-    "date_start":"2015_10_05",
-    "date_end":"2015_10_05",
-    "chsl_id":"CHSLSYR1054"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 37.1552872,36.2061459 ]
     },
     "properties": {
@@ -10959,22 +10655,6 @@
     "date_start":"2015_10_25",
     "date_end":"2015_10_25",
     "chsl_id":"CHSLSYR0904"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 38.269134,34.553737 ]
-    },
-    "properties": {
-    "sitename":"Palmyra",
-    "description":"RVESEN reports that on October 25, 2015, the Islamic State blew up three ancient columns in city of Palmyra, Syria during the execution of three prisoners. Palmyra has been damaged by other events in the ongoing conflict, especially the Temple of Bel. ",
-    "date1":"Date: ",
-    "date":"October 25, 2015",
-    "date_start":"2015_10_25",
-    "date_end":"2015_10_25",
-    "chsl_id":"CHSLSYR2299"
     }
   },
   {
@@ -11497,7 +11177,7 @@
     },
     "properties": {
     "sitename":"Umayyad Mosque",
-    "description":"NPR reported that between March 3, 2015, and February 28, 2016, fighting between forces loyal to Assad and Syrian rebels destroyed the minaret of the Great Umayyad Mosque in Aleppo.  The Mosque is a UNESCO World Heritage Site.  ",
+    "description":"NPR reported that before February 28, 2016, fighting between forces loyal to Assad and Syrian rebels destroyed the minaret of the Great Umayyad Mosque in Aleppo.  The Mosque is a UNESCO World Heritage Site.  ",
     "date1":"Date: ",
     "date":"March 15, 2011 - February 28, 2016",
     "date_start":"2011_03_15",
@@ -11605,22 +11285,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.9992204,36.8321535 ]
-    },
-    "properties": {
-    "sitename":"Karkamish Mosque",
-    "description":"AP reports that in August 2016, Turkish troops crossed into Syria through the ancient city of Karkemish. While the Turkish side of the city remains safe, sporadic gunfire and shelling can be heard from the Syrian side of the city. The archeological materials of Karkemish on the Syrian side are extremely vulnerable to damage as they are just below ground surface. ",
-    "date1":"Date: ",
-    "date":"August 1, 2016 - September 7, 2016",
-    "date_start":"2016_08_01",
-    "date_end":"2016_09_07",
-    "chsl_id":"CHSLSYR0797"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 36.0295811,32.6228344 ]
     },
     "properties": {
@@ -11711,22 +11375,6 @@
     "date_start":"2011_03_15",
     "date_end":"2016_09_01",
     "chsl_id":"CHSLSYR0847"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 36.71564755,34.73660195 ]
-    },
-    "properties": {
-    "sitename":"Khalid ibn al-Walid Mosque",
-    "description":"New York Times reports that between March 15, 2011, and September 14, 2016, the Khalid ibn al-Walid Mosque was severely damaged. This site was an important pilgrimage site in Homs, a city in Syria.",
-    "date1":"Date: ",
-    "date":"March 15, 2011 - September 14, 2016",
-    "date_start":"2011_03_15",
-    "date_end":"2016_09_14",
-    "chsl_id":"CHSLSYR2308"
     }
   },
   {
@@ -12021,38 +11669,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.2699358,34.5532898 ]
-    },
-    "properties": {
-    "sitename":"Temple of Baal Shamin",
-    "description":"The Associated Press reported that on August 24, 2015, Islamic State militants blew up and destroyed part of the Temple of Baalshamin. The Temple of Baalshamin is an ancient temple located in modern-day Palmyra, Syria. ",
-    "date1":"Date: ",
-    "date":"August 24, 2015",
-    "date_start":"2015_08_24",
-    "date_end":"2015_08_24",
-    "chsl_id":"CHSLSYR0697"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 38.2709771,34.5498237 ]
-    },
-    "properties": {
-    "sitename":"Triumphal Arch of Palmyra",
-    "description":"Sputnik News Service reported that on October 5, 2015, Islamic State militants blew up the 2000 year old Monumental Arch of Palmyra, in Palmyra, Syria. The Monumental Arch of Palmyra, also called the Arch of Triumph, was erected during the period of Roman emporer Septimius Severus. ",
-    "date1":"Date: ",
-    "date":"October 5, 2015",
-    "date_start":"2015_10_05",
-    "date_end":"2015_10_05",
-    "chsl_id":"CHSLSYR1054"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 37.156322,36.198747 ]
     },
     "properties": {
@@ -12200,7 +11816,7 @@
        "coordinates":  [ 36.3975784,34.7299785 ]
     },
     "properties": {
-    "sitename":"Homs mosque",
+    "sitename":"Homs mosques",
     "description":"The Syrian Arab News Agency reported on May 25, 2014 that churches and monasteries in Homs were damaged from the conflict. The variety of churches and mosques represents Syria's religious diversity. The city is also close to the Crac des Chevaliers castle, a World Heritage Site.",
     "date1":"Date: ",
     "date":"March 15, 2011 - May 26, 2014",
@@ -12297,7 +11913,7 @@
     },
     "properties": {
     "sitename":"Eliahu Hanavi Synagogue",
-    "description":"The Jurusalem Post reported that between May 23 and 25, 2014, Syrian Army Forces completely destroyed the Eliyahu Hanabi Synagogue in in the Jobar neighborhood of Damascus. The synagogue was once a Jewish pilgrimage site and Syria's oldest Synangogue. It was situated atop a cave thought to have served the prophet Elijah in hiding.",
+    "description":"The Jerusalem Post reported that between May 23 and 25, 2014, Syrian Army Forces completely destroyed the Eliyahu Hanabi Synagogue in in the Jobar neighborhood of Damascus. The synagogue was once a Jewish pilgrimage site and Syria's oldest Synangogue. It was situated atop a cave thought to have served the prophet Elijah in hiding.",
     "date1":"Date: ",
     "date":"May 23, 2014 - May 25, 2014",
     "date_start":"2014_05_23",
@@ -13475,3 +13091,5 @@
   }
 ]
 }
+
+      
