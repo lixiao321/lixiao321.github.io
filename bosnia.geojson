@@ -261,7 +261,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 16.704645,43.34379338 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_04_06",
@@ -437,7 +437,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 16.704645,43.34379338 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_08_19",
@@ -453,7 +453,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 16.704645,43.34379338 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_04_06",
@@ -469,7 +469,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 16.704645,43.34379338 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_04_06",
@@ -3013,7 +3013,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.80750701,17.7313323 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1996_06_01",
@@ -4693,7 +4693,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.80750701,17.7313323 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_04_06",
@@ -4741,7 +4741,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.80750701,17.7313323 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_04_06",
@@ -4821,7 +4821,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.80750701,17.7313323 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_04_06",
@@ -5141,7 +5141,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.80750701,17.7313323 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"1992_04_06",
@@ -6565,7 +6565,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.80750701,17.7313323 ]
+       "coordinates":  [ 17.80750701,43.34379338 ]
     },
     "properties": {
     "datestart":"2011_12_14",
