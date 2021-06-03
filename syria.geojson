@@ -949,16 +949,16 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.6106669,35.1366085 ]
+       "coordinates":  [ 39.9982338,35.3350418 ]
     },
     "properties": {
     "sitename":"Deir Ezzor Mosque",
-    "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was graffitied multiple mosques in Dier Ezzor.  The graffiti reads \"there is no god but Bashar,\" referencing Syrian President Bashar Al-Assad.",
+    "description":"Reuters News reported that between August 1 and 16, 2011, the Syrian Military was graffitied multiple mosques in Deir Ezzor.  The graffiti reads \"there is no god but Bashar,\" referencing Syrian President Bashar Al-Assad.",
     "date1":"Date: ",
     "date":"August 1, 2011 - August 16, 2011",
     "date_start":"2011_08_01",
     "date_end":"2011_08_16",
-    "chsl_id":"CHSLSYR2348"
+    "chsl_id":"CHSLSYR2347"
     }
   },
   {
