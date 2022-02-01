@@ -1,0 +1,1085 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.44291377,-34.61439099 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Buenos Aires",
+    "Country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.31374376,-34.53388332 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Mendoza",
+    "Country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.216073,-26.81905479 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Tucuman",
+    "Country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.31138805,-54.80446849 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Ushuala",
+    "Country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.48038738,-26.79982562 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Misiones",
+    "Country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.42410804,-24.7904583 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Salta",
+    "Country":"Argentina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.07512398,9.929299253 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"San Jose",
+    "Country":"Costa Rica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.81986324,10.27403058 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Monteverde",
+    "Country":"Costa Rica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.011355738,34.0233739 ]
+    },
+    "properties": {
+    "Faulty name":"Lily Balloffet",
+    "Place":"Fez",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.23559085,30.07082553 ]
+    },
+    "properties": {
+    "Faulty name":"Elaine Sullivan",
+    "Place":"Cairo",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.89679736,29.52404736 ]
+    },
+    "properties": {
+    "Faulty name":"Elaine Sullivan",
+    "Place":"Kom Aushim",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.2164953,29.85100425 ]
+    },
+    "properties": {
+    "Faulty name":"Elaine Sullivan",
+    "Place":"Saqqara",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.63938194,25.68766647 ]
+    },
+    "properties": {
+    "Faulty name":"Elaine Sullivan",
+    "Place":"Luxor",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.739974056,47.36978896 ]
+    },
+    "properties": {
+    "Faulty name":"Sharon Kinoshita",
+    "Place":"Romorantin",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347587155,48.85787617 ]
+    },
+    "properties": {
+    "Faulty name":"Sharon Kinoshita",
+    "Place":"Paris",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.542226227,43.23699841 ]
+    },
+    "properties": {
+    "Faulty name":"Sharon Kinoshita",
+    "Place":"Cassis",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.431760978,43.88273334 ]
+    },
+    "properties": {
+    "Faulty name":"Sharon Kinoshita",
+    "Place":"Toulouse",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.167868996,41.3983564 ]
+    },
+    "properties": {
+    "Faulty name":"Sharon Kinoshita",
+    "Place":"Barcelona",
+    "Country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.705637596,40.42846207 ]
+    },
+    "properties": {
+    "Faulty name":"Sharon Kinoshita",
+    "Place":"Madrid",
+    "Country":"Spain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0768848,9.563117616 ]
+    },
+    "properties": {
+    "Faulty name":"Mark Fathi Massoud",
+    "Place":"Hargeisa",
+    "Country":"Somaliland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.57630496,16.52992508 ]
+    },
+    "properties": {
+    "Faulty name":"Mark Fathi Massoud",
+    "Place":"Khartoum",
+    "Country":"Sudan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.49866069,33.92424803 ]
+    },
+    "properties": {
+    "Faulty name":"Mark Fathi Massoud",
+    "Place":"Beirut",
+    "Country":"Lebanon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.23559085,30.07082553 ]
+    },
+    "properties": {
+    "Faulty name":"Mark Fathi Massoud",
+    "Place":"Cairo",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.66033944,32.74536132 ]
+    },
+    "properties": {
+    "Faulty name":"Mehran Esfandiari",
+    "Place":"Esfahan",
+    "Country":"Iran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.889044024,52.49491655 ]
+    },
+    "properties": {
+    "Faulty name":"Mehran Esfandiari",
+    "Place":"Birmingham",
+    "Country":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.15701714,52.95813845 ]
+    },
+    "properties": {
+    "Faulty name":"Mehran Esfandiari",
+    "Place":"Nottingham",
+    "Country":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.057928004,49.34473649 ]
+    },
+    "properties": {
+    "Faulty name":"Bryan Donaldson",
+    "Place":"Reims",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.187846751,48.05196793 ]
+    },
+    "properties": {
+    "Faulty name":"Bryan Donaldson",
+    "Place":"Le Mans",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.357151033,43.32239392 ]
+    },
+    "properties": {
+    "Faulty name":"Bryan Donaldson",
+    "Place":"Pau",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.850055324,33.97517815 ]
+    },
+    "properties": {
+    "Faulty name":"Peter Limbrick",
+    "Place":"Rabat ",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.832412115,35.76186101 ]
+    },
+    "properties": {
+    "Faulty name":"Peter Limbrick",
+    "Place":"Tangier",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347587155,48.85787617 ]
+    },
+    "properties": {
+    "Faulty name":"Peter Limbrick",
+    "Place":"Paris",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.355810678,43.31475544 ]
+    },
+    "properties": {
+    "Faulty name":"Peter Limbrick",
+    "Place":"Marseille",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.49866069,33.92424803 ]
+    },
+    "properties": {
+    "Faulty name":"Peter Limbrick",
+    "Place":"Beirut",
+    "Country":"Lebanon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.65149803,38.85856208 ]
+    },
+    "properties": {
+    "Faulty name":"Banu Bargu",
+    "Place":"Turkey",
+    "Country":"Turkey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347587155,48.85787617 ]
+    },
+    "properties": {
+    "Faulty name":"Thomas Serres",
+    "Place":"Paris",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.331440488,45.71841985 ]
+    },
+    "properties": {
+    "Faulty name":"Thomas Serres",
+    "Place":"Saint-Etienne",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.25728031,43.79093988 ]
+    },
+    "properties": {
+    "Faulty name":"Thomas Serres",
+    "Place":"Florence",
+    "Country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.050809144,36.72124318 ]
+    },
+    "properties": {
+    "Faulty name":"Thomas Serres",
+    "Place":"Algiers",
+    "Country":"Algeria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.17932427,36.81025682 ]
+    },
+    "properties": {
+    "Faulty name":"Thomas Serres",
+    "Place":"Tunis",
+    "Country":"Tunisia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.84422726,-33.88605111 ]
+    },
+    "properties": {
+    "Faulty name":"Dorian Bell",
+    "Place":"Stellenbosch",
+    "Country":" South Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347587155,48.85787617 ]
+    },
+    "properties": {
+    "Faulty name":"Dorian Bell",
+    "Place":"Paris",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.011355738,34.0233739 ]
+    },
+    "properties": {
+    "Faulty name":"Dorian Bell",
+    "Place":"Fez",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.17932427,36.81025682 ]
+    },
+    "properties": {
+    "Faulty name":"Dorian Bell",
+    "Place":"Tunis",
+    "Country":"Tunisia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.23559085,30.07082553 ]
+    },
+    "properties": {
+    "Faulty name":"Yasmeen Daifallah",
+    "Place":"Cairo",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.850055324,33.97517815 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Rabat ",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.59523456,33.57816252 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Casablanca",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.011355738,34.0233739 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Fez",
+    "Country":"Morocco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.23559085,30.07082553 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Cairo",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.17932427,36.81025682 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Tunis",
+    "Country":"Tunisia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12980586,31.76911297 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Jerusalem",
+    "Country":"Israel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.77012115,32.07275352 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Tel Aviv",
+    "Country":"Israel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.02381881,41.04315061 ]
+    },
+    "properties": {
+    "Faulty name":"Alma Rachel Heckman",
+    "Place":"Istanbul",
+    "Country":"Turkey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.37159897,25.53558431 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Sharjah",
+    "Country":"UAE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.67690337,-4.044774895 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Mombasa",
+    "Country":"Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.90072081,-2.269166872 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Lamu",
+    "Country":"Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.203204,-6.165613741 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Zanzibar",
+    "Country":"Tanzania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.88666872,19.08674018 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Mumbai",
+    "Country":"India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.60336061,22.31053669 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Jam Salaya",
+    "Country":"India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.35629631,22.83287042 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Mandvi",
+    "Country":"India"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.54474196,25.331892 ]
+    },
+    "properties": {
+    "Faulty name":"Nidhi Mahajan",
+    "Place":"Doha",
+    "Country":"Qatar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.84856284,31.04847165 ]
+    },
+    "properties": {
+    "Faulty name":"Nathaniel Deutsch",
+    "Place":"Israel",
+    "Country":"Israel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.37946325,31.45694455 ]
+    },
+    "properties": {
+    "Faulty name":"Nathaniel Deutsch",
+    "Place":"Palestine",
+    "Country":"Palestine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347587155,48.85787617 ]
+    },
+    "properties": {
+    "Faulty name":"Abdelkader Berrahmoun",
+    "Place":"Paris",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129757907,51.51574107 ]
+    },
+    "properties": {
+    "Faulty name":"T.J.Demos",
+    "Place":"London",
+    "Country":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.19444157,30.47812821 ]
+    },
+    "properties": {
+    "Faulty name":"Magy Seif El-Nasr",
+    "Place":"Egypt",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129757907,51.51574107 ]
+    },
+    "properties": {
+    "Faulty name":"Magy Seif El-Nasr",
+    "Place":"England",
+    "Country":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.08584555,4.70987585 ]
+    },
+    "properties": {
+    "Faulty name":"Camilo Gómez-Rivas",
+    "Place":"Bogotá",
+    "Country":"Colombia "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.29284949,33.51919196 ]
+    },
+    "properties": {
+    "Faulty name":"Camilo Gómez-Rivas",
+    "Place":"Damascus",
+    "Country":"Syria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4986169,33.89006834 ]
+    },
+    "properties": {
+    "Faulty name":"Camilo Gómez-Rivas",
+    "Place":"Beirut",
+    "Country":"Lebanon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.59190245,33.62498627 ]
+    },
+    "properties": {
+    "Faulty name":"Camilo Gómez-Rivas",
+    "Place":"Casablanca",
+    "Country":"Morocco "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.23559085,30.07082553 ]
+    },
+    "properties": {
+    "Faulty name":"Camilo Gómez-Rivas",
+    "Place":"Cairo",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.21399554,31.752281 ]
+    },
+    "properties": {
+    "Faulty name":"Jennifer Kelly",
+    "Place":"Beit Sahour",
+    "Country":" Palestine "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.73881227,38.02576377 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Athens",
+    "Country":"Greece"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.54894316,37.3186229 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Patmos",
+    "Country":"Greece"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.26487477,43.76311717 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Florence",
+    "Country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.35152654,38.11890206 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Palermo",
+    "Country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3710445,43.11178019 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Perugia",
+    "Country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.40339001,43.7221533 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Pisa",
+    "Country":"Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.02381881,41.04315061 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Istanbul",
+    "Country":"Turkey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.23559085,30.07082553 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Cairo",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12980586,31.76911297 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Jerusalem",
+    "Country":"Israel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347587155,48.85787617 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"Paris",
+    "Country":"France"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129757907,51.51574107 ]
+    },
+    "properties": {
+    "Faulty name":"Maria Evangelatou",
+    "Place":"London",
+    "Country":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.23559085,30.07082553 ]
+    },
+    "properties": {
+    "Faulty name":"Jennifer Derr",
+    "Place":"Cairo",
+    "Country":"Egypt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4986169,33.89006834 ]
+    },
+    "properties": {
+    "Faulty name":"Jennifer Derr",
+    "Place":"Lebanon",
+    "Country":"Lebanon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.29284949,33.51919196 ]
+    },
+    "properties": {
+    "Faulty name":"Jennifer Derr",
+    "Place":"Syria",
+    "Country":"Syria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12980586,31.76911297 ]
+    },
+    "properties": {
+    "Faulty name":"Jennifer Derr",
+    "Place":"Israel",
+    "Country":"Israel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.01293627,23.79469553 ]
+    },
+    "properties": {
+    "Faulty name":"Jennifer Derr",
+    "Place":"UAE",
+    "Country":"UAE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.14564379,25.25954567 ]
+    },
+    "properties": {
+    "Faulty name":"Jennifer Derr",
+    "Place":"Qatar",
+    "Country":"Qatar"
+    }
+  }
+]
+}
